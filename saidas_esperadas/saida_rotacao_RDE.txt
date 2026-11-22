@@ -1,0 +1,18 @@
+========== FESTIVAL RAÍZES · CHECK-IN ==========
+1) Carregar arquivo      2) Check-in
+3) Venda na portaria     4) Cancelamento
+5) Consulta por faixa    6) Painel
+7) Sair
+Opção: 1
+Arquivo: rotacao_RDE.txt
+  Carga concluída: 3 ingressos carregados, 0 linhas ignoradas.
+
+Opção: 6
+  Ingressos cadastrados: 3
+  Altura ABB: 3 | Altura AVL: 2
+  Raiz da AVL: 5020 (fb = 0)
+  Rotações: RSE = 0 | RSD = 0 | RDE = 1 | RDD = 0
+  Check-ins: 0 realizados | 3 restantes
+
+Opção: 7
+  Até o próximo festival!

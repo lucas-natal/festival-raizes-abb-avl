@@ -1,0 +1,38 @@
+PROJETO 2 · FESTIVAL RAÍZES: OPERAÇÃO CHECK-IN
+Exemplos de entrada e saída
+==============================================
+
+entradas/            arquivos de ingressos para testar o programa
+saidas_esperadas/    o que o programa deve mostrar com cada arquivo
+
+A formatação das mensagens é livre: o que precisa bater são as informações
+(avisos de linha, respostas do check-in, comparações, rotações, alturas,
+contadores). Nas saídas, o menu aparece só no início, para encurtar.
+
+Comparações = quantidade de nós visitados na busca, contando o nó encontrado
+(ou todos os nós visitados até chegar em null, se o código não existir).
+
+Arquivo de entrada            O que testa
+----------------------------  ------------------------------------------------
+ingressos_exemplo.txt         11 ingressos + 5 linhas com defeito (3 campos,
+                              código com a letra O no lugar do zero, linha
+                              vazia, código repetido, 5 campos). A sessão usa
+                              todas as opções do menu; o cancelamento do 3030
+                              (dois filhos, sobe o sucessor 3040) provoca
+                              duas rotações em cascata.
+rotacao_RSE.txt               3 ingressos que provocam exatamente uma RSE
+rotacao_RSD.txt               3 ingressos que provocam exatamente uma RSD
+rotacao_RDE.txt               3 ingressos que provocam exatamente uma RDE
+rotacao_RDD.txt               3 ingressos que provocam exatamente uma RDD
+remocao_cascata.txt           12 ingressos já balanceados (nenhuma rotação
+                              na carga); cancelar o 600 provoca RSE no 900
+                              e, em seguida, RSE no 1800 (a raiz muda)
+ingressos_aleatorio.txt       1000 ingressos fora de ordem: a ABB fica com
+                              altura 23 e a AVL com 12. Repare que, em alguns
+                              códigos, a ABB faz MENOS comparações que a AVL.
+                              Por quê?
+so_erros.txt                  nenhuma linha válida; opções 2 a 6 devem
+                              recusar enquanto não houver ingressos
+
+Os arquivos ingressos.txt e ingressos_teste.txt (código base) não têm saída
+esperada aqui: os resultados deles fazem parte do relatório.

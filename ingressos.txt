@@ -1,0 +1,5000 @@
+100001;Pedro Pereira;Pista;Sábado
+100002;Valentina Fernandes;Arquibancada;Domingo
+100003;Thiago Costa;Pista;Sexta
+100004;Fernanda Mendes;Pista Premium;Sábado
+100005;Olívia Lopes;Pista Premium;Domingo
+100006;Gustavo Dias;Arquibancada;Sexta
+100007;Isabela Mendes;Pista;Sexta
+100008;Renata Santos;Camarote;Sexta
+100009;Caio Santos;Pista;Domingo
+100010;Eduarda Melo;Pista Premium;Sexta
+100011;Olívia Nunes;Arquibancada;Domingo
+100012;Yasmin Dias;Camarote;Sábado
+100013;Olívia Rezende;Pista Premium;Sexta
+100014;Igor Nascimento;Arquibancada;Sexta
+100015;Daniela Barbosa;Arquibancada;Sábado
+100016;Ulisses Freitas;Pista;Sábado
+100017;Rafael Costa;Arquibancada;Sexta
+100018;Rafael Rocha;Pista Premium;Sexta
+100019;Thiago Cardoso;Pista;Sexta
+100020;Yasmin Mendes;Arquibancada;Domingo
+100021;Samuel Pinto;Pista;Sábado
+100022;Vitor Rezende;Pista Premium;Sábado
+100023;Larissa Moreira;Pista;Domingo
+100024;Ulisses Lopes;Pista;Sábado
+100025;Ana Barbosa;Pista Premium;Sexta
+100026;Lucas Campos;Pista;Sábado
+100027;Diego Campos;Pista;Sábado
+100028;Sofia Cardoso;Arquibancada;Sexta
+100029;Leonardo Silva;Arquibancada;Domingo
+100030;Isabela Oliveira;Arquibancada;Domingo
+100031;Ulisses Mendes;Pista Premium;Sexta
+100032;Natália Martins;Pista;Domingo
+100033;Henrique Rezende;Pista;Sexta
+100034;Renata Melo;Pista Premium;Sábado
+100035;Diego Fernandes;Pista Premium;Sexta
+100036;Vitor Mendes;Pista;Domingo
+100037;Gustavo Ribeiro;Pista;Domingo
+100038;Felipe Santos;Camarote;Sexta
+100039;Paula Santos;Pista;Domingo
+100040;Larissa Lopes;Pista;Sexta
+100041;Nicolas Silva;Pista Premium;Sábado
+100042;Paula Santos;Pista Premium;Domingo
+100043;Júlia Cardoso;Arquibancada;Sexta
+100044;Paula Ribeiro;Pista Premium;Sexta
+100045;Enzo Souza;Pista;Domingo
+100046;Tatiana Silva;Arquibancada;Sábado
+100047;Diego Pinto;Pista Premium;Domingo
+100048;Larissa Rezende;Arquibancada;Sexta
+100049;Leonardo Moreira;Pista Premium;Sexta
+100050;Otávio Melo;Pista Premium;Sábado
+100051;Júlia Silva;Pista;Domingo
+100052;Gabriela Rocha;Pista;Sexta
+100053;Tatiana Pinto;Arquibancada;Sexta
+100054;Júlia Ramos;Arquibancada;Domingo
+100055;Isabela Santos;Arquibancada;Sábado
+100056;Júlia Almeida;Pista;Sábado
+100057;Marcos Almeida;Arquibancada;Sábado
+100058;Caio Gomes;Pista;Sábado
+100059;Gabriela Rocha;Camarote;Domingo
+100060;Ana Almeida;Pista;Sábado
+100061;Vitor Souza;Pista;Sexta
+100062;Bruno Ramos;Arquibancada;Sexta
+100063;Bruno Nunes;Pista Premium;Sexta
+100064;Igor Barbosa;Arquibancada;Sexta
+100065;Natália Santos;Pista;Sábado
+100066;Daniela Nascimento;Arquibancada;Domingo
+100067;Helena Oliveira;Pista;Domingo
+100068;Caio Cardoso;Pista;Domingo
+100069;Valentina Moreira;Pista Premium;Sexta
+100070;Caio Dias;Arquibancada;Sexta
+100071;Nicolas Mendes;Pista;Sábado
+100072;Henrique Martins;Pista;Sexta
+100073;Helena Melo;Camarote;Sexta
+100074;Mariana Nascimento;Pista;Sexta
+100075;Olívia Lopes;Arquibancada;Sexta
+100076;Valentina Cardoso;Pista Premium;Sábado
+100077;Pedro Pinto;Pista Premium;Domingo
+100078;Yasmin Freitas;Pista;Domingo
+100079;Samuel Dias;Pista;Domingo
+100080;Renata Rezende;Pista Premium;Sábado
+100081;Valentina Rezende;Pista Premium;Sexta
+100082;Leonardo Lima;Pista;Domingo
+100083;João Freitas;Pista;Sábado
+100084;Samuel Moreira;Arquibancada;Sábado
+100085;Olívia Lopes;Pista;Sábado
+100086;Rafael Ribeiro;Pista;Domingo
+100087;Natália Nascimento;Pista;Domingo
+100088;Henrique Moreira;Arquibancada;Sexta
+100089;Igor Cardoso;Arquibancada;Sábado
+100090;Rafael Fernandes;Pista;Sábado
+100091;Eduarda Melo;Pista Premium;Sábado
+100092;Beatriz Dias;Pista;Domingo
+100093;Thiago Melo;Pista Premium;Sábado
+100094;Tatiana Rocha;Camarote;Sexta
+100095;Igor Costa;Camarote;Domingo
+100096;Sofia Lima;Pista;Sexta
+100097;Renata Nunes;Pista Premium;Domingo
+100098;Igor Oliveira;Pista;Sexta
+100099;Vitor Oliveira;Camarote;Sexta
+100100;Beatriz Almeida;Pista;Domingo
+100101;Ulisses Barbosa;Pista Premium;Domingo
+100102;Nicolas Oliveira;Pista Premium;Domingo
+100103;Sofia Araújo;Pista;Sábado
+100104;Larissa Freitas;Pista Premium;Sexta
+100105;Natália Gomes;Pista Premium;Domingo
+100106;Natália Lima;Camarote;Sábado
+100107;Eduarda Ramos;Camarote;Sexta
+100108;Daniela Campos;Arquibancada;Sexta
+100109;Ulisses Ribeiro;Arquibancada;Domingo
+100110;Felipe Dias;Pista;Sábado
+100111;Gustavo Lima;Camarote;Sábado
+100112;Fernanda Ribeiro;Pista Premium;Domingo
+100113;Rafael Moreira;Pista Premium;Sexta
+100114;Marcos Ribeiro;Pista;Sábado
+100115;Gabriela Pereira;Camarote;Sábado
+100116;Gabriela Fernandes;Arquibancada;Sexta
+100117;Sofia Ribeiro;Pista;Sexta
+100118;Larissa Martins;Pista;Sexta
+100119;Henrique Melo;Arquibancada;Sexta
+100120;Felipe Pinto;Pista;Domingo
+100121;Sofia Santos;Pista;Domingo
+100122;Fernanda Rocha;Pista;Domingo
+100123;Carla Freitas;Camarote;Sexta
+100124;Renata Melo;Arquibancada;Domingo
+100125;Eduarda Araújo;Pista;Sábado
+100126;Valentina Souza;Pista Premium;Sábado
+100127;Otávio Freitas;Arquibancada;Sexta
+100128;Carla Nascimento;Pista Premium;Sábado
+100129;Júlia Moreira;Arquibancada;Sábado
+100130;Paula Almeida;Arquibancada;Sexta
+100131;Daniela Rocha;Pista;Sábado
+100132;Henrique Souza;Arquibancada;Sexta
+100133;Carla Araújo;Pista Premium;Sexta
+100134;Lucas Dias;Camarote;Sexta
+100135;Samuel Lopes;Arquibancada;Sexta
+100136;Thiago Almeida;Arquibancada;Sexta
+100137;Gabriela Dias;Arquibancada;Sexta
+100138;Vitor Lopes;Camarote;Sábado
+100139;Vitor Souza;Pista Premium;Domingo
+100140;Bruno Pereira;Pista;Sábado
+100141;Ana Teixeira;Arquibancada;Sexta
+100142;Beatriz Santos;Pista Premium;Domingo
+100143;Lucas Rezende;Pista;Sábado
+100144;Felipe Santos;Camarote;Sábado
+100145;Vitor Souza;Pista;Domingo
+100146;Ulisses Mendes;Camarote;Sexta
+100147;Eduarda Vieira;Pista Premium;Domingo
+100148;Carla Nunes;Pista;Domingo
+100149;Natália Nunes;Pista;Domingo
+100150;Helena Lopes;Pista;Sexta
+100151;Fernanda Lopes;Pista;Sábado
+100152;Olívia Pereira;Pista Premium;Domingo
+100153;Sofia Silva;Pista;Domingo
+100154;Olívia Campos;Pista Premium;Domingo
+100155;Isabela Freitas;Pista;Sábado
+100156;Paula Vieira;Pista Premium;Sábado
+100157;Beatriz Lopes;Pista;Domingo
+100158;Gabriela Mendes;Pista;Domingo
+100159;Lucas Gomes;Arquibancada;Sábado
+100160;Enzo Mendes;Pista Premium;Domingo
+100161;Diego Gomes;Pista;Sexta
+100162;Ana Martins;Pista;Sábado
+100163;Enzo Mendes;Pista Premium;Sábado
+100164;Carla Santos;Arquibancada;Domingo
+100165;Ana Almeida;Camarote;Domingo
+100166;Beatriz Araújo;Arquibancada;Sábado
+100167;Marcos Lopes;Pista Premium;Domingo
+100168;Yasmin Vieira;Pista Premium;Domingo
+100169;Rafael Mendes;Pista;Domingo
+100170;Júlia Rezende;Arquibancada;Sexta
+100171;Isabela Almeida;Pista;Sábado
+100172;Olívia Dias;Arquibancada;Domingo
+100173;Ana Pinto;Pista;Sexta
+100174;Fernanda Oliveira;Camarote;Domingo
+100175;Gustavo Costa;Pista;Sexta
+100176;Natália Dias;Pista;Domingo
+100177;Lucas Moreira;Pista;Sábado
+100178;Paula Pereira;Pista Premium;Sábado
+100179;Júlia Ribeiro;Pista;Sexta
+100180;Gabriela Lima;Arquibancada;Sexta
+100181;Vitor Costa;Pista;Domingo
+100182;Ulisses Martins;Pista Premium;Sábado
+100183;Sofia Rocha;Pista Premium;Sexta
+100184;Júlia Lopes;Pista;Domingo
+100185;Larissa Rocha;Pista;Sexta
+100186;Gabriela Barbosa;Pista Premium;Sexta
+100187;Carla Gomes;Pista Premium;Sábado
+100188;Paula Gomes;Arquibancada;Sexta
+100189;Larissa Nunes;Arquibancada;Domingo
+100190;Leonardo Almeida;Arquibancada;Sexta
+100191;Lucas Pereira;Pista Premium;Sábado
+100192;Pedro Santos;Arquibancada;Domingo
+100193;Diego Almeida;Pista;Sexta
+100194;Leonardo Fernandes;Pista;Domingo
+100195;Fernanda Teixeira;Pista;Sexta
+100196;Valentina Fernandes;Pista Premium;Domingo
+100197;Larissa Rezende;Pista Premium;Sábado
+100198;Nicolas Lima;Arquibancada;Sábado
+100199;Valentina Teixeira;Camarote;Domingo
+100200;Helena Gomes;Pista;Domingo
+100201;Yasmin Pereira;Pista;Sábado
+100202;Renata Melo;Camarote;Sexta
+100203;Pedro Campos;Pista Premium;Sexta
+100204;Beatriz Barbosa;Pista;Domingo
+100205;Vitor Lopes;Pista;Sexta
+100206;Enzo Silva;Pista;Domingo
+100207;Otávio Rezende;Pista;Sábado
+100208;Larissa Ribeiro;Arquibancada;Sábado
+100209;Beatriz Rezende;Pista;Sábado
+100210;Mariana Gomes;Arquibancada;Sexta
+100211;Helena Almeida;Pista;Domingo
+100212;Natália Freitas;Arquibancada;Domingo
+100213;Eduarda Pereira;Arquibancada;Sexta
+100214;Mariana Martins;Arquibancada;Sábado
+100215;Renata Fernandes;Pista Premium;Sábado
+100216;João Vieira;Pista Premium;Sábado
+100217;Thiago Cardoso;Arquibancada;Sábado
+100218;Júlia Oliveira;Camarote;Sexta
+100219;Pedro Freitas;Pista;Sábado
+100220;Caio Almeida;Pista;Domingo
+100221;Diego Ribeiro;Pista;Sexta
+100222;Leonardo Lopes;Camarote;Domingo
+100223;Enzo Rezende;Pista;Domingo
+100224;Enzo Araújo;Pista;Domingo
+100225;Paula Barbosa;Pista;Sexta
+100226;Nicolas Cardoso;Pista Premium;Sexta
+100227;Gustavo Teixeira;Pista Premium;Domingo
+100228;Paula Freitas;Arquibancada;Domingo
+100229;Sofia Martins;Arquibancada;Sábado
+100230;Tatiana Rezende;Arquibancada;Sexta
+100231;Ana Martins;Camarote;Sábado
+100232;Ana Araújo;Arquibancada;Domingo
+100233;Paula Santos;Pista;Domingo
+100234;Júlia Barbosa;Pista Premium;Sexta
+100235;Leonardo Freitas;Arquibancada;Sábado
+100236;Carla Gomes;Pista;Domingo
+100237;Sofia Santos;Pista;Domingo
+100238;Ana Nascimento;Pista Premium;Sexta
+100239;Sofia Freitas;Camarote;Domingo
+100240;Tatiana Martins;Camarote;Domingo
+100241;Olívia Santos;Pista Premium;Domingo
+100242;Ulisses Gomes;Arquibancada;Sexta
+100243;Vitor Barbosa;Arquibancada;Domingo
+100244;Larissa Ramos;Arquibancada;Domingo
+100245;Vitor Costa;Pista;Sexta
+100246;Diego Gomes;Pista;Sexta
+100247;Enzo Rocha;Pista;Sábado
+100248;Ana Cardoso;Pista Premium;Domingo
+100249;Júlia Silva;Camarote;Sexta
+100250;Gabriela Teixeira;Pista Premium;Sábado
+100251;Gustavo Araújo;Arquibancada;Sexta
+100252;Pedro Pereira;Arquibancada;Sexta
+100253;Leonardo Rezende;Pista;Sexta
+100254;Bruno Martins;Pista Premium;Domingo
+100255;Natália Fernandes;Camarote;Domingo
+100256;Yasmin Gomes;Pista Premium;Domingo
+100257;Henrique Mendes;Pista;Domingo
+100258;Otávio Gomes;Pista;Sexta
+100259;Enzo Santos;Camarote;Sexta
+100260;Olívia Melo;Pista;Sexta
+100261;Mariana Pinto;Pista;Domingo
+100262;Samuel Pereira;Pista Premium;Sábado
+100263;Ulisses Gomes;Arquibancada;Domingo
+100264;Rafael Lima;Pista;Sábado
+100265;Fernanda Melo;Pista;Sexta
+100266;Yasmin Oliveira;Camarote;Domingo
+100267;Caio Lima;Pista;Sexta
+100268;Natália Moreira;Arquibancada;Sábado
+100269;Valentina Ramos;Pista Premium;Sábado
+100270;Pedro Oliveira;Pista;Domingo
+100271;Larissa Gomes;Pista;Domingo
+100272;Sofia Silva;Arquibancada;Sábado
+100273;Daniela Lima;Pista;Sábado
+100274;Samuel Lopes;Arquibancada;Sexta
+100275;Rafael Fernandes;Pista;Domingo
+100276;Otávio Nunes;Pista;Sexta
+100277;Pedro Pereira;Pista Premium;Domingo
+100278;Diego Lima;Pista;Domingo
+100279;João Nascimento;Pista;Sexta
+100280;Otávio Nascimento;Pista Premium;Domingo
+100281;Felipe Rezende;Pista;Sábado
+100282;Felipe Pereira;Pista Premium;Sábado
+100283;Rafael Gomes;Pista Premium;Sexta
+100284;Mariana Pereira;Pista;Sexta
+100285;Larissa Mendes;Pista Premium;Domingo
+100286;Diego Rezende;Pista;Domingo
+100287;Eduarda Moreira;Arquibancada;Sábado
+100288;Larissa Silva;Arquibancada;Sábado
+100289;Daniela Martins;Pista;Sexta
+100290;Igor Ribeiro;Arquibancada;Domingo
+100291;Marcos Almeida;Camarote;Sábado
+100292;Paula Dias;Arquibancada;Sexta
+100293;Larissa Teixeira;Arquibancada;Sexta
+100294;Igor Ribeiro;Arquibancada;Sexta
+100295;Diego Moreira;Pista;Sexta
+100296;Bruno Almeida;Camarote;Sexta
+100297;Ulisses Dias;Arquibancada;Sexta
+100298;Caio Teixeira;Pista;Sábado
+100299;Renata Campos;Pista;Sexta
+100300;Mariana Souza;Pista;Sexta
+100301;João Nunes;Pista Premium;Sexta
+100302;Olívia Barbosa;Camarote;Sábado
+100303;Paula Mendes;Pista Premium;Sexta
+100304;Thiago Nunes;Arquibancada;Sábado
+100305;Samuel Vieira;Camarote;Sexta
+100306;Samuel Araújo;Pista;Sexta
+100307;Júlia Dias;Pista;Sábado
+100308;Lucas Ribeiro;Pista Premium;Sexta
+100309;Gabriela Teixeira;Pista Premium;Sexta
+100310;Leonardo Vieira;Pista;Sábado
+100311;Henrique Vieira;Pista;Sexta
+100312;Larissa Rezende;Arquibancada;Sexta
+100313;Helena Fernandes;Pista;Sexta
+100314;Larissa Nascimento;Pista Premium;Sexta
+100315;Vitor Oliveira;Camarote;Domingo
+100316;Sofia Barbosa;Camarote;Sábado
+100317;Tatiana Ribeiro;Pista;Domingo
+100318;Marcos Rocha;Pista;Domingo
+100319;Felipe Lopes;Pista;Domingo
+100320;Tatiana Rocha;Pista;Sábado
+100321;Nicolas Pereira;Pista Premium;Sexta
+100322;Diego Lima;Arquibancada;Sexta
+100323;Mariana Martins;Pista;Sexta
+100324;Valentina Santos;Arquibancada;Sábado
+100325;Marcos Pinto;Camarote;Sábado
+100326;Diego Costa;Arquibancada;Sábado
+100327;Otávio Campos;Pista;Domingo
+100328;Pedro Pereira;Pista;Sábado
+100329;Ana Nascimento;Pista Premium;Sábado
+100330;Renata Freitas;Pista;Sábado
+100331;Igor Oliveira;Arquibancada;Sábado
+100332;Henrique Fernandes;Pista;Domingo
+100333;Olívia Lima;Pista;Sábado
+100334;Olívia Moreira;Pista;Sexta
+100335;Beatriz Pinto;Pista;Sexta
+100336;Caio Fernandes;Camarote;Sexta
+100337;Caio Rocha;Pista;Sábado
+100338;Yasmin Vieira;Pista;Domingo
+100339;Otávio Oliveira;Arquibancada;Domingo
+100340;Gabriela Mendes;Pista Premium;Sexta
+100341;Nicolas Ramos;Arquibancada;Sábado
+100342;Gustavo Rezende;Arquibancada;Sexta
+100343;Fernanda Melo;Arquibancada;Sábado
+100344;Diego Rezende;Pista;Sexta
+100345;Otávio Teixeira;Camarote;Domingo
+100346;Tatiana Lopes;Pista;Sexta
+100347;Helena Pereira;Pista Premium;Sábado
+100348;Renata Gomes;Pista;Sábado
+100349;Paula Pereira;Pista;Domingo
+100350;Paula Souza;Arquibancada;Domingo
+100351;Helena Dias;Camarote;Sábado
+100352;Natália Fernandes;Camarote;Sábado
+100353;Natália Barbosa;Arquibancada;Domingo
+100354;Daniela Vieira;Pista;Sábado
+100355;Valentina Pinto;Arquibancada;Sábado
+100356;Otávio Pinto;Arquibancada;Domingo
+100357;Carla Fernandes;Arquibancada;Sábado
+100358;Júlia Freitas;Pista;Sexta
+100359;Paula Rocha;Pista Premium;Sábado
+100360;Igor Rezende;Pista;Sexta
+100361;Thiago Mendes;Camarote;Sábado
+100362;Vitor Freitas;Pista;Sábado
+100363;Isabela Melo;Pista;Domingo
+100364;Daniela Nunes;Pista;Sexta
+100365;Yasmin Martins;Arquibancada;Domingo
+100366;Lucas Melo;Camarote;Domingo
+100367;Natália Rocha;Pista Premium;Sábado
+100368;Bruno Teixeira;Pista;Sexta
+100369;Beatriz Costa;Pista;Domingo
+100370;Isabela Ramos;Pista;Sexta
+100371;Júlia Nascimento;Pista;Domingo
+100372;Mariana Ribeiro;Arquibancada;Sexta
+100373;Eduarda Fernandes;Pista;Sexta
+100374;Felipe Lopes;Pista Premium;Sábado
+100375;Lucas Cardoso;Arquibancada;Sábado
+100376;Sofia Ramos;Pista;Domingo
+100377;Yasmin Santos;Pista;Sábado
+100378;Mariana Costa;Camarote;Sábado
+100379;Vitor Pereira;Pista Premium;Sábado
+100380;Beatriz Costa;Pista;Domingo
+100381;Valentina Rezende;Arquibancada;Domingo
+100382;Ana Dias;Arquibancada;Sábado
+100383;Renata Almeida;Pista Premium;Sábado
+100384;Ana Vieira;Pista;Domingo
+100385;Paula Lima;Pista Premium;Domingo
+100386;Sofia Vieira;Arquibancada;Sábado
+100387;Ulisses Freitas;Arquibancada;Sexta
+100388;Mariana Pereira;Pista Premium;Sábado
+100389;Gustavo Fernandes;Pista;Sexta
+100390;Renata Barbosa;Pista Premium;Sábado
+100391;Yasmin Araújo;Pista;Sábado
+100392;Júlia Vieira;Pista;Sábado
+100393;Sofia Pinto;Pista Premium;Sexta
+100394;Igor Cardoso;Pista;Sábado
+100395;Renata Lima;Pista;Sábado
+100396;Yasmin Rocha;Pista Premium;Domingo
+100397;Leonardo Melo;Pista;Domingo
+100398;Pedro Lima;Pista Premium;Sexta
+100399;Nicolas Lopes;Pista;Domingo
+100400;Henrique Oliveira;Pista;Sábado
+100401;Júlia Silva;Pista;Sexta
+100402;Paula Teixeira;Pista;Sexta
+100403;Helena Ribeiro;Pista Premium;Domingo
+100404;Carla Ribeiro;Arquibancada;Sábado
+100405;Mariana Campos;Pista;Sábado
+100406;Rafael Vieira;Pista;Sexta
+100407;Igor Dias;Camarote;Domingo
+100408;Enzo Nascimento;Pista Premium;Domingo
+100409;Leonardo Freitas;Pista Premium;Sábado
+100410;Diego Barbosa;Camarote;Domingo
+100411;Júlia Almeida;Pista;Sexta
+100412;Paula Costa;Pista;Sexta
+100413;Bruno Costa;Pista;Domingo
+100414;Mariana Pinto;Pista Premium;Sexta
+100415;Fernanda Lopes;Pista;Sábado
+100416;Larissa Melo;Pista;Domingo
+100417;Carla Cardoso;Arquibancada;Domingo
+100418;Otávio Mendes;Pista;Sexta
+100419;Larissa Cardoso;Arquibancada;Sexta
+100420;Natália Pereira;Pista Premium;Sábado
+100421;Caio Freitas;Pista;Sexta
+100422;Carla Pereira;Arquibancada;Domingo
+100423;Leonardo Teixeira;Pista;Domingo
+100424;Ulisses Nascimento;Arquibancada;Sábado
+100425;Paula Teixeira;Pista;Sexta
+100426;Mariana Oliveira;Pista;Sábado
+100427;Pedro Araújo;Arquibancada;Domingo
+100428;Otávio Oliveira;Pista;Sábado
+100429;Isabela Dias;Pista Premium;Sexta
+100430;Gabriela Teixeira;Arquibancada;Sábado
+100431;Valentina Vieira;Arquibancada;Sexta
+100432;Carla Ribeiro;Arquibancada;Sábado
+100433;Eduarda Fernandes;Pista;Sábado
+100434;Lucas Oliveira;Pista;Domingo
+100435;Henrique Freitas;Arquibancada;Sexta
+100436;Tatiana Teixeira;Arquibancada;Sexta
+100437;Tatiana Costa;Pista;Sexta
+100438;Lucas Araújo;Pista;Sábado
+100439;Yasmin Ribeiro;Camarote;Sexta
+100440;Leonardo Cardoso;Pista Premium;Sexta
+100441;Lucas Lima;Pista;Domingo
+100442;Renata Melo;Arquibancada;Sábado
+100443;Igor Vieira;Arquibancada;Sexta
+100444;Samuel Rezende;Pista;Sábado
+100445;Tatiana Almeida;Pista;Sábado
+100446;Nicolas Campos;Pista;Sexta
+100447;Paula Silva;Arquibancada;Sexta
+100448;Gabriela Nascimento;Arquibancada;Domingo
+100449;Olívia Lopes;Arquibancada;Domingo
+100450;Fernanda Gomes;Pista;Sexta
+100451;Lucas Moreira;Pista Premium;Sábado
+100452;Marcos Pereira;Pista Premium;Sábado
+100453;Bruno Rocha;Pista Premium;Sexta
+100454;Ulisses Rezende;Pista;Sábado
+100455;Daniela Rocha;Pista;Domingo
+100456;Isabela Ribeiro;Pista;Domingo
+100457;Helena Melo;Camarote;Sexta
+100458;Paula Ramos;Pista
+100459;João Pinto;Pista Premium;Sexta
+100460;Isabela Pinto;Arquibancada;Sexta
+100461;Olívia Teixeira;Pista;Sábado
+100462;Bruno Nascimento;Pista Premium;Domingo
+100463;Vitor Campos;Pista Premium;Sábado
+100464;Olívia Souza;Pista Premium;Domingo
+100465;Marcos Teixeira;Arquibancada;Sexta
+100466;Ana Rezende;Pista;Sábado
+100467;Marcos Ribeiro;Pista Premium;Domingo
+100468;Daniela Mendes;Pista Premium;Sexta
+100469;Carla Dias;Arquibancada;Sexta
+100470;Thiago Rocha;Camarote;Sexta
+100471;Marcos Freitas;Arquibancada;Domingo
+100472;Felipe Oliveira;Pista Premium;Domingo
+100473;Marcos Nascimento;Arquibancada;Sábado
+100474;Diego Lopes;Pista Premium;Domingo
+100475;Sofia Rezende;Pista;Sábado
+100476;Carla Mendes;Camarote;Sexta
+100477;Enzo Teixeira;Arquibancada;Sábado
+100478;Otávio Mendes;Pista;Sexta
+100479;Beatriz Vieira;Pista;Domingo
+100480;Larissa Vieira;Pista Premium;Sexta
+100481;Rafael Rocha;Camarote;Sábado
+100482;Eduarda Moreira;Pista;Domingo
+100483;Pedro Nascimento;Pista;Sábado
+100484;Paula Souza;Pista Premium;Domingo
+100485;Nicolas Oliveira;Arquibancada;Sábado
+100486;Pedro Melo;Arquibancada;Sexta
+100487;Gabriela Souza;Pista;Domingo
+100488;Rafael Pereira;Pista;Sexta
+100489;Eduarda Moreira;Arquibancada;Sexta
+100490;João Pereira;Pista;Sábado
+100491;Diego Campos;Arquibancada;Domingo
+100492;Otávio Nascimento;Pista;Sexta
+100493;Thiago Freitas;Pista;Sexta
+100494;Ana Moreira;Pista;Sexta
+100495;Nicolas Rocha;Pista;Sexta
+100496;Yasmin Nascimento;Arquibancada;Domingo
+100497;Helena Oliveira;Pista;Sexta
+100498;Samuel Melo;Pista;Domingo
+100499;Natália Araújo;Arquibancada;Domingo
+100500;Ulisses Souza;Pista;Domingo
+100501;Lucas Ribeiro;Pista;Domingo
+100502;Leonardo Barbosa;Pista;Domingo
+100503;Ana Araújo;Pista;Domingo
+100504;Vitor Pereira;Pista;Sábado
+100505;Yasmin Rocha;Pista Premium;Sexta
+100506;Daniela Nunes;Pista;Domingo
+100507;Renata Souza;Pista;Domingo
+100508;Olívia Oliveira;Arquibancada;Sexta
+100509;Samuel Campos;Pista;Sexta
+100510;Nicolas Cardoso;Camarote;Sábado
+100511;Daniela Nunes;Camarote;Sábado
+100512;Yasmin Araújo;Pista;Sexta
+100513;Tatiana Nunes;Arquibancada;Domingo
+100514;Eduarda Silva;Pista;Sábado
+100515;Carla Fernandes;Pista;Domingo
+100516;Felipe Fernandes;Arquibancada;Domingo
+100517;Henrique Dias;Arquibancada;Domingo
+100518;Paula Lopes;Pista;Domingo
+100519;Gabriela Nascimento;Pista Premium;Domingo
+100520;Valentina Teixeira;Pista Premium;Sábado
+100521;Isabela Rocha;Arquibancada;Sexta
+100522;Vitor Barbosa;Arquibancada;Sexta
+100523;Carla Cardoso;Pista Premium;Sábado
+100524;Igor Gomes;Arquibancada;Sábado
+100525;Carla Silva;Camarote;Sábado
+100526;Ulisses Fernandes;Pista;Domingo
+100527;Rafael Araújo;Pista;Sábado
+100528;João Fernandes;Pista Premium;Domingo
+100529;Otávio Nunes;Pista;Domingo
+100530;Helena Gomes;Pista Premium;Sexta
+100531;Lucas Santos;Pista;Sexta
+100532;Bruno Araújo;Arquibancada;Sábado
+100533;Júlia Araújo;Arquibancada;Sexta
+100534;Ana Nunes;Pista;Sexta
+100535;Renata Vieira;Pista;Sexta
+100536;Bruno Lopes;Pista;Domingo
+100537;Rafael Campos;Pista;Sexta
+100538;Diego Moreira;Pista;Sexta
+100539;Henrique Araújo;Pista;Sábado
+100540;Rafael Lima;Arquibancada;Sexta
+100541;Larissa Campos;Pista;Domingo
+100542;Nicolas Silva;Pista;Sábado
+100543;Paula Fernandes;Camarote;Sábado
+100544;Mariana Ribeiro;Pista;Sábado
+100545;Nicolas Lima;Pista;Sexta
+100546;Júlia Cardoso;Arquibancada;Sexta
+100547;Júlia Araújo;Arquibancada;Domingo
+100548;Fernanda Lopes;Pista;Sexta
+100549;Valentina Rezende;Pista;Sábado
+100550;Beatriz Teixeira;Arquibancada;Sábado
+100551;Mariana Silva;Arquibancada;Domingo
+100552;Henrique Teixeira;Pista Premium;Sexta
+100553;Lucas Pereira;Pista;Sábado
+100554;Marcos Cardoso;Pista Premium;Sexta
+100555;Fernanda Dias;Arquibancada;Domingo
+100556;Isabela Barbosa;Arquibancada;Domingo
+100557;Renata Pinto;Pista;Sábado
+100558;Fernanda Ribeiro;Camarote;Sábado
+100559;Renata Oliveira;Arquibancada;Sexta
+100560;Olívia Lopes;Pista;Sexta
+100561;Lucas Barbosa;Pista;Domingo
+100562;Sofia Oliveira;Camarote;Sábado
+100563;Felipe Mendes;Camarote;Sábado
+100564;Marcos Araújo;Pista;Domingo
+100565;Gustavo Fernandes;Pista;Sexta
+100566;Renata Vieira;Arquibancada;Sábado
+100567;Samuel Pereira;Pista;Sexta
+100568;Caio Fernandes;Arquibancada;Sexta
+100569;Carla Gomes;Pista;Sábado
+100570;Vitor Campos;Pista Premium;Sexta
+100571;Diego Rezende;Pista;Sábado
+100572;Sofia Campos;Pista;Sexta
+100573;Otávio Campos;Pista Premium;Sábado
+100574;Nicolas Nascimento;Pista;Sexta
+100575;Yasmin Mendes;Pista;Domingo
+100576;Beatriz Melo;Pista Premium;Domingo
+100577;Valentina Araújo;Camarote;Sexta
+100578;Marcos Teixeira;Arquibancada;Sexta
+100579;Enzo Cardoso;Pista Premium;Domingo
+100580;Valentina Almeida;Pista;Sexta
+100581;Marcos Campos;Pista;Domingo
+100582;Caio Silva;Pista;Sexta
+100583;Mariana Barbosa;Arquibancada;Sexta
+100584;Natália Pinto;Pista;Domingo
+100585;Gabriela Almeida;Arquibancada;Sexta
+100586;Marcos Silva;Arquibancada;Sexta
+100587;Júlia Teixeira;Arquibancada;Domingo
+100588;Marcos Barbosa;Camarote;Domingo
+100589;Eduarda Ribeiro;Pista;Sexta
+100590;Daniela Oliveira;Pista;Sexta
+100591;Henrique Campos;Pista;Sexta
+100592;Vitor Ribeiro;Arquibancada;Domingo
+100593;Natália Oliveira;Pista;Sexta
+100594;Marcos Teixeira;Camarote;Domingo
+100595;Marcos Nunes;Pista;Sexta
+100596;Renata Oliveira;Arquibancada;Domingo
+100597;Beatriz Rezende;Pista;Domingo
+100598;Diego Rezende;Arquibancada;Sábado
+100599;Marcos Ramos;Arquibancada;Sexta
+100600;Yasmin Cardoso;Pista Premium;Domingo
+100601;Fernanda Freitas;Pista;Sexta
+100602;Renata Moreira;Pista;Sexta
+100603;Valentina Mendes;Arquibancada;Domingo
+100604;Marcos Lima;Pista;Sábado
+100605;Henrique Barbosa;Pista;Sexta
+100606;Felipe Barbosa;Pista;Sexta
+100607;Fernanda Freitas;Pista;Sexta
+100608;Carla Ramos;Camarote;Sexta
+100609;Vitor Nascimento;Pista Premium;Domingo
+100610;Felipe Nunes;Pista;Sábado
+100611;Otávio Oliveira;Pista;Sábado
+100612;Enzo Lima;Pista;Sexta
+100613;Igor Lopes;Pista;Domingo
+100614;Pedro Martins;Arquibancada;Sexta
+100615;Renata Dias;Arquibancada;Sábado
+100616;Vitor Rocha;Pista Premium;Domingo
+100617;Ulisses Pereira;Arquibancada;Sexta
+100618;Eduarda Fernandes;Pista Premium;Domingo
+100619;Gabriela Nunes;Pista;Sábado
+100620;Gabriela Vieira;Pista;Domingo
+100621;Ulisses Araújo;Arquibancada;Domingo
+100622;Yasmin Pinto;Pista;Sexta
+100623;Gustavo Gomes;Pista Premium;Domingo
+100624;Lucas Teixeira;Pista;Domingo
+100625;Vitor Lopes;Pista;Sexta
+100626;Thiago Ribeiro;Camarote;Sexta
+100627;Natália Santos;Pista;Sexta
+100628;João Costa;Camarote;Sábado
+100629;Gabriela Martins;Arquibancada;Domingo
+100630;Larissa Oliveira;Pista;Sexta
+100631;Henrique Santos;Arquibancada;Sexta
+100632;Valentina Costa;Arquibancada;Sexta
+100633;Gustavo Araújo;Pista;Sexta
+100634;Thiago Teixeira;Arquibancada;Domingo
+100635;Tatiana Gomes;Pista;Sexta
+100636;Diego Barbosa;Arquibancada;Sexta
+100637;Nicolas Martins;Pista;Sábado
+100638;Sofia Pereira;Arquibancada;Domingo
+100639;Leonardo Souza;Camarote;Sábado
+100640;Rafael Freitas;Pista;Sexta
+100641;Pedro Melo;Pista Premium;Domingo
+100642;Nicolas Ribeiro;Pista;Sexta
+100643;Caio Lopes;Arquibancada;Sábado
+100644;Samuel Pereira;Arquibancada;Domingo
+100645;Lucas Moreira;Pista Premium;Sábado
+100646;Olívia Rezende;Pista Premium;Domingo
+100647;Larissa Pinto;Arquibancada;Sábado
+100648;Otávio Nunes;Pista;Sábado
+100649;Caio Costa;Pista Premium;Sexta
+100650;João Silva;Pista;Domingo
+100651;Sofia Gomes;Pista Premium;Domingo
+100652;Daniela Almeida;Arquibancada;Domingo
+100653;Júlia Freitas;Pista;Sábado
+100654;Natália Oliveira;Camarote;Sábado
+100655;Rafael Santos;Pista;Sexta
+100656;Diego Lopes;Pista;Sábado
+100657;Yasmin Lopes;Pista;Sexta
+100658;Ulisses Souza;Pista;Sábado
+100659;Samuel Teixeira;Arquibancada;Sábado
+100660;Ulisses Costa;Pista;Sábado
+100661;Helena Martins;Arquibancada;Domingo
+100662;Enzo Gomes;Pista;Sexta
+100663;Caio Mendes;Pista Premium;Sábado
+100664;Larissa Ribeiro;Arquibancada;Sexta
+100665;Rafael Nascimento;Arquibancada;Domingo
+100666;Nicolas Rocha;Pista;Sábado
+100667;Ulisses Melo;Pista;Sexta
+100668;Igor Martins;Pista;Sábado
+100669;Helena Santos;Arquibancada;Domingo
+100670;Sofia Lopes;Camarote;Sexta
+100671;Ulisses Costa;Arquibancada;Domingo
+100672;Renata Ramos;Pista;Sexta
+100673;Thiago Silva;Pista Premium;Domingo
+100674;Henrique Teixeira;Pista;Domingo
+100675;Larissa Lopes;Pista;Domingo
+100676;Larissa Vieira;Pista;Domingo
+100677;Felipe Freitas;Pista;Domingo
+100678;Otávio Martins;Pista;Domingo
+100679;Olívia Teixeira;Pista Premium;Domingo
+100680;Ulisses Ramos;Pista Premium;Sábado
+100681;Eduarda Teixeira;Arquibancada;Sábado
+100682;Valentina Lopes;Pista Premium;Sábado
+100683;Bruno Moreira;Pista Premium;Sábado
+100684;Fernanda Lopes;Pista;Domingo
+100685;Renata Melo;Camarote;Sexta
+100686;Otávio Ramos;Pista Premium;Sábado
+100687;Renata Moreira;Pista;Domingo
+100688;Thiago Pereira;Arquibancada;Domingo
+100689;Felipe Martins;Arquibancada;Domingo
+100690;Pedro Moreira;Pista;Domingo
+100691;Olívia Araújo;Arquibancada;Sexta
+100692;Felipe Lopes;Pista;Sexta
+100693;Beatriz Ramos;Camarote;Domingo
+100694;Renata Campos;Pista;Sábado
+100695;Leonardo Lima;Pista;Sábado
+100696;Eduarda Vieira;Arquibancada;Sexta
+100697;Marcos Mendes;Pista;Sexta
+100698;Daniela Teixeira;Pista;Sábado
+100699;Otávio Gomes;Pista;Sexta
+100700;João Ribeiro;Pista Premium;Sexta
+100701;Helena Dias;Arquibancada;Sexta
+100702;Paula Lopes;Pista;Sábado
+100703;Gabriela Costa;Pista;Sexta
+100704;Nicolas Lima;Camarote;Domingo
+100705;Fernanda Rocha;Arquibancada;Domingo
+100706;Nicolas Pinto;Pista;Sábado
+100707;Olívia Nunes;Arquibancada;Sexta
+100708;Carla Pinto;Arquibancada;Sábado
+100709;Caio Gomes;Pista;Domingo
+100710;Tatiana Nascimento;Arquibancada;Sexta
+100711;João Souza;Arquibancada;Sábado
+100712;Gabriela Freitas;Pista;Domingo
+100713;Rafael Souza;Pista;Sábado
+100714;Beatriz Oliveira;Pista;Sábado
+100715;Isabela Santos;Arquibancada;Sábado
+100716;Paula Lima;Pista;Sábado
+100717;Gustavo Moreira;Pista Premium;Sexta
+100718;Henrique Barbosa;Pista;Sexta
+100719;Ana Mendes;Pista Premium;Domingo
+100720;Sofia Almeida;Arquibancada;Sábado
+100721;Carla Almeida;Pista;Sábado
+100722;Rafael Lopes;Pista;Domingo
+100723;Helena Ribeiro;Arquibancada;Domingo
+100724;Caio Campos;Arquibancada;Domingo
+100725;Lucas Lopes;Pista Premium;Sábado
+100726;Samuel Vieira;Pista Premium;Sexta
+100727;Eduarda Barbosa;Arquibancada;Sexta
+100728;Helena Fernandes;Pista;Domingo
+100729;Olívia Teixeira;Pista Premium;Sábado
+100730;Diego Mendes;Arquibancada;Sábado
+100731;Felipe Freitas;Pista;Domingo
+100732;Helena Martins;Arquibancada;Sexta
+100733;Pedro Ribeiro;Pista Premium;Sábado
+100734;Thiago Teixeira;Pista;Sábado
+100735;Ulisses Dias;Arquibancada;Domingo
+100736;Júlia Melo;Pista;Domingo
+100737;Enzo Pereira;Pista Premium;Sábado
+100738;João Dias;Pista;Sábado
+100739;Júlia Ribeiro;Pista Premium;Sábado
+100740;Gustavo Vieira;Pista Premium;Sábado
+100741;Larissa Vieira;Pista;Domingo
+100742;Lucas Fernandes;Arquibancada;Sexta
+100743;Gustavo Fernandes;Pista Premium;Sábado
+100744;Olívia Gomes;Pista;Sábado
+100745;Diego Fernandes;Arquibancada;Domingo
+100746;Lucas Gomes;Pista Premium;Domingo
+100747;Mariana Oliveira;Arquibancada;Sábado
+100748;Thiago Ribeiro;Pista;Sexta
+100749;Enzo Barbosa;Arquibancada;Domingo
+100750;Ana Oliveira;Pista;Sábado
+100751;Felipe Costa;Pista;Domingo
+100752;Gustavo Pinto;Pista;Sexta
+100753;Caio Mendes;Pista Premium;Sábado
+100754;Lucas Nascimento;Camarote;Sábado
+100755;Yasmin Rocha;Pista Premium;Domingo
+100756;Júlia Ramos;Camarote;Domingo
+100757;Beatriz Lima;Pista Premium;Domingo
+100758;Daniela Santos;Pista;Sexta
+100759;Otávio Araújo;Pista;Sexta
+100760;Mariana Fernandes;Pista;Sábado
+100761;Pedro Costa;Pista;Sexta
+100762;Carla Santos;Pista;Sábado
+100763;Bruno Campos;Camarote;Sexta
+100764;Ana Oliveira;Camarote;Domingo
+100765;Ana Campos;Arquibancada;Sábado
+100766;Eduarda Vieira;Arquibancada;Sexta
+100767;Pedro Costa;Camarote;Sexta
+100768;Yasmin Silva;Pista;Sábado
+100769;Pedro Vieira;Arquibancada;Sábado
+100770;Henrique Vieira;Pista;Sábado
+100771;Carla Souza;Camarote;Domingo
+100772;Natália Rocha;Arquibancada;Domingo
+100773;Natália Melo;Pista;Sábado
+100774;Caio Mendes;Pista;Domingo
+100775;Paula Campos;Pista;Domingo
+100776;Rafael Fernandes;Arquibancada;Sábado
+100777;Otávio Souza;Pista;Domingo
+100778;Valentina Souza;Pista Premium;Sábado
+100779;Isabela Ramos;Pista;Sexta
+100780;Tatiana Araújo;Pista Premium;Sexta
+100781;Lucas Melo;Pista;Sexta
+100782;Samuel Dias;Camarote;Domingo
+100783;Henrique Moreira;Camarote;Domingo
+100784;Diego Barbosa;Camarote;Domingo
+100785;Daniela Fernandes;Pista Premium;Sexta
+100786;Henrique Oliveira;Pista;Sábado
+100787;Lucas Rocha;Pista Premium;Sábado
+100788;Caio Freitas;Arquibancada;Sábado
+100789;Lucas Mendes;Pista;Sábado
+100790;Otávio Souza;Arquibancada;Sexta
+100791;Sofia Silva;Pista Premium;Sexta
+100792;Rafael Campos;Pista;Sábado
+100793;Sofia Pinto;Pista;Sexta
+100794;Tatiana Vieira;Pista;Sexta
+100795;Mariana Santos;Pista;Sábado
+100796;Otávio Fernandes;Pista Premium;Sexta
+100797;Beatriz Pinto;Pista;Domingo
+100798;Thiago Ramos;Arquibancada;Domingo
+100799;Helena Santos;Arquibancada;Domingo
+100800;Eduarda Melo;Pista Premium;Sábado
+100801;Júlia Barbosa;Pista;Sábado
+100802;Júlia Campos;Camarote;Sexta
+100803;Gabriela Cardoso;Pista;Sábado
+100804;Yasmin Araújo;Pista;Sábado
+100805;Yasmin Moreira;Arquibancada;Sábado
+100806;Valentina Vieira;Pista;Domingo
+100807;Pedro Freitas;Pista;Sexta
+100808;Pedro Rocha;Pista;Sábado
+100809;Nicolas Nunes;Pista Premium;Sexta
+100810;Henrique Lima;Camarote;Domingo
+100811;Helena Santos;Pista Premium;Domingo
+100812;Sofia Souza;Pista;Domingo
+100813;Paula Lima;Pista;Sábado
+100814;Eduarda Fernandes;Pista;Sexta
+100815;Ana Souza;Pista;Domingo
+100816;Vitor Pereira;Pista Premium;Sábado
+100817;Isabela Pinto;Pista;Domingo
+100818;Samuel Pereira;Pista;Sábado
+100819;Otávio Silva;Arquibancada;Domingo
+100820;João Fernandes;Pista;Sexta
+100821;Leonardo Dias;Arquibancada;Sexta
+100822;Júlia Pinto;Arquibancada;Domingo
+100823;Thiago Freitas;Pista;Sexta
+100824;Fernanda Cardoso;Arquibancada;Sábado
+100825;Carla Nunes;Pista Premium;Sábado
+100826;Enzo Vieira;Pista;Sábado
+100827;Marcos Fernandes;Arquibancada;Domingo
+100828;Valentina Pereira;Pista;Sábado
+100829;Samuel Pinto;Pista;Domingo
+100830;Helena Cardoso;Pista Premium;Sexta
+100831;Tatiana Almeida;Pista Premium;Sexta
+100832;Beatriz Oliveira;Pista;Sexta
+100833;Larissa Freitas;Pista;Domingo
+100834;Eduarda Nunes;Pista Premium;Domingo
+100835;Felipe Pereira;Arquibancada;Domingo
+100836;Júlia Vieira;Pista;Domingo
+100837;Olívia Lima;Camarote;Domingo
+100838;Paula Santos;Pista Premium;Domingo
+100839;Nicolas Cardoso;Pista;Sexta
+100840;Otávio Ribeiro;Pista;Domingo
+100841;Bruno Melo;Pista;Sexta
+100842;Gustavo Nunes;Pista;Domingo
+100843;Isabela Moreira;Pista Premium;Domingo
+100844;Isabela Lopes;Pista;Domingo
+100845;Júlia Souza;Pista;Sábado
+100846;João Nascimento;Camarote;Domingo
+100847;Otávio Pereira;Camarote;Sábado
+100848;Olívia Cardoso;Pista;Sábado
+100849;Paula Pinto;Camarote;Sexta
+100850;Felipe Santos;Pista;Domingo
+100851;João Cardoso;Pista Premium;Sexta
+100852;Yasmin Nunes;Pista;Domingo
+100853;Gustavo Rezende;Pista;Sábado
+100854;Tatiana Nunes;Pista;Sábado
+100855;Igor Nascimento;Pista;Sexta
+100856;Vitor Oliveira;Arquibancada;Sexta
+100857;Tatiana Martins;Pista;Sexta
+100858;Leonardo Barbosa;Pista;Sexta
+100859;Gustavo Moreira;Arquibancada;Sexta
+100860;Diego Freitas;Pista;Sexta
+100861;Leonardo Vieira;Pista;Domingo
+100862;Pedro Campos;Pista;Sábado
+100863;Eduarda Rezende;Arquibancada;Domingo
+100864;Renata Pereira;Camarote;Domingo
+100865;Gabriela Santos;Arquibancada;Sábado
+100866;Ulisses Mendes;Camarote;Domingo
+100867;Ana Souza;Pista;Domingo
+100868;Bruno Campos;Pista;Sexta
+100869;Gabriela Pereira;Arquibancada;Domingo
+100870;Larissa Silva;Pista;Sábado
+100871;Thiago Nunes;Arquibancada;Sábado
+100872;Yasmin Nascimento;Arquibancada;Sábado
+100873;Yasmin Fernandes;Pista Premium;Domingo
+100874;Enzo Rezende;Pista;Domingo
+100875;Henrique Costa;Pista;Sábado
+100876;Gustavo Souza;Pista;Sábado
+100877;Renata Dias;Arquibancada;Sábado
+100878;Ana Cardoso;Pista;Sábado
+100879;Lucas Almeida;Pista;Domingo
+100880;Larissa Moreira;Arquibancada;Sexta
+100881;Ulisses Cardoso;Arquibancada;Domingo
+100882;Mariana Santos;Pista Premium;Domingo
+100883;Natália Souza;Arquibancada;Sexta
+100884;Fernanda Teixeira;Camarote;Sexta
+100885;Helena Ribeiro;Pista;Sexta
+100886;Valentina Vieira;Arquibancada;Domingo
+100887;Júlia Vieira;Arquibancada;Sexta
+100888;Gustavo Barbosa;Camarote;Sábado
+100889;Paula Lopes;Pista Premium;Domingo
+100890;Larissa Nascimento;Camarote;Domingo
+100891;Olívia Lima;Arquibancada;Sábado
+100892;Renata Mendes;Pista;Sábado
+100893;Paula Costa;Pista;Sábado
+100894;Diego Nascimento;Pista;Sexta
+100895;Rafael Nunes;Pista Premium;Sexta
+100896;Igor Ramos;Pista Premium;Domingo
+100897;Mariana Melo;Arquibancada;Sábado
+100898;Bruno Melo;Pista;Domingo
+100899;João Silva;Pista;Domingo
+100900;Gabriela Cardoso;Pista;Sexta
+100901;Fernanda Santos;Pista;Domingo
+100902;Mariana Araújo;Pista;Sábado
+100903;Larissa Freitas;Arquibancada;Sexta
+100904;Larissa Lima;Pista;Domingo
+100905;Felipe Nunes;Arquibancada;Sexta
+100906;Isabela Costa;Pista;Domingo
+100907;Ulisses Mendes;Pista Premium;Sexta
+100908;Pedro Melo;Pista Premium;Sábado
+100909;Felipe Souza;Arquibancada;Domingo
+100910;Ana Oliveira;Pista;Sábado
+100911;Valentina Almeida;Pista Premium;Sexta
+100912;Diego Ramos;Pista;Domingo
+100913;Gabriela Martins;Pista;Sexta
+100914;Isabela Melo;Pista Premium;Sexta
+100915;Larissa Lopes;Pista;Sexta
+100916;Enzo Mendes;Arquibancada;Domingo
+100917;Helena Santos;Pista;Sexta
+100918;Caio Rocha;Pista;Sexta
+100919;Olívia Santos;Pista;Domingo
+100920;Helena Lopes;Arquibancada;Sexta
+100921;Otávio Costa;Pista;Sábado
+100922;João Lopes;Arquibancada;Domingo
+100923;Rafael Lima;Pista;Sábado
+100924;Renata Vieira;Arquibancada;Sexta
+100925;Natália Moreira;Arquibancada;Domingo
+100926;Henrique Rocha;Arquibancada;Sábado
+100927;Tatiana Cardoso;Pista;Sábado
+100928;Gabriela Nunes;Arquibancada;Domingo
+100929;Daniela Pinto;Arquibancada;Domingo
+100930;Beatriz Rocha;Pista;Domingo
+100931;Larissa Nascimento;Arquibancada;Sexta
+100932;Enzo Rezende;Arquibancada;Domingo
+100933;Júlia Pinto;Pista;Domingo
+100934;Bruno Lopes;Camarote;Domingo
+100935;Gustavo Oliveira;Pista Premium;Sábado
+100936;Eduarda Barbosa;Pista;Sábado
+100937;Gustavo Cardoso;Pista;Sábado
+100938;Caio Fernandes;Pista Premium;Domingo
+100939;Ulisses Silva;Arquibancada;Sexta
+100940;Samuel Costa;Arquibancada;Domingo
+100941;Carla Lopes;Pista;Sábado
+100942;Henrique Melo;Arquibancada;Domingo
+100943;Otávio Lima;Pista;Sexta
+100944;Enzo Freitas;Camarote;Domingo
+100945;Otávio Campos;Pista Premium;Sexta
+100946;Samuel Santos;Pista;Domingo
+100947;Helena Dias;Arquibancada;Sábado
+100948;Thiago Melo;Pista;Domingo
+100949;Lucas Santos;Arquibancada;Sábado
+100950;Renata Pereira;Pista;Sábado
+100951;Enzo Araújo;Pista Premium;Sábado
+100952;Larissa Nascimento;Pista;Sexta
+100953;Marcos Ribeiro;Camarote;Domingo
+100954;Caio Cardoso;Arquibancada;Sexta
+100955;Ana Lima;Arquibancada;Sexta
+100956;Isabela Gomes;Pista Premium;Sábado
+100957;Sofia Moreira;Pista Premium;Sábado
+100958;Henrique Fernandes;Pista;Domingo
+100959;Caio Araújo;Arquibancada;Sexta
+100960;Rafael Santos;Arquibancada;Sexta
+100961;Marcos Campos;Arquibancada;Domingo
+100962;Isabela Araújo;Pista Premium;Sábado
+100963;Lucas Nunes;Pista;Sábado
+100964;Marcos Pinto;Pista;Sábado
+100965;Leonardo Rocha;Arquibancada;Sábado
+100966;Leonardo Ribeiro;Pista;Sábado
+100967;Thiago Fernandes;Arquibancada;Sábado
+100968;Carla Campos;Arquibancada;Domingo
+100969;Henrique Mendes;Arquibancada;Sábado
+100970;Natália Dias;Pista Premium;Sábado
+100971;Carla Rocha;Arquibancada;Sexta
+100972;Carla Martins;Pista;Domingo
+100973;Thiago Mendes;Arquibancada;Sábado
+100974;Gabriela Ribeiro;Pista;Sábado
+100975;Renata Almeida;Pista;Sábado
+100976;Samuel Ramos;Arquibancada;Domingo
+100977;Mariana Silva;Pista;Sexta
+100978;Ulisses Freitas;Arquibancada;Sábado
+100979;Leonardo Pinto;Pista Premium;Sexta
+100980;Olívia Almeida;Pista;Sexta
+100981;Ulisses Lopes;Pista;Domingo
+100982;Mariana Nascimento;Pista;Sábado
+100983;Larissa Rezende;Pista;Sexta
+100984;Natália Rocha;Arquibancada;Domingo
+100985;Fernanda Lopes;Pista;Sexta
+100986;Nicolas Araújo;Pista;Sexta
+100987;Rafael Freitas;Pista Premium;Sexta
+100988;Lucas Pereira;Pista;Sexta
+100989;Gabriela Fernandes;Camarote;Sexta
+100990;Daniela Moreira;Arquibancada;Domingo
+100991;Carla Campos;Arquibancada;Sábado
+100992;Isabela Pereira;Pista Premium;Sábado
+100993;Pedro Oliveira;Pista Premium;Sábado
+100994;Olívia Pereira;Pista;Domingo
+100995;Nicolas Costa;Pista;Sábado
+100996;Thiago Barbosa;Arquibancada;Sábado
+100997;Natália Moreira;Pista;Domingo
+100998;Gustavo Dias;Pista;Sábado
+100999;Gabriela Gomes;Pista;Sábado
+101000;Otávio Araújo;Camarote;Sábado
+101001;Isabela Melo;Pista;Sexta
+101002;Beatriz Araújo;Pista;Sábado
+101003;Gabriela Melo;Arquibancada;Domingo
+101004;Mariana Dias;Pista Premium;Domingo
+101005;Ulisses Vieira;Pista;Domingo
+101006;Valentina Rocha;Pista;Sexta
+101007;Olívia Oliveira;Pista;Sábado
+101008;Renata Araújo;Arquibancada;Sexta
+101009;Júlia Mendes;Pista;Sábado
+101010;Leonardo Freitas;Pista Premium;Domingo
+101011;Lucas Costa;Arquibancada;Domingo
+101012;Tatiana Melo;Pista Premium;Sexta
+101013;Leonardo Lopes;Arquibancada;Sábado
+101014;Igor Cardoso;Camarote;Sábado
+101015;Carla Lima;Arquibancada;Sexta
+101016;Paula Oliveira;Arquibancada;Sexta
+101017;Renata Rocha;Pista;Sábado
+101018;Felipe Rocha;Pista Premium;Sexta
+101019;Caio Melo;Pista;Sexta
+101020;Gustavo Nascimento;Pista;Domingo
+101021;Beatriz Martins;Pista;Sábado
+101022;Beatriz Nunes;Camarote;Sexta
+101023;Igor Moreira;Arquibancada;Sábado
+101024;Pedro Vieira;Arquibancada;Sábado
+101025;Paula Nascimento;Pista;Sexta
+101026;Júlia Costa;Pista;Sábado
+101027;Gustavo Pinto;Arquibancada;Domingo
+101028;Daniela Pinto;Pista Premium;Domingo
+101029;Helena Dias;Pista;Sábado
+101030;Beatriz Silva;Arquibancada;Sábado
+101031;Beatriz Ribeiro;Pista;Domingo
+101032;Natália Teixeira;Pista Premium;Sábado
+101033;Ulisses Rocha;Arquibancada;Sexta
+101034;Ulisses Rocha;Arquibancada;Sábado
+101035;Felipe Fernandes;Pista Premium;Sábado
+101036;Lucas Nascimento;Arquibancada;Domingo
+101037;João Fernandes;Pista Premium;Sexta
+101038;Larissa Lopes;Pista;Sábado
+101039;Mariana Freitas;Pista;Domingo
+101040;Eduarda Melo;Pista;Sexta
+101041;Otávio Dias;Pista;Sábado
+101042;Isabela Souza;Pista Premium;Sábado
+101043;Eduarda Freitas;Pista Premium;Sexta
+101044;Yasmin Araújo;Camarote;Sexta
+101045;Igor Pereira;Arquibancada;Sábado
+101046;Pedro Lima;Arquibancada;Sexta
+101047;Isabela Campos;Pista;Sábado
+101048;Ulisses Nascimento;Arquibancada;Domingo
+101049;Diego Freitas;Pista Premium;Sexta
+101050;Gabriela Teixeira;Camarote;Sábado
+101051;Vitor Mendes;Arquibancada;Sábado
+101052;Diego Oliveira;Pista;Sexta
+101053;Natália Dias;Pista;Sexta
+101054;Thiago Mendes;Pista;Sexta
+101055;Leonardo Araújo;Arquibancada;Domingo
+101056;Sofia Ribeiro;Pista;Domingo
+101057;Rafael Mendes;Pista;Sábado
+101058;Renata Barbosa;Pista;Sábado
+101059;Nicolas Rocha;Pista;Domingo
+101060;Carla Oliveira;Pista;Domingo
+101061;Nicolas Araújo;Pista;Sábado
+101062;Helena Rezende;Pista Premium;Sábado
+101063;Diego Almeida;Pista Premium;Sexta
+101064;Beatriz Fernandes;Pista;Domingo
+101065;João Mendes;Arquibancada;Sábado
+101066;Helena Costa;Arquibancada;Sexta
+101067;Beatriz Mendes;Arquibancada;Domingo
+101068;Beatriz Fernandes;Pista;Sexta
+101069;Yasmin Freitas;Arquibancada;Sábado
+101070;Valentina Lopes;Pista;Sábado
+101071;Nicolas Ribeiro;Arquibancada;Sábado
+101072;Natália Teixeira;Pista;Sexta
+101073;Yasmin Vieira;Pista Premium;Domingo
+101074;Lucas Souza;Pista;Domingo
+101075;Lucas Moreira;Arquibancada;Domingo
+101076;Isabela Nascimento;Camarote;Sábado
+101077;Larissa Rocha;Pista;Sábado
+101078;Otávio Pereira;Arquibancada;Sexta
+101079;Olívia Barbosa;Pista;Domingo
+101080;Nicolas Silva;Pista Premium;Domingo
+101081;Enzo Cardoso;Arquibancada;Sexta
+101082;Lucas Nunes;Arquibancada;Sexta
+101083;Nicolas Dias;Pista;Domingo
+101084;Lucas Barbosa;Arquibancada;Domingo
+101085;Lucas Silva;Camarote;Sexta
+101086;Gustavo Vieira;Pista;Domingo
+101087;Samuel Barbosa;Pista;Domingo
+101088;Gabriela Gomes;Pista;Domingo
+101089;Mariana Costa;Pista Premium;Domingo
+101090;Otávio Lima;Pista;Sexta
+101091;Paula Vieira;Arquibancada;Domingo
+101092;Nicolas Pinto;Camarote;Domingo
+101093;Valentina Ribeiro;Pista;Sábado
+101094;Carla Nunes;Arquibancada;Domingo
+101095;Sofia Lima;Arquibancada;Domingo
+101096;Júlia Lima;Arquibancada;Sexta
+101097;Felipe Ribeiro;Pista;Sexta
+101098;João Almeida;Pista;Sábado
+101099;Olívia Gomes;Pista;Domingo
+101100;Sofia Ribeiro;Arquibancada;Domingo
+101101;Nicolas Melo;Pista;Sábado
+101102;Fernanda Araújo;Pista;Domingo
+101103;Natália Teixeira;Pista Premium;Sábado
+101104;Daniela Santos;Pista Premium;Sexta
+101105;Felipe Lopes;Pista;Sexta
+101106;Isabela Martins;Arquibancada;Sexta
+101107;Sofia Oliveira;Pista;Sexta
+101108;Thiago Dias;Arquibancada;Sexta
+101109;Vitor Mendes;Camarote;Sábado
+101110;Thiago Almeida;Pista Premium;Sábado
+101111;Samuel Ramos;Arquibancada;Sexta
+101112;Vitor Campos;Arquibancada;Sábado
+101113;Sofia Costa;Pista;Domingo
+101114;Renata Barbosa;Arquibancada;Sexta
+101115;Carla Vieira;Pista;Domingo
+101116;Beatriz Pereira;Arquibancada;Domingo
+101117;Larissa Souza;Pista Premium;Sábado
+101118;Beatriz Rezende;Pista;Domingo
+101119;Thiago Rezende;Arquibancada;Sexta
+101120;Pedro Silva;Pista;Sábado
+101121;Yasmin Martins;Pista Premium;Domingo
+101122;João Vieira;Pista;Sábado
+101123;Renata Melo;Pista;Sábado
+101124;Diego Barbosa;Pista;Domingo
+101125;Vitor Ramos;Pista Premium;Sábado
+101126;Fernanda Barbosa;Pista;Sábado
+101127;Gustavo Dias;Pista Premium;Domingo
+101128;Isabela Mendes;Camarote;Sexta
+101129;Samuel Moreira;Pista;Domingo
+101130;Mariana Lopes;Pista;Domingo
+101131;João Oliveira;Pista;Domingo
+101132;Thiago Nascimento;Pista Premium;Sábado
+101133;Carla Barbosa;Arquibancada;Sábado
+101134;Samuel Pereira;Arquibancada;Sexta
+101135;Otávio Lima;Arquibancada;Sábado
+101136;Larissa Moreira;Arquibancada;Sábado
+101137;Pedro Nascimento;Pista Premium;Sábado
+101138;Thiago Araújo;Pista;Sexta
+101139;Ana Campos;Pista;Sábado
+101140;Isabela Campos;Pista;Sexta
+101141;Paula Oliveira;Arquibancada;Domingo
+101142;Natália Fernandes;Camarote;Sábado
+101143;Eduarda Barbosa;Pista;Sábado
+101144;Beatriz Vieira;Arquibancada;Sábado
+101145;Henrique Lopes;Pista;Sexta
+101146;Tatiana Araújo;Pista;Sexta
+101147;Nicolas Lima;Camarote;Domingo
+101148;Júlia Ramos;Arquibancada;Sexta
+101149;Leonardo Melo;Camarote;Sexta
+101150;Ana Rezende;Pista;Sábado
+101151;Natália Costa;Pista;Sexta
+101152;Samuel Gomes;Pista Premium;Sexta
+101153;Tatiana Ribeiro;Pista;Domingo
+101154;Otávio Cardoso;Pista;Sábado
+101155;Caio Pinto;Arquibancada;Domingo
+101156;Henrique Costa;Pista;Sábado
+101157;Gustavo Freitas;Pista Premium;Sexta
+101158;Daniela Martins;Pista;Domingo
+101159;Henrique Melo;Pista;Sexta
+101160;Gabriela Lopes;Arquibancada;Sábado
+101161;Renata Costa;Pista;Sábado
+101162;Mariana Vieira;Pista;Sexta
+101163;Otávio Mendes;Pista;Domingo
+101164;Bruno Dias;Pista;Sexta
+101165;Daniela Martins;Arquibancada;Domingo
+101166;Daniela Fernandes;Arquibancada;Domingo
+101167;Olívia Oliveira;Camarote;Sábado
+101168;João Mendes;Pista;Domingo
+101169;Lucas Moreira;Arquibancada;Domingo
+101170;Henrique Freitas;Pista;Sábado
+101171;Rafael Ramos;Camarote;Sábado
+101172;Gustavo Nunes;Arquibancada;Domingo
+101173;Felipe Lima;Pista;Sexta
+101174;Enzo Gomes;Pista;Domingo
+101175;Gustavo Campos;Arquibancada;Domingo
+101176;Leonardo Souza;Pista;Sábado
+101177;Thiago Lima;Pista Premium;Domingo
+101178;Ulisses Teixeira;Pista Premium;Sábado
+101179;Mariana Melo;Pista;Sábado
+101180;Igor Cardoso;Pista;Sexta
+101181;Sofia Fernandes;Arquibancada;Domingo
+101182;Helena Freitas;Arquibancada;Domingo
+101183;Pedro Teixeira;Pista;Sexta
+101184;Rafael Nascimento;Pista;Domingo
+101185;Gustavo Freitas;Pista;Sexta
+101186;Larissa Freitas;Arquibancada;Domingo
+101187;Fernanda Almeida;Pista;Sexta
+101188;Larissa Lopes;Pista;Sábado
+101189;Enzo Almeida;Pista;Domingo
+101190;Otávio Lima;Arquibancada;Sexta
+101191;Igor Souza;Arquibancada;Domingo
+101192;Carla Ribeiro;Arquibancada;Sábado
+101193;Otávio Oliveira;Pista;Domingo
+101194;Ana Silva;Pista Premium;Sexta
+101195;João Cardoso;Pista Premium;Domingo
+101196;Mariana Araújo;Camarote;Sábado
+101197;Otávio Souza;Pista;Domingo
+101198;Tatiana Melo;Pista;Domingo
+101199;Natália Fernandes;Pista Premium;Sábado
+101200;Pedro Oliveira;Arquibancada;Domingo
+101201;Igor Souza;Pista;Sexta
+101202;Yasmin Rocha;Pista Premium;Domingo
+101203;Marcos Gomes;Pista Premium;Domingo
+10x204;Lucas Dias;Camarote;Sexta
+101205;Pedro Dias;Pista;Sexta
+101206;Marcos Souza;Arquibancada;Sábado
+101207;Henrique Freitas;Pista;Sábado
+101208;Eduarda Nunes;Pista Premium;Domingo
+101209;Renata Rezende;Camarote;Sábado
+101210;Gabriela Ribeiro;Pista;Sexta
+101211;Sofia Nunes;Pista;Domingo
+101212;Renata Melo;Arquibancada;Sexta
+101213;Renata Gomes;Camarote;Sábado
+101214;Mariana Almeida;Pista Premium;Sexta
+101215;Diego Souza;Pista;Sexta
+101216;Isabela Mendes;Pista;Sábado
+101217;Fernanda Almeida;Pista Premium;Domingo
+101218;Beatriz Campos;Camarote;Sábado
+101219;Rafael Araújo;Pista;Sábado
+101220;Leonardo Freitas;Pista;Sábado
+101221;Marcos Rocha;Pista Premium;Domingo
+101222;Eduarda Teixeira;Pista;Sábado
+101223;Diego Souza;Pista;Sexta
+101224;Ana Silva;Pista Premium;Sábado
+101225;Helena Fernandes;Pista;Domingo
+101226;Igor Almeida;Arquibancada;Sexta
+101227;Lucas Souza;Pista;Sábado
+101228;Fernanda Oliveira;Arquibancada;Domingo
+101229;Renata Vieira;Arquibancada;Domingo
+101230;Bruno Moreira;Arquibancada;Domingo
+101231;Gabriela Melo;Pista Premium;Sábado
+101232;Beatriz Almeida;Pista;Sábado
+101233;Valentina Nascimento;Arquibancada;Domingo
+101234;Daniela Silva;Pista Premium;Sábado
+101235;Natália Campos;Pista;Sexta
+101236;Pedro Lopes;Pista;Sábado
+101237;Mariana Costa;Pista Premium;Sexta
+101238;Mariana Pinto;Pista;Domingo
+101239;Vitor Rezende;Pista;Domingo
+101240;Leonardo Campos;Pista;Domingo
+101241;Gabriela Teixeira;Pista Premium;Sexta
+101242;Natália Pinto;Pista Premium;Sexta
+101243;Nicolas Teixeira;Camarote;Domingo
+101244;Paula Pereira;Pista;Sábado
+101245;Gustavo Araújo;Pista;Sexta
+101246;Júlia Souza;Pista;Domingo
+101247;Ulisses Cardoso;Arquibancada;Sábado
+101248;Gustavo Oliveira;Pista;Sábado
+101249;Renata Pereira;Pista;Domingo
+101250;Caio Martins;Pista;Sábado
+101251;Enzo Barbosa;Pista;Domingo
+101252;Larissa Nascimento;Arquibancada;Sexta
+101253;Rafael Oliveira;Arquibancada;Sexta
+101254;Mariana Silva;Pista;Sexta
+101255;Enzo Araújo;Pista;Sexta
+101256;Rafael Silva;Arquibancada;Sábado
+101257;Isabela Cardoso;Arquibancada;Domingo
+101258;Pedro Lopes;Pista;Domingo
+101259;Yasmin Oliveira;Pista;Sábado
+101260;Tatiana Dias;Pista;Sábado
+101261;Daniela Oliveira;Pista Premium;Sábado
+101262;Valentina Vieira;Camarote;Sábado
+101263;Marcos Nunes;Pista;Domingo
+101264;Ana Costa;Pista;Sábado
+101265;Otávio Melo;Pista;Sexta
+101266;Beatriz Cardoso;Camarote;Sexta
+101267;João Moreira;Pista;Sexta
+101268;João Teixeira;Pista;Domingo
+101269;Thiago Lima;Pista;Sexta
+101270;Ana Vieira;Pista;Sábado
+101271;Diego Araújo;Arquibancada;Sexta
+101272;Rafael Cardoso;Pista;Sábado
+101273;Igor Costa;Pista;Sexta
+101274;Leonardo Barbosa;Arquibancada;Sábado
+101275;Leonardo Fernandes;Pista;Domingo
+101276;Daniela Santos;Camarote;Domingo
+101277;Sofia Dias;Arquibancada;Sábado
+101278;Júlia Campos;Arquibancada;Sexta
+101279;Mariana Pinto;Arquibancada;Sexta
+101280;Leonardo Martins;Pista;Sábado
+101281;Eduarda Freitas;Arquibancada;Domingo
+101282;Larissa Mendes;Pista;Sábado
+101283;Fernanda Rezende;Camarote;Sábado
+101284;Otávio Nascimento;Pista;Sexta
+101285;Daniela Vieira;Arquibancada;Domingo
+101286;Renata Ramos;Camarote;Sábado
+101287;Tatiana Lopes;Arquibancada;Domingo
+101288;Otávio Araújo;Arquibancada;Domingo
+101289;Bruno Pereira;Pista;Sábado
+101290;Samuel Souza;Pista Premium;Sábado
+101291;Bruno Gomes;Pista;Domingo
+101292;Vitor Melo;Pista;Sábado
+101293;Isabela Campos;Arquibancada;Domingo
+101294;Diego Souza;Pista;Domingo
+101295;Valentina Pereira;Pista;Domingo
+101296;Renata Silva;Arquibancada;Sexta
+101297;Rafael Pereira;Pista;Sexta
+101298;Pedro Melo;Pista Premium;Sexta
+101299;Rafael Ribeiro;Arquibancada;Sexta
+101300;Natália Gomes;Camarote;Sábado
+101301;Gabriela Santos;Arquibancada;Sexta
+101302;Ana Lima;Arquibancada;Domingo
+101303;Tatiana Almeida;Arquibancada;Sábado
+101304;Júlia Moreira;Pista Premium;Sexta
+101305;Beatriz Lima;Pista;Sexta
+101306;Marcos Moreira;Arquibancada;Sexta
+101307;Ana Nascimento;Camarote;Sexta
+101308;Samuel Mendes;Pista Premium;Domingo
+101309;Lucas Rocha;Pista;Sábado
+101310;Tatiana Araújo;Arquibancada;Sexta
+101311;Isabela Dias;Pista;Sexta
+101312;Enzo Gomes;Pista;Sexta
+101313;Isabela Gomes;Pista;Sexta
+101314;Larissa Araújo;Camarote;Sexta
+101315;Pedro Cardoso;Pista;Sábado
+101316;Rafael Araújo;Arquibancada;Sábado
+101317;Rafael Costa;Pista;Sexta
+101318;Samuel Campos;Arquibancada;Domingo
+101319;Yasmin Campos;Pista;Sábado
+101320;Helena Dias;Pista;Sábado
+101321;Tatiana Freitas;Pista;Sexta
+101322;Paula Barbosa;Pista Premium;Sábado
+101323;Sofia Pinto;Pista;Sexta
+101324;Caio Barbosa;Pista Premium;Domingo
+101325;Felipe Souza;Pista;Sexta
+101326;Larissa Melo;Arquibancada;Sexta
+101327;Nicolas Moreira;Pista;Domingo
+101328;Renata Oliveira;Arquibancada;Sexta
+101329;Ana Fernandes;Pista Premium;Sexta
+101330;Helena Vieira;Pista;Domingo
+101331;Lucas Nunes;Arquibancada;Sábado
+101332;Enzo Pinto;Arquibancada;Sábado
+101333;Nicolas Souza;Arquibancada;Sábado
+101334;Eduarda Martins;Camarote;Domingo
+101335;Sofia Lima;Pista;Sábado
+101336;Bruno Pinto;Arquibancada;Domingo
+101337;Enzo Melo;Arquibancada;Sexta
+101338;Daniela Lima;Pista;Sábado
+101339;Felipe Vieira;Arquibancada;Domingo
+101340;Marcos Gomes;Pista Premium;Sexta
+101341;Júlia Moreira;Pista;Sexta
+101342;Igor Santos;Pista;Domingo
+101343;Henrique Souza;Arquibancada;Domingo
+101344;Diego Cardoso;Pista;Sexta
+101345;João Rezende;Pista Premium;Sexta
+101346;Thiago Santos;Arquibancada;Domingo
+101347;Olívia Santos;Pista;Domingo
+101348;Igor Teixeira;Pista;Sábado
+101349;Isabela Ribeiro;Pista;Sexta
+101350;Valentina Araújo;Pista;Sábado
+101351;Larissa Ribeiro;Pista Premium;Domingo
+101352;Beatriz Costa;Pista;Sexta
+101353;Vitor Gomes;Pista;Sexta
+101354;Caio Vieira;Arquibancada;Domingo
+101355;Henrique Rezende;Arquibancada;Domingo
+101356;Mariana Lima;Pista Premium;Domingo
+101357;Caio Almeida;Arquibancada;Sexta
+101358;Otávio Almeida;Pista Premium;Sábado
+101359;Diego Costa;Pista;Sábado
+101360;Diego Souza;Pista Premium;Domingo
+101361;Ulisses Oliveira;Pista;Sábado
+101362;Thiago Mendes;Arquibancada;Sábado
+101363;Daniela Dias;Camarote;Domingo
+101364;Sofia Santos;Pista Premium;Sábado
+101365;Otávio Cardoso;Pista Premium;Sábado
+101366;Otávio Lopes;Arquibancada;Sexta
+101367;Gustavo Gomes;Arquibancada;Domingo
+101368;Gustavo Rocha;Pista;Sábado
+101369;Mariana Ramos;Arquibancada;Sexta
+101370;Caio Santos;Arquibancada;Sexta
+101371;Samuel Nascimento;Pista Premium;Sábado
+101372;Diego Dias;Arquibancada;Sexta
+101373;Fernanda Mendes;Pista Premium;Sábado
+101374;Marcos Pereira;Pista;Domingo
+101375;Sofia Lima;Camarote;Sexta
+101376;Eduarda Mendes;Pista;Domingo
+101377;Caio Oliveira;Pista Premium;Sábado
+101378;Henrique Barbosa;Arquibancada;Domingo
+101379;Diego Freitas;Pista;Sexta
+101380;Enzo Rezende;Arquibancada;Sexta
+101381;Otávio Vieira;Camarote;Domingo
+101382;Natália Freitas;Pista Premium;Sábado
+101383;Tatiana Costa;Arquibancada;Domingo
+101384;Enzo Araújo;Arquibancada;Sábado
+101385;Daniela Mendes;Pista;Sábado
+101386;Henrique Souza;Arquibancada;Domingo
+101387;Ana Costa;Arquibancada;Sábado
+101388;Natália Oliveira;Pista Premium;Sexta
+101389;Júlia Pinto;Pista;Sexta
+101390;Igor Rezende;Arquibancada;Sábado
+101391;Paula Costa;Camarote;Sexta
+101392;Diego Barbosa;Arquibancada;Domingo
+101393;Rafael Pinto;Camarote;Sábado
+101394;Lucas Lima;Camarote;Sexta
+101395;Henrique Teixeira;Arquibancada;Sábado
+101396;Fernanda Fernandes;Arquibancada;Sábado
+101397;Diego Araújo;Camarote;Domingo
+101398;Isabela Ribeiro;Pista;Domingo
+101399;Igor Nunes;Arquibancada;Domingo
+101400;Isabela Freitas;Pista Premium;Domingo
+101401;Vitor Fernandes;Pista;Sábado
+101402;Samuel Vieira;Arquibancada;Sábado
+101403;Fernanda Gomes;Pista;Sexta
+101404;Leonardo Fernandes;Pista Premium;Domingo
+101405;Gustavo Melo;Pista;Domingo
+101406;Leonardo Dias;Camarote;Domingo
+101407;Otávio Araújo;Arquibancada;Domingo
+101408;Mariana Dias;Pista;Domingo
+101409;Fernanda Rezende;Arquibancada;Domingo
+101410;Isabela Freitas;Camarote;Sábado
+101411;Júlia Mendes;Pista;Domingo
+101412;Nicolas Moreira;Pista Premium;Sexta
+101413;Mariana Melo;Pista;Sábado
+101414;Thiago Ramos;Pista Premium;Sexta
+101415;Igor Lima;Camarote;Domingo
+101416;Rafael Ramos;Arquibancada;Sábado
+101417;Yasmin Campos;Camarote;Sexta
+101418;Helena Melo;Arquibancada;Sábado
+101419;Ana Almeida;Pista;Domingo
+101420;Diego Pereira;Camarote;Sexta
+101421;Beatriz Silva;Pista;Sábado
+101422;Nicolas Araújo;Pista Premium;Sábado
+101423;Renata Souza;Pista;Sábado
+101424;Otávio Dias;Pista;Sábado
+101425;Valentina Gomes;Pista Premium;Domingo
+101426;Gabriela Fernandes;Pista;Domingo
+101427;Mariana Gomes;Pista;Sexta
+101428;Leonardo Araújo;Pista;Domingo
+101429;Enzo Dias;Camarote;Sábado
+101430;Beatriz Martins;Pista;Sexta
+101431;Otávio Mendes;Pista;Sábado
+101432;Felipe Dias;Pista Premium;Sexta
+101433;Thiago Costa;Arquibancada;Domingo
+101434;Júlia Teixeira;Pista;Domingo
+101435;João Nascimento;Pista Premium;Sexta
+101436;Thiago Vieira;Arquibancada;Sábado
+101437;Enzo Souza;Arquibancada;Domingo
+101438;Renata Nascimento;Pista;Sábado
+101439;Ana Melo;Arquibancada;Domingo
+101440;Marcos Martins;Pista;Domingo
+101441;Yasmin Rocha;Pista Premium;Domingo
+101442;Samuel Freitas;Arquibancada;Sábado
+101443;Larissa Souza;Arquibancada;Sábado
+101444;Sofia Pinto;Pista Premium;Sábado
+101445;Thiago Mendes;Pista;Sábado
+101446;Felipe Dias;Pista Premium;Sexta
+101447;Pedro Freitas;Pista;Domingo
+101448;Paula Lopes;Pista;Sexta
+101449;João Almeida;Pista;Sexta
+101450;Bruno Vieira;Pista;Sábado
+101451;Fernanda Lopes;Arquibancada;Domingo
+101452;Yasmin Freitas;Camarote;Sexta
+101453;Mariana Pinto;Arquibancada;Sábado
+101454;Leonardo Ribeiro;Pista;Sexta
+101455;Sofia Nunes;Camarote;Sábado
+101456;João Pereira;Pista;Domingo
+101457;Eduarda Barbosa;Camarote;Domingo
+101458;Pedro Pinto;Pista;Domingo
+101459;Fernanda Moreira;Arquibancada;Sábado
+101460;Yasmin Ramos;Pista;Sábado
+101461;Valentina Oliveira;Pista;Domingo
+101462;Pedro Rocha;Pista;Sexta
+101463;Caio Teixeira;Pista;Sábado
+101464;Júlia Melo;Camarote;Domingo
+101465;Larissa Rezende;Arquibancada;Sábado
+101466;Mariana Lima;Arquibancada;Sábado
+101467;Bruno Lopes;Pista Premium;Sábado
+101468;Natália Gomes;Camarote;Sexta
+101469;Enzo Nascimento;Pista;Sexta
+101470;Eduarda Cardoso;Pista Premium;Domingo
+101471;Nicolas Dias;Pista Premium;Domingo
+101472;Samuel Mendes;Arquibancada;Sexta
+101473;Gustavo Lima;Camarote;Sexta
+101474;Renata Martins;Arquibancada;Sábado
+101475;Ulisses Rocha;Pista;Sexta
+101476;Valentina Rocha;Camarote;Sábado
+101477;Otávio Lima;Pista;Sexta
+101478;João Santos;Pista;Sexta
+101479;Diego Ribeiro;Pista;Sábado
+101480;Henrique Dias;Arquibancada;Sexta
+101481;Paula Souza;Arquibancada;Domingo
+101482;Sofia Rocha;Pista;Sábado
+101483;Larissa Dias;Pista;Sábado
+101484;Felipe Mendes;Pista;Domingo
+101485;Júlia Silva;Pista;Domingo
+101486;Igor Cardoso;Camarote;Sexta
+101487;Pedro Santos;Pista Premium;Domingo
+101488;Natália Campos;Arquibancada;Sexta
+101489;Júlia Nunes;Pista Premium;Domingo
+101490;Thiago Teixeira;Arquibancada;Sábado
+101491;Pedro Campos;Arquibancada;Sábado
+101492;Pedro Nascimento;Pista Premium;Domingo
+101493;Júlia Fernandes;Pista;Domingo
+101494;Daniela Lopes;Arquibancada;Sábado
+101495;Nicolas Teixeira;Pista;Sexta
+101496;Natália Cardoso;Pista Premium;Sexta
+101497;Caio Vieira;Pista;Sábado
+101498;Nicolas Araújo;Pista;Sexta
+101499;Leonardo Lima;Pista;Sexta
+101500;Otávio Moreira;Pista Premium;Sábado
+101501;Paula Rezende;Pista Premium;Sexta
+101502;Daniela Pereira;Pista Premium;Sábado
+101503;Nicolas Vieira;Arquibancada;Domingo
+101504;Natália Pereira;Arquibancada;Sexta
+101505;Lucas Lima;Pista;Sábado
+101506;Sofia Rocha;Pista;Domingo
+101507;Eduarda Barbosa;Pista;Sábado
+101508;Fernanda Freitas;Camarote;Sexta
+101509;Caio Lopes;Arquibancada;Sexta
+101510;Lucas Freitas;Arquibancada;Sexta
+101511;Bruno Costa;Pista;Sexta
+101512;Daniela Dias;Camarote;Domingo
+101513;Pedro Souza;Arquibancada;Domingo
+101514;Helena Barbosa;Pista;Sexta
+101515;Olívia Santos;Pista Premium;Domingo
+101516;Felipe Pereira;Pista;Sexta
+101517;Yasmin Campos;Pista;Domingo
+101518;Renata Rezende;Camarote;Sábado
+101519;Carla Oliveira;Arquibancada;Sábado
+101520;Fernanda Moreira;Pista;Sexta
+101521;Renata Dias;Arquibancada;Sexta
+101522;Leonardo Campos;Pista;Sábado
+101523;Helena Dias;Arquibancada;Sexta
+101524;Paula Pinto;Pista Premium;Domingo
+101525;Mariana Lopes;Arquibancada;Sexta
+101526;Sofia Ramos;Pista;Sexta
+101527;Gustavo Nascimento;Arquibancada;Sábado
+101528;Helena Costa;Arquibancada;Domingo
+101529;Yasmin Pinto;Pista;Domingo
+101530;João Souza;Arquibancada;Sexta
+101531;Ulisses Costa;Pista Premium;Sábado
+101532;Beatriz Gomes;Camarote;Sexta
+101533;Nicolas Lopes;Camarote;Sábado
+101534;Ulisses Campos;Pista;Sexta
+101535;Igor Souza;Arquibancada;Sábado
+101536;Samuel Moreira;Pista;Sexta
+101537;Yasmin Lima;Pista Premium;Domingo
+101538;Vitor Ribeiro;Camarote;Sábado
+101539;Thiago Pereira;Pista;Sábado
+101540;Henrique Nunes;Arquibancada;Domingo
+101541;Gabriela Gomes;Pista Premium;Sábado
+101542;Fernanda Barbosa;Pista Premium;Sábado
+101543;Pedro Oliveira;Arquibancada;Domingo
+101544;Renata Lima;Arquibancada;Sexta
+101545;Paula Oliveira;Pista;Sábado
+101546;Helena Silva;Pista;Sábado
+101547;Tatiana Dias;Pista;Sábado
+101548;Daniela Freitas;Pista;Domingo
+101549;Renata Campos;Pista;Domingo
+101550;Valentina Vieira;Arquibancada;Domingo
+101551;Thiago Costa;Camarote;Domingo
+101552;Júlia Barbosa;Pista Premium;Domingo
+101553;Sofia Araújo;Pista;Sábado
+101554;Gabriela Martins;Pista;Sábado
+101555;Mariana Nunes;Camarote;Domingo
+101556;Enzo Campos;Pista Premium;Domingo
+101557;Igor Rocha;Arquibancada;Domingo
+101558;Yasmin Barbosa;Pista;Sexta
+101559;João Silva;Arquibancada;Domingo
+101560;Ulisses Freitas;Arquibancada;Sábado
+101561;Isabela Araújo;Pista;Domingo
+101562;Paula Campos;Pista;Sábado
+101563;Renata Moreira;Pista;Sexta
+101564;Paula Ribeiro;Pista Premium;Domingo
+101565;Rafael Barbosa;Pista;Sexta
+101566;Tatiana Nunes;Pista;Sexta
+101567;Larissa Teixeira;Pista;Sexta
+101568;Júlia Teixeira;Pista Premium;Domingo
+101569;Mariana Teixeira;Arquibancada;Domingo
+101570;Helena Moreira;Arquibancada;Domingo
+101571;Henrique Silva;Pista;Domingo
+101572;João Rocha;Pista Premium;Sexta
+101573;Gabriela Rezende;Pista;Sábado
+101574;Mariana Freitas;Pista;Domingo
+101575;Valentina Campos;Pista;Sexta
+101576;Pedro Almeida;Pista Premium;Sexta
+101577;Thiago Pereira;Arquibancada;Sexta
+101578;Gustavo Vieira;Pista Premium;Domingo
+101579;Natália Pinto;Pista Premium;Domingo
+101580;Lucas Nascimento;Pista;Sexta
+101581;Renata Moreira;Camarote;Domingo
+101582;João Pinto;Pista;Sábado
+101583;Ana Lima;Pista Premium;Sexta
+101584;Fernanda Pereira;Pista Premium;Sábado
+101585;Olívia Almeida;Pista Premium;Sexta
+101586;Larissa Almeida;Pista Premium;Sábado
+101587;Mariana Ribeiro;Camarote;Sábado
+101588;Samuel Rezende;Pista;Sábado
+101589;Lucas Moreira;Pista Premium;Domingo
+101590;Ulisses Melo;Camarote;Domingo
+101591;Ulisses Nascimento;Pista Premium;Sábado
+101592;Sofia Araújo;Pista;Sexta
+101593;Renata Silva;Arquibancada;Domingo
+101594;Pedro Ramos;Arquibancada;Domingo
+101595;Thiago Nascimento;Pista;Domingo
+101596;Tatiana Rezende;Pista Premium;Sábado
+101597;Fernanda Teixeira;Arquibancada;Sábado
+101598;Felipe Ramos;Arquibancada;Domingo
+101599;Carla Freitas;Arquibancada;Domingo
+101600;Leonardo Santos;Pista;Domingo
+101601;Isabela Dias;Camarote;Sábado
+101602;Nicolas Nascimento;Arquibancada;Domingo
+101603;Henrique Barbosa;Arquibancada;Sábado
+101604;Pedro Martins;Pista Premium;Sábado
+101605;Diego Barbosa;Camarote;Sexta
+101606;Marcos Vieira;Pista;Sábado
+101607;Samuel Barbosa;Pista;Sábado
+101608;Eduarda Lima;Pista;Sexta
+101609;Gustavo Santos;Pista;Sábado
+101610;Natália Lopes;Pista;Domingo
+101611;Pedro Ribeiro;Pista;Sexta
+101612;Felipe Pereira;Arquibancada;Domingo
+101613;Bruno Martins;Pista;Sábado
+101614;Fernanda Costa;Pista;Domingo
+101615;Samuel Ribeiro;Pista;Sábado
+101616;Leonardo Silva;Pista Premium;Sexta
+101617;Daniela Rezende;Arquibancada;Domingo
+101618;Gabriela Ramos;Pista;Sábado
+101619;Júlia Moreira;Arquibancada;Sexta
+101620;Mariana Rocha;Pista Premium;Sábado
+101621;Valentina Gomes;Pista;Sexta
+101622;Júlia Rezende;Pista;Domingo
+101623;Valentina Silva;Arquibancada;Sábado
+101624;Fernanda Ribeiro;Arquibancada;Domingo
+101625;Ulisses Dias;Pista Premium;Domingo
+101626;Natália Nunes;Arquibancada;Domingo
+101627;Bruno Barbosa;Pista;Domingo
+101628;Rafael Santos;Pista;Sábado
+101629;Thiago Rocha;Pista Premium;Domingo
+101630;Ulisses Cardoso;Pista;Domingo
+101631;Larissa Oliveira;Arquibancada;Sexta
+101632;Beatriz Rezende;Pista;Sexta
+101633;Leonardo Nunes;Arquibancada;Domingo
+101634;Fernanda Teixeira;Pista;Domingo
+101635;Helena Rocha;Camarote;Sábado
+101636;Marcos Dias;Pista;Sábado
+101637;Thiago Cardoso;Pista Premium;Domingo
+101638;Gabriela Lopes;Arquibancada;Sexta
+101639;Leonardo Barbosa;Pista;Sexta
+101640;Larissa Nascimento;Pista;Sábado
+101641;Yasmin Costa;Arquibancada;Sábado
+101642;Larissa Lima;Pista Premium;Sábado
+101643;Felipe Pinto;Pista;Domingo
+101644;Ana Vieira;Pista;Sexta
+101645;Bruno Gomes;Pista;Sexta
+101646;Vitor Souza;Arquibancada;Sábado
+101647;Henrique Costa;Arquibancada;Sábado
+101648;Otávio Ramos;Pista Premium;Sexta
+101649;Eduarda Nunes;Arquibancada;Sábado
+101650;Diego Lopes;Arquibancada;Sábado
+101651;Enzo Lopes;Camarote;Domingo
+101652;Natália Fernandes;Pista;Domingo
+101653;Thiago Melo;Arquibancada;Sábado
+101654;Paula Nascimento;Camarote;Sexta
+101655;Leonardo Lima;Camarote;Sexta
+101656;Daniela Ramos;Pista Premium;Sexta
+101657;Lucas Gomes;Arquibancada;Sábado
+101658;Pedro Araújo;Pista Premium;Sexta
+101659;Daniela Mendes;Pista;Domingo
+101660;Rafael Cardoso;Camarote;Domingo
+101661;Isabela Moreira;Pista;Sábado
+101662;Otávio Vieira;Pista Premium;Sexta
+101663;Lucas Lima;Pista;Domingo
+101664;Yasmin Ribeiro;Arquibancada;Domingo
+101665;Beatriz Pereira;Pista Premium;Sábado
+101666;Rafael Cardoso;Arquibancada;Sexta
+101667;Ulisses Martins;Pista;Sábado
+101668;Otávio Barbosa;Pista;Sábado
+101669;Carla Cardoso;Pista;Sábado
+101670;Sofia Ribeiro;Arquibancada;Domingo
+101671;Larissa Costa;Pista;Sexta
+101672;Yasmin Souza;Arquibancada;Sábado
+101673;Larissa Moreira;Pista;Domingo
+101674;Rafael Barbosa;Pista Premium;Sexta
+101675;Rafael Moreira;Pista;Domingo
+101676;Paula Oliveira;Camarote;Domingo
+101677;Paula Almeida;Pista Premium;Domingo
+101678;Olívia Fernandes;Pista;Sábado
+101679;Thiago Teixeira;Pista;Sábado
+101680;Tatiana Martins;Camarote;Sábado
+101681;Valentina Oliveira;Pista;Domingo
+101682;Olívia Lima;Pista Premium;Domingo
+101683;Bruno Rezende;Pista;Domingo
+101684;Fernanda Mendes;Pista;Sábado
+101685;Marcos Moreira;Pista;Sexta
+101686;Thiago Teixeira;Pista;Sábado
+101687;Tatiana Ribeiro;Pista;Sábado
+101688;Isabela Fernandes;Pista;Domingo
+101689;Yasmin Costa;Arquibancada;Sexta
+101690;Otávio Barbosa;Pista;Sexta
+101691;Gustavo Martins;Arquibancada;Sábado
+101692;Beatriz Lopes;Arquibancada;Sexta
+101693;João Mendes;Camarote;Sábado
+101694;Helena Rezende;Pista Premium;Sexta
+101695;Henrique Santos;Camarote;Domingo
+101696;Fernanda Ramos;Pista;Sexta
+101697;Caio Ramos;Pista Premium;Sexta
+101698;Igor Barbosa;Pista;Sexta
+101699;Beatriz Araújo;Arquibancada;Sexta
+101700;Bruno Martins;Pista;Domingo
+101701;Beatriz Lopes;Pista Premium;Sábado
+101702;Larissa Rocha;Pista Premium;Sexta
+101703;Igor Mendes;Pista;Sábado
+101704;Rafael Nunes;Arquibancada;Sexta
+101705;Natália Ramos;Pista;Sexta
+101706;Eduarda Vieira;Pista Premium;Sexta
+101707;Gabriela Nunes;Pista Premium;Domingo
+101708;Júlia Nunes;Pista Premium;Sábado
+101709;Eduarda Lima;Arquibancada;Sexta
+101710;Júlia Melo;Arquibancada;Sexta
+101711;João Freitas;Pista;Domingo
+101712;Nicolas Pereira;Pista Premium;Sábado
+101713;Tatiana Moreira;Pista Premium;Domingo
+101714;Vitor Martins;Pista Premium;Domingo
+101715;Enzo Nascimento;Pista;Sábado
+101716;Marcos Lima;Pista;Domingo
+101717;Renata Nunes;Arquibancada;Sábado
+101718;Paula Ribeiro;Arquibancada;Sábado
+101719;Gustavo Mendes;Pista Premium;Sábado
+101720;Leonardo Silva;Pista;Domingo
+101721;Felipe Rezende;Camarote;Sexta
+101722;Nicolas Gomes;Pista;Domingo
+101723;Larissa Araújo;Camarote;Domingo
+101724;Natália Dias;Camarote;Domingo
+101725;Beatriz Freitas;Pista Premium;Sexta
+101726;Isabela Costa;Camarote;Sexta
+101727;Larissa Nunes;Pista;Sábado
+101728;Gabriela Moreira;Arquibancada;Sexta
+101729;Pedro Lima;Camarote;Domingo
+101730;Rafael Fernandes;Pista;Domingo
+101731;Renata Fernandes;Camarote;Sexta
+101732;Renata Lima;Arquibancada;Sábado
+101733;Nicolas Rocha;Pista;Domingo
+101734;Yasmin Campos;Pista;Sexta
+101735;Daniela Lima;Arquibancada;Domingo
+101736;Rafael Gomes;Arquibancada;Sexta
+101737;Fernanda Lima;Arquibancada;Domingo
+101738;Samuel Melo;Arquibancada;Domingo
+101739;Samuel Gomes;Arquibancada;Sábado
+101740;Diego Fernandes;Camarote;Sábado
+101741;Diego Santos;Pista;Sexta
+101742;Bruno Araújo;Pista Premium;Sábado
+101743;Caio Pereira;Camarote;Domingo
+101744;Igor Moreira;Pista Premium;Sábado
+101745;Yasmin Martins;Pista;Domingo
+101746;Daniela Nascimento;Camarote;Sexta
+101747;Ana Cardoso;Pista;Domingo
+101748;Natália Vieira;Arquibancada;Sexta
+101749;Sofia Nunes;Arquibancada;Sexta
+101750;Samuel Ribeiro;Pista;Sexta
+101751;Mariana Vieira;Arquibancada;Domingo
+101752;Tatiana Moreira;Pista;Sábado
+101753;Beatriz Melo;Pista;Sábado
+101754;Bruno Araújo;Pista Premium;Sábado
+101755;Renata Costa;Pista;Sexta
+101756;Tatiana Gomes;Pista Premium;Sexta
+101757;Eduarda Ribeiro;Pista;Sexta
+101758;Eduarda Lima;Pista;Sexta
+101759;Vitor Rocha;Pista;Domingo
+101760;Gabriela Souza;Pista Premium;Domingo
+101761;Carla Martins;Arquibancada;Sexta
+101762;Igor Freitas;Pista Premium;Domingo
+101763;Gabriela Campos;Arquibancada;Domingo
+101764;Thiago Martins;Pista;Sexta
+101765;Natália Araújo;Arquibancada;Sexta
+101766;Valentina Fernandes;Pista Premium;Sexta
+101767;Helena Barbosa;Pista;Sexta
+101768;Yasmin Fernandes;Arquibancada;Domingo
+101769;Felipe Silva;Pista Premium;Sexta
+101770;Rafael Oliveira;Pista;Sábado
+101771;Samuel Oliveira;Arquibancada;Sexta
+101772;Lucas Melo;Pista;Sexta
+101773;Ana Santos;Pista;Sexta
+101774;Lucas Vieira;Arquibancada;Sexta
+101775;Renata Teixeira;Arquibancada;Sábado
+101776;Gustavo Teixeira;Pista Premium;Sexta
+101777;João Dias;Pista;Sexta
+101778;Felipe Fernandes;Pista;Domingo
+101779;Júlia Costa;Arquibancada;Sexta
+101780;Júlia Pereira;Pista Premium;Sexta
+101781;Leonardo Ribeiro;Pista Premium;Domingo
+101782;Helena Moreira;Pista;Sábado
+101783;Diego Oliveira;Pista Premium;Sexta
+101784;Ana Ramos;Pista Premium;Domingo
+101785;Rafael Vieira;Pista;Sexta
+101786;Marcos Campos;Pista Premium;Domingo
+101787;Natália Martins;Pista;Sábado
+101788;Paula Pinto;Camarote;Domingo
+101789;Mariana Vieira;Arquibancada;Sexta
+101790;Otávio Silva;Pista;Sexta
+101791;Marcos Nunes;Pista;Sábado
+101792;Tatiana Almeida;Pista;Domingo
+101793;Diego Freitas;Pista;Sábado
+101794;Thiago Gomes;Arquibancada;Domingo
+101795;Marcos Gomes;Pista Premium;Sábado
+101796;Pedro Barbosa;Arquibancada;Sábado
+101797;Sofia Nunes;Pista Premium;Sexta
+101798;Samuel Martins;Arquibancada;Domingo
+101799;Vitor Almeida;Pista;Sábado
+101800;Júlia Gomes;Camarote;Sexta
+101801;Pedro Santos;Arquibancada;Sexta
+101802;Ulisses Melo;Pista;Sexta
+101803;Beatriz Araújo;Pista;Domingo
+101804;Felipe Vieira;Pista;Sábado
+101805;Valentina Teixeira;Arquibancada;Sábado
+101806;Olívia Araújo;Pista;Sábado
+101807;João Pereira;Pista;Domingo
+101808;Ulisses Fernandes;Arquibancada;Domingo
+101809;Rafael Silva;Pista;Sábado
+101810;Igor Martins;Pista;Sexta
+101811;Otávio Araújo;Arquibancada;Sexta
+101812;Larissa Nascimento;Pista;Domingo
+101813;Yasmin Barbosa;Camarote;Sexta
+101814;Leonardo Fernandes;Arquibancada;Domingo
+101815;Igor Freitas;Arquibancada;Sexta
+101816;Larissa Oliveira;Pista Premium;Domingo
+101817;Isabela Souza;Arquibancada;Domingo
+101818;Isabela Rocha;Pista;Sábado
+101819;Felipe Araújo;Arquibancada;Sábado
+101820;Igor Gomes;Pista;Sexta
+101821;Otávio Gomes;Arquibancada;Sábado
+101822;Larissa Martins;Camarote;Sexta
+101823;Helena Fernandes;Pista;Sábado
+101824;Natália Rezende;Arquibancada;Sexta
+101825;Júlia Santos;Pista;Domingo
+101826;Paula Fernandes;Pista;Sexta
+101827;Vitor Freitas;Pista;Sexta
+101828;Bruno Gomes;Arquibancada;Sábado
+101829;Gabriela Pinto;Arquibancada;Domingo
+101830;Bruno Moreira;Pista;Domingo
+101831;Tatiana Ribeiro;Pista Premium;Domingo
+101832;João Gomes;Arquibancada;Domingo
+101833;Leonardo Nunes;Arquibancada;Domingo
+101834;Ana Dias;Pista;Sexta
+101835;Bruno Campos;Pista;Sexta
+101836;Fernanda Mendes;Pista;Sexta
+101837;Larissa Almeida;Pista Premium;Sexta
+101838;Natália Rocha;Pista Premium;Sábado
+101839;Júlia Pereira;Pista;Sexta
+101840;Henrique Lopes;Pista;Sexta
+101841;Yasmin Santos;Pista Premium;Domingo
+101842;Eduarda Almeida;Arquibancada;Sábado
+101843;Nicolas Oliveira;Arquibancada;Domingo
+101844;Paula Barbosa;Pista;Domingo
+101845;Nicolas Oliveira;Pista;Domingo
+101846;Caio Cardoso;Pista Premium;Sábado
+101847;Sofia Fernandes;Arquibancada;Sexta
+101848;Ana Martins;Pista;Domingo
+101849;Beatriz Lima;Pista Premium;Sábado
+101850;Ulisses Melo;Arquibancada;Domingo
+101851;João Costa;Arquibancada;Domingo
+101852;Yasmin Ramos;Pista;Sexta
+101853;Thiago Araújo;Pista Premium;Domingo
+101854;Larissa Rocha;Pista;Domingo
+101855;Rafael Souza;Arquibancada;Sexta
+101856;Lucas Fernandes;Pista;Sexta
+101857;Leonardo Campos;Pista;Sexta
+101858;Vitor Teixeira;Pista;Sábado
+101859;Igor Melo;Pista Premium;Domingo
+101860;Olívia Rocha;Pista Premium;Sexta
+101861;Pedro Silva;Pista;Sábado
+101862;Rafael Moreira;Arquibancada;Domingo
+101863;Yasmin Lopes;Pista Premium;Sábado
+101864;Valentina Melo;Pista Premium;Domingo
+101865;Vitor Santos;Arquibancada;Sábado
+101866;Pedro Gomes;Pista Premium;Sábado
+101867;Lucas Lopes;Pista Premium;Domingo
+101868;Natália Ramos;Pista;Domingo
+101869;Vitor Nunes;Arquibancada;Domingo
+101870;Mariana Lopes;Arquibancada;Sexta
+101871;Leonardo Fernandes;Pista;Sábado
+101872;Olívia Ribeiro;Camarote;Sexta
+101873;Igor Melo;Arquibancada;Domingo
+101874;Marcos Barbosa;Arquibancada;Sábado
+101875;Caio Fernandes;Pista;Sábado
+101876;Samuel Araújo;Pista Premium;Domingo
+101877;Henrique Melo;Camarote;Sábado
+101878;Gustavo Silva;Pista;Sábado
+101879;Gabriela Lima;Pista;Domingo
+101880;Tatiana Silva;Camarote;Sábado
+101881;Larissa Gomes;Arquibancada;Domingo
+101882;Otávio Rezende;Arquibancada;Sábado
+101883;Mariana Almeida;Pista Premium;Sexta
+101884;Beatriz Oliveira;Pista;Domingo
+101885;Gustavo Ramos;Arquibancada;Domingo
+101886;Tatiana Dias;Arquibancada;Sexta
+101887;Leonardo Mendes;Pista;Domingo
+101888;Júlia Vieira;Arquibancada;Sexta
+101889;Rafael Barbosa;Arquibancada;Domingo
+101890;Daniela Silva;Pista;Domingo
+101891;Daniela Lima;Arquibancada;Sexta
+101892;Tatiana Almeida;Pista;Domingo
+101893;Pedro Pereira;Pista;Sábado
+101894;Beatriz Nunes;Pista Premium;Sexta
+101895;Gustavo Lima;Camarote;Sábado
+101896;Bruno Souza;Pista Premium;Sábado
+101897;Helena Pereira;Arquibancada;Sábado
+101898;Lucas Ramos;Pista;Sexta
+101899;Júlia Ribeiro;Pista;Domingo
+101900;Renata Ribeiro;Pista;Domingo
+101901;Leonardo Mendes;Arquibancada;Domingo
+101902;Igor Fernandes;Pista;Sexta
+101903;Felipe Melo;Pista;Sexta
+101904;Gustavo Pereira;Arquibancada;Sexta
+101905;Nicolas Nunes;Pista;Sexta
+101906;Caio Souza;Arquibancada;Domingo
+101907;Marcos Ramos;Pista Premium;Sábado
+101908;Gabriela Melo;Pista;Sexta
+101909;Marcos Nunes;Pista;Domingo
+101910;Mariana Vieira;Arquibancada;Sexta
+101911;Daniela Barbosa;Pista Premium;Domingo
+101912;Olívia Almeida;Pista;Sexta
+101913;Gustavo Costa;Pista Premium;Domingo
+101914;Vitor Cardoso;Pista;Domingo
+101915;Leonardo Teixeira;Arquibancada;Domingo
+101916;Eduarda Oliveira;Pista;Sábado
+101917;Renata Araújo;Pista;Domingo
+101918;Vitor Teixeira;Pista;Domingo
+101919;Carla Barbosa;Pista;Sábado
+101920;Henrique Silva;Arquibancada;Domingo
+101921;Nicolas Gomes;Pista;Sábado
+101922;Sofia Araújo;Pista;Sexta
+101923;Júlia Teixeira;Pista;Sexta
+101924;Caio Barbosa;Arquibancada;Sexta
+101925;Gabriela Lopes;Pista;Sexta
+101926;Ulisses Gomes;Camarote;Sexta
+101927;Renata Dias;Pista;Sexta
+101928;Fernanda Fernandes;Arquibancada;Domingo
+101929;Rafael Mendes;Arquibancada;Domingo
+101930;Nicolas Santos;Pista Premium;Sexta
+101931;Beatriz Cardoso;Pista Premium;Domingo
+101932;Nicolas Lima;Pista;Domingo
+101933;Valentina Barbosa;Pista Premium;Domingo
+101934;Pedro Martins;Pista Premium;Sábado
+101935;Mariana Rocha;Arquibancada;Sábado
+101936;Lucas Fernandes;Pista;Domingo
+101937;Renata Dias;Pista Premium;Sexta
+101938;João Dias;Pista;Sábado
+101939;Pedro Rocha;Pista;Sábado
+101940;Pedro Ribeiro;Pista;Domingo
+101941;João Melo;Pista Premium;Sábado
+101942;Larissa Souza;Pista;Domingo
+101943;Isabela Gomes;Pista Premium;Sábado
+101944;Nicolas Fernandes;Arquibancada;Domingo
+101945;Caio Moreira;Pista;Sábado
+101946;Carla Rocha;Camarote;Sexta
+101947;Diego Melo;Pista;Domingo
+101948;Felipe Pinto;Arquibancada;Sexta
+101949;Bruno Melo;Arquibancada;Sexta
+101950;Marcos Ribeiro;Pista Premium;Sábado
+101951;Igor Ramos;Pista;Domingo
+101952;Otávio Oliveira;Pista;Sábado
+101953;Olívia Lima;Arquibancada;Sexta
+101954;Pedro Ramos;Arquibancada;Domingo
+101955;Fernanda Dias;Pista Premium;Domingo
+101956;Vitor Pereira;Pista Premium;Sábado
+101957;Rafael Santos;Pista;Sábado
+101958;Mariana Fernandes;Pista;Sábado
+101959;Gustavo Fernandes;Pista Premium;Domingo
+101960;Larissa Lima;Pista Premium;Sábado
+101961;Fernanda Costa;Pista;Domingo
+101962;Yasmin Rezende;Pista;Sábado
+101963;Carla Lopes;Pista Premium;Sexta
+101964;Felipe Silva;Camarote;Domingo
+101965;Otávio Nunes;Pista;Sexta
+101966;Paula Souza;Pista;Sábado
+101967;Júlia Melo;Pista;Sexta
+101968;Samuel Dias;Pista;Sábado
+101969;Helena Pinto;Pista;Sábado
+101970;Júlia Costa;Pista Premium;Domingo
+101971;Fernanda Almeida;Arquibancada;Sexta
+101972;Natália Barbosa;Pista;Domingo
+101973;Marcos Ribeiro;Camarote;Domingo
+101974;Beatriz Araújo;Arquibancada;Domingo
+101975;Carla Lopes;Pista;Sexta
+101976;Isabela Rezende;Arquibancada;Domingo
+101977;Caio Nunes;Arquibancada;Domingo
+101978;Gustavo Costa;Camarote;Sábado
+101979;Daniela Moreira;Pista Premium;Sábado
+101980;Rafael Santos;Pista;Domingo
+101981;Valentina Pinto;Pista Premium;Sexta
+101982;Henrique Barbosa;Arquibancada;Domingo
+101983;Yasmin Araújo;Pista;Domingo
+101984;Bruno Vieira;Pista Premium;Domingo
+101985;Enzo Martins;Pista;Sexta
+101986;Mariana Moreira;Pista Premium;Domingo
+101987;Pedro Rocha;Camarote;Sábado
+101988;Otávio Almeida;Pista;Sábado
+101989;Daniela Nascimento;Pista;Sexta
+101990;Bruno Lopes;Pista;Sexta
+101991;Paula Almeida;Pista;Domingo
+101992;Isabela Lima;Arquibancada;Sexta
+101993;Yasmin Martins;Pista;Sexta
+101994;Tatiana Nunes;Pista Premium;Domingo
+101995;Marcos Almeida;Arquibancada;Sexta
+101996;Ulisses Souza;Arquibancada;Domingo
+101997;Leonardo Melo;Arquibancada;Domingo
+101998;Rafael Araújo;Pista Premium;Domingo
+101999;Beatriz Araújo;Pista;Sexta
+102000;Lucas Ramos;Arquibancada;Sábado
+102001;Diego Mendes;Pista;Sexta
+102002;Beatriz Rocha;Pista;Sexta
+102003;Tatiana Gomes;Arquibancada;Sexta
+102004;Leonardo Almeida;Pista;Domingo
+102005;Yasmin Lopes;Pista Premium;Sábado
+102006;Fernanda Moreira;Pista Premium;Sábado
+102007;Olívia Freitas;Arquibancada;Domingo
+102008;Bruno Silva;Pista;Sábado
+102009;Tatiana Fernandes;Pista Premium;Sábado
+102010;Fernanda Moreira;Pista Premium;Sexta
+102011;Renata Araújo;Pista Premium;Sábado
+102012;Henrique Souza;Pista;Sexta
+102013;Sofia Barbosa;Arquibancada;Sexta
+102014;Fernanda Costa;Pista Premium;Sexta
+102015;Gustavo Oliveira;Pista;Sexta
+102016;Samuel Teixeira;Pista;Domingo
+102017;Ulisses Melo;Pista Premium;Sábado
+102018;Vitor Mendes;Pista;Sábado
+102019;Rafael Ribeiro;Pista;Sexta
+102020;Gustavo Araújo;Pista;Sexta
+102021;Gustavo Rezende;Pista Premium;Sexta
+102022;Helena Campos;Arquibancada;Sábado
+102023;Marcos Araújo;Pista;Sábado
+102024;Gabriela Santos;Pista;Domingo
+102025;Carla Rocha;Pista;Sexta
+102026;Lucas Campos;Arquibancada;Domingo
+102027;Olívia Dias;Pista;Sexta
+102028;Thiago Lima;Pista;Domingo
+102029;Gustavo Costa;Pista Premium;Sábado
+102030;Samuel Souza;Pista;Sábado
+102031;Eduarda Teixeira;Pista;Domingo
+102032;Fernanda Costa;Pista;Sábado
+102033;Carla Almeida;Pista;Domingo
+102034;Tatiana Rocha;Pista Premium;Domingo
+102035;Olívia Lopes;Pista Premium;Sexta
+102036;Tatiana Rezende;Pista;Sábado
+102037;Igor Cardoso;Pista;Sábado
+102038;Beatriz Almeida;Arquibancada;Sábado
+102039;Thiago Campos;Pista Premium;Domingo
+102040;Mariana Fernandes;Pista Premium;Sexta
+102041;Larissa Nascimento;Pista Premium;Sábado
+102042;Nicolas Melo;Pista;Sexta
+102043;Thiago Rocha;Camarote;Sexta
+102044;Eduarda Teixeira;Camarote;Domingo
+102045;Otávio Pereira;Pista;Sábado
+102046;Renata Nunes;Pista;Domingo
+102047;Bruno Ribeiro;Pista;Sexta
+102048;Yasmin Rezende;Pista;Sexta
+102049;Gustavo Rezende;Pista Premium;Sábado
+102050;Daniela Nascimento;Pista Premium;Sábado
+102051;Fernanda Pereira;Pista;Domingo
+102052;Larissa Moreira;Pista;Sexta
+102053;Sofia Fernandes;Pista;Sábado
+102054;Júlia Pereira;Arquibancada;Domingo
+102055;Igor Cardoso;Arquibancada;Sexta
+102056;Larissa Cardoso;Pista;Sexta
+102057;Diego Cardoso;Arquibancada;Sexta
+102058;Nicolas Teixeira;Pista;Sexta
+102059;Helena Rezende;Pista Premium;Domingo
+102060;Gabriela Santos;Pista;Sexta
+102061;Eduarda Martins;Pista Premium;Sexta
+102062;Vitor Fernandes;Pista;Domingo
+102063;Ana Pinto;Pista;Sábado
+102064;Olívia Dias;Pista Premium;Sábado
+102065;Beatriz Pereira;Arquibancada;Sexta
+102066;Pedro Melo;Arquibancada;Sexta
+102067;Daniela Silva;Pista Premium;Sábado
+102068;Fernanda Rocha;Pista;Sexta
+102069;Yasmin Ramos;Arquibancada;Sexta
+102070;Daniela Fernandes;Pista;Sábado
+102071;Tatiana Dias;Pista Premium;Sexta
+102072;Gabriela Mendes;Pista;Sábado
+102073;Olívia Ramos;Pista Premium;Sábado
+102074;Otávio Pereira;Arquibancada;Domingo
+102075;Nicolas Ribeiro;Pista Premium;Sábado
+102076;Isabela Freitas;Arquibancada;Sábado
+102077;Isabela Melo;Pista;Sexta
+102078;Marcos Barbosa;Pista;Domingo
+102079;João Pereira;Pista Premium;Sexta
+102080;Carla Nunes;Pista Premium;Sexta
+102081;Helena Nunes;Arquibancada;Sexta
+102082;Henrique Campos;Pista Premium;Sábado
+102083;Igor Ribeiro;Pista Premium;Sexta
+102084;Renata Santos;Pista;Sexta
+102085;Natália Costa;Arquibancada;Sábado
+102086;Daniela Almeida;Camarote;Domingo
+102087;Lucas Ramos;Pista;Sábado
+102088;Lucas Nascimento;Pista Premium;Sexta
+102089;Renata Ramos;Pista;Sábado
+102090;Ulisses Rocha;Pista;Sexta
+102091;Ana Cardoso;Arquibancada;Domingo
+102092;Carla Barbosa;Pista Premium;Sábado
+102093;Marcos Santos;Arquibancada;Domingo
+102094;Enzo Barbosa;Pista;Domingo
+102095;Lucas Souza;Pista Premium;Sábado
+102096;Tatiana Oliveira;Arquibancada;Sábado
+102097;Larissa Campos;Camarote;Sexta
+102098;Gabriela Ramos;Pista;Sexta
+102099;Yasmin Oliveira;Camarote;Domingo
+102100;Larissa Pereira;Pista;Sexta
+102101;Marcos Silva;Pista;Sexta
+102102;Nicolas Fernandes;Arquibancada;Sábado
+102103;Beatriz Pinto;Pista Premium;Sábado
+102104;Marcos Teixeira;Pista Premium;Domingo
+102105;Vitor Cardoso;Pista;Sexta
+102106;Tatiana Mendes;Arquibancada;Sexta
+102107;Igor Almeida;Camarote;Sábado
+102108;Thiago Araújo;Pista;Sexta
+102109;Olívia Silva;Pista;Sexta
+102110;Paula Moreira;Pista;Domingo
+102111;Leonardo Nunes;Pista;Sábado
+102112;Daniela Freitas;Pista;Sábado
+102113;Ana Santos;Pista Premium;Sexta
+102114;Marcos Pinto;Pista;Sábado
+102115;Yasmin Mendes;Arquibancada;Sexta
+102116;Sofia Lima;Arquibancada;Sábado
+102117;Beatriz Barbosa;Pista;Sábado
+102118;Gabriela Gomes;Pista;Sexta
+102119;Gustavo Pinto;Camarote;Domingo
+102120;Natália Freitas;Camarote;Sexta
+102121;Vitor Almeida;Pista;Sexta
+102122;Gabriela Fernandes;Pista;Sábado
+102123;Eduarda Campos;Pista;Sexta
+102124;Daniela Pinto;Pista;Sábado
+102125;Nicolas Almeida;Pista;Domingo
+102126;Eduarda Campos;Pista;Domingo
+102127;Igor Martins;Arquibancada;Sábado
+102128;Isabela Rezende;Pista;Domingo
+102129;Marcos Dias;Pista;Domingo
+102130;Pedro Martins;Arquibancada;Sábado
+102131;Helena Pinto;Arquibancada;Domingo
+102132;Lucas Almeida;Pista;Domingo
+102133;Ana Campos;Camarote;Sexta
+102134;Bruno Vieira;Camarote;Domingo
+102135;Otávio Costa;Pista;Sábado
+102136;Olívia Melo;Pista;Sexta
+102137;Nicolas Souza;Arquibancada;Sexta
+102138;Leonardo Campos;Pista Premium;Sexta
+102139;Pedro Santos;Pista;Domingo
+102140;Larissa Moreira;Pista Premium;Sexta
+102141;Bruno Moreira;Arquibancada;Sábado
+102142;Samuel Dias;Arquibancada;Sexta
+102143;Otávio Lopes;Pista;Sábado
+102144;Mariana Martins;Pista;Sábado
+102145;Isabela Ribeiro;Pista;Sexta
+102146;Renata Gomes;Arquibancada;Domingo
+102147;Renata Cardoso;Pista;Domingo
+102148;Fernanda Rezende;Pista;Domingo
+102149;Gustavo Dias;Pista Premium;Domingo
+102150;Helena Cardoso;Pista;Sexta
+102151;Gabriela Moreira;Pista;Domingo
+102152;Sofia Moreira;Arquibancada;Sábado
+102153;Carla Cardoso;Arquibancada;Sábado
+102154;Leonardo Campos;Arquibancada;Sábado
+102155;Sofia Vieira;Pista;Sábado
+102156;Nicolas Cardoso;Pista;Domingo
+102157;Sofia Oliveira;Arquibancada;Sábado
+102158;Felipe Oliveira;Pista;Sexta
+102159;Beatriz Fernandes;Pista Premium;Sexta
+102160;Henrique Oliveira;Pista Premium;Domingo
+102161;Ana Costa;Pista;Sábado
+102162;Ana Barbosa;Arquibancada;Sábado
+102163;Leonardo Dias;Pista;Sexta
+102164;Larissa Almeida;Pista;Sábado
+102165;Samuel Araújo;Pista;Domingo
+102166;Leonardo Lima;Pista;Domingo
+102167;Yasmin Almeida;Pista Premium;Sexta
+102168;Gustavo Nunes;Pista Premium;Sexta
+102169;Diego Lopes;Pista;Sábado
+102170;Marcos Pereira;Arquibancada;Sexta
+102171;Natália Melo;Pista;Sábado
+102172;Diego Fernandes;Arquibancada;Sábado
+102173;Felipe Lima;Pista;Sexta
+102174;Olívia Oliveira;Arquibancada;Sexta
+102175;Leonardo Silva;Pista;Sábado
+102176;Larissa Ramos;Pista;Sexta
+102177;Paula Santos;Pista;Sexta
+102178;Diego Martins;Pista;Sábado
+102179;Tatiana Rocha;Pista;Sexta
+102180;Olívia Lima;Arquibancada;Domingo
+102181;Larissa Nunes;Pista;Sexta
+102182;Ulisses Melo;Pista;Domingo
+102183;Bruno Souza;Pista Premium;Sábado
+102184;Nicolas Costa;Arquibancada;Domingo
+102185;Eduarda Dias;Arquibancada;Sábado
+102186;Diego Lima;Pista;Domingo
+102187;Paula Pinto;Pista;Sexta
+102188;Lucas Dias;Arquibancada;Sábado
+102189;Caio Fernandes;Pista;Sexta
+102190;Rafael Martins;Pista;Sábado
+102191;Igor Dias;Arquibancada;Sábado
+102192;Gabriela Teixeira;Pista;Sexta
+102193;Daniela Barbosa;Arquibancada;Sábado
+102194;Caio Mendes;Arquibancada;Sábado
+102195;Larissa Santos;Pista;Domingo
+102196;Thiago Costa;Pista;Sexta
+102197;Diego Souza;Pista;Sexta
+102198;Thiago Melo;Pista;Sexta
+102199;Renata Rezende;Pista;Domingo
+102200;Fernanda Almeida;Arquibancada;Domingo
+102201;Renata Almeida;Arquibancada;Sexta
+102202;Caio Lopes;Pista;Sábado
+102203;Rafael Rocha;Pista Premium;Domingo
+102204;Rafael Rezende;Pista;Sábado
+102205;Lucas Souza;Pista Premium;Domingo
+102206;Vitor Nascimento;Pista Premium;Sexta
+102207;Natália Pereira;Pista;Sexta
+102208;Felipe Ramos;Pista;Sábado
+102209;Vitor Araújo;Arquibancada;Domingo
+102210;Diego Ramos;Pista;Sábado
+102211;Rafael Lima;Arquibancada;Domingo
+102212;Eduarda Ribeiro;Arquibancada;Sexta
+102213;Enzo Souza;Pista;Sábado
+102214;Ana Araújo;Pista Premium;Domingo
+102215;João Fernandes;Pista;Sábado
+102216;Larissa Barbosa;Pista;Sábado
+102217;Fernanda Teixeira;Arquibancada;Sábado
+102218;Larissa Souza;Pista;Domingo
+102219;Eduarda Freitas;Pista Premium;Sexta
+102220;Pedro Fernandes;Pista Premium;Sábado
+102221;João Souza;Arquibancada;Domingo
+102222;Ana Araújo;Arquibancada;Domingo
+102223;Eduarda Lopes;Arquibancada;Sábado
+102224;Caio Freitas;Pista Premium;Sexta
+102225;Ana Gomes;Pista;Domingo
+102226;Ulisses Gomes;Arquibancada;Sexta
+102227;Lucas Barbosa;Arquibancada;Sábado
+102228;Olívia Ribeiro;Pista;Domingo
+102229;Diego Pinto;Pista;Sexta
+102230;Helena Rezende;Pista;Sábado
+102231;Leonardo Moreira;Pista Premium;Domingo
+102232;Caio Oliveira;Arquibancada;Domingo
+102233;Júlia Fernandes;Arquibancada;Sábado
+102234;Ulisses Fernandes;Pista;Sexta
+102235;Enzo Teixeira;Pista;Sábado
+102236;Otávio Martins;Pista;Sábado
+102237;Ana Vieira;Arquibancada;Sábado
+102238;Thiago Vieira;Pista;Sexta
+102239;Fernanda Lopes;Pista;Sábado
+102240;Isabela Pinto;Pista Premium;Sexta
+102241;Larissa Souza;Arquibancada;Sexta
+102242;Nicolas Pereira;Camarote;Domingo
+102243;Diego Almeida;Arquibancada;Sábado
+102244;Larissa Melo;Arquibancada;Domingo
+102245;Yasmin Vieira;Pista Premium;Sábado
+102246;Enzo Vieira;Pista;Domingo
+102247;Diego Cardoso;Arquibancada;Domingo
+102248;Natália Araújo;Pista;Sexta
+102249;Natália Campos;Pista;Sexta
+102250;Helena Melo;Pista Premium;Sábado
+102251;Nicolas Rezende;Camarote;Domingo
+102252;Caio Rocha;Pista;Domingo
+102253;Diego Lima;Arquibancada;Sexta
+102254;Gabriela Nascimento;Arquibancada;Sexta
+102255;Mariana Costa;Camarote;Sexta
+102256;Daniela Freitas;Pista Premium;Sábado
+102257;Daniela Rocha;Camarote;Sábado
+102258;Henrique Vieira;Pista;Domingo
+102259;Nicolas Santos;Arquibancada;Domingo
+102260;Pedro Ribeiro;Pista;Sexta
+102261;Gabriela Mendes;Arquibancada;Sábado
+102262;Samuel Barbosa;Pista Premium;Sábado
+102263;Henrique Lima;Pista;Sexta
+102264;Felipe Rezende;Camarote;Domingo
+102265;Tatiana Fernandes;Pista;Domingo
+102266;Henrique Silva;Arquibancada;Sábado
+102267;Gabriela Nunes;Arquibancada;Sexta
+102268;Júlia Dias;Pista Premium;Domingo
+102269;Sofia Ramos;Camarote;Sexta
+102270;Diego Oliveira;Arquibancada;Domingo
+102271;Lucas Costa;Pista;Sexta
+102272;Fernanda Freitas;Arquibancada;Sábado
+102273;Sofia Nunes;Pista;Domingo
+102274;Ana Dias;Pista Premium;Domingo
+102275;Gustavo Lopes;Pista;Sábado
+102276;Pedro Martins;Pista;Sexta
+102277;Helena Costa;Pista;Domingo
+102278;Larissa Lopes;Pista;Sexta
+102279;Beatriz Cardoso;Pista;Sexta
+102280;Gustavo Lima;Arquibancada;Sexta
+102281;Júlia Nascimento;Pista;Sábado
+102282;Júlia Araújo;Pista;Sexta
+102283;Daniela Gomes;Pista;Sexta
+102284;Samuel Rezende;Arquibancada;Sexta
+102285;Leonardo Gomes;Pista;Sábado
+102286;Ulisses Rezende;Pista Premium;Sexta
+102287;Rafael Rocha;Arquibancada;Sexta
+102288;Samuel Lima;Pista;Domingo
+102289;Fernanda Fernandes;Pista Premium;Domingo
+102290;Daniela Teixeira;Arquibancada;Sexta
+102291;Rafael Pinto;Pista;Domingo
+102292;Tatiana Vieira;Pista;Sexta
+102293;Gabriela Pinto;Arquibancada;Sábado
+102294;Yasmin Martins;Pista;Domingo
+102295;Helena Santos;Pista Premium;Sexta
+102296;Otávio Moreira;Arquibancada;Domingo
+102297;Natália Souza;Pista;Sábado
+102298;Carla Ramos;Pista Premium;Sexta
+102299;Enzo Nunes;Pista Premium;Sexta
+102300;Bruno Ribeiro;Pista Premium;Domingo
+102301;Sofia Nascimento;Pista;Sexta
+102302;Lucas Ribeiro;Arquibancada;Sábado
+102303;Isabela Dias;Pista Premium;Sexta
+102304;Isabela Silva;Arquibancada;Domingo
+102305;Ana Rocha;Pista Premium;Sexta
+102306;Thiago Costa;Arquibancada;Domingo
+102307;Henrique Martins;Pista Premium;Domingo
+102308;Leonardo Costa;Pista Premium;Sábado
+102309;Paula Pinto;Pista;Sábado
+102310;Gabriela Costa;Pista;Sexta
+102311;Sofia Barbosa;Arquibancada;Domingo
+102312;Mariana Vieira;Arquibancada;Sábado
+102313;Beatriz Pereira;Pista;Domingo
+102314;Igor Dias;Pista Premium;Sábado
+102315;Ana Gomes;Pista Premium;Sexta
+102316;Daniela Barbosa;Pista;Domingo
+102317;Igor Dias;Pista;Sábado
+102318;Sofia Rocha;Pista;Domingo
+102319;Helena Freitas;Pista;Domingo
+102320;Fernanda Vieira;Arquibancada;Domingo
+102321;Thiago Costa;Pista;Sexta
+102322;Caio Lima;Arquibancada;Sábado
+102323;Ana Ribeiro;Pista;Sexta
+102324;Otávio Barbosa;Pista;Sexta
+102325;Gabriela Freitas;Pista;Sábado
+102326;Nicolas Rezende;Pista;Sábado
+102327;Larissa Campos;Pista Premium;Sábado
+102328;João Nunes;Arquibancada;Sexta
+102329;Renata Moreira;Arquibancada;Domingo
+102330;Enzo Santos;Pista;Sexta
+102331;Olívia Campos;Pista;Sexta
+102332;Júlia Pinto;Pista;Sábado
+102333;Júlia Santos;Pista Premium;Sábado
+102334;Enzo Nascimento;Arquibancada;Domingo
+102335;Olívia Lopes;Pista Premium;Domingo
+102336;Marcos Araújo;Pista Premium;Domingo
+102337;Pedro Cardoso;Arquibancada;Domingo
+102338;Samuel Fernandes;Arquibancada;Domingo
+102339;Vitor Gomes;Camarote;Sexta
+102340;Eduarda Cardoso;Camarote;Sexta
+102341;Henrique Costa;Camarote;Sexta
+102342;Enzo Silva;Camarote;Sexta
+102343;Vitor Fernandes;Pista Premium;Domingo
+102344;Enzo Fernandes;Pista;Domingo
+102345;Pedro Ramos;Pista;Sexta
+102346;Beatriz Ramos;Arquibancada;Domingo
+102347;Isabela Santos;Pista;Sexta
+102348;Helena Melo;Arquibancada;Sexta
+102349;João Silva;Pista;Domingo
+102350;Olívia Costa;Pista;Domingo
+102351;Renata Teixeira;Pista;Domingo
+102352;Mariana Teixeira;Camarote;Sábado
+102353;Otávio Lopes;Pista;Domingo
+102354;Natália Teixeira;Arquibancada;Domingo
+102355;Felipe Martins;Pista;Sexta
+102356;Yasmin Costa;Pista;Sábado
+102357;Enzo Melo;Arquibancada;Sexta
+102358;Lucas Ramos;Pista;Sábado
+102359;Olívia Oliveira;Arquibancada;Sábado
+102360;Valentina Rezende;Pista;Sexta
+102361;Rafael Silva;Arquibancada;Sexta
+102362;Tatiana Fernandes;Pista Premium;Domingo
+102363;Gustavo Cardoso;Pista;Sexta
+102364;Daniela Almeida;Camarote;Sábado
+102365;Sofia Dias;Pista;Sexta
+102366;Helena Fernandes;Arquibancada;Domingo
+102367;Gabriela Rezende;Pista;Sábado
+102368;Gabriela Pinto;Pista;Sábado
+102369;Lucas Lopes;Pista;Sexta
+102370;Bruno Santos;Camarote;Domingo
+102371;Lucas Fernandes;Camarote;Sexta
+102372;Tatiana Fernandes;Pista;Domingo
+102373;Tatiana Oliveira;Pista;Sexta
+102374;Natália Araújo;Arquibancada;Domingo
+102375;Larissa Nunes;Arquibancada;Sábado
+102376;João Freitas;Pista;Domingo
+102377;Isabela Costa;Arquibancada;Domingo
+102378;Tatiana Dias;Pista;Domingo
+102379;Fernanda Silva;Pista;Sábado
+102380;Mariana Lopes;Arquibancada;Sábado
+102381;Thiago Martins;Pista;Sexta
+102382;Helena Lima;Pista;Domingo
+102383;Otávio Mendes;Arquibancada;Sexta
+102384;Daniela Mendes;Arquibancada;Sexta
+102385;Nicolas Silva;Pista Premium;Sábado
+102386;Carla Melo;Pista;Sábado
+102387;Mariana Pereira;Pista;Sexta
+102388;Natália Nascimento;Pista;Domingo
+102389;Larissa Araújo;Pista;Sábado
+102390;Enzo Nascimento;Pista;Sábado
+102391;Gustavo Nunes;Pista;Sexta
+102392;Leonardo Melo;Pista;Sábado
+102393;Olívia Nunes;Arquibancada;Sábado
+102394;Paula Almeida;Pista;Domingo
+102395;Gustavo Rocha;Arquibancada;Sábado
+102396;Thiago Freitas;Arquibancada;Domingo
+102397;Rafael Rocha;Camarote;Sexta
+102398;Lucas Santos;Pista;Sábado
+102399;Helena Campos;Arquibancada;Sexta
+102400;Júlia Souza;Pista;Sexta
+102401;Natália Martins;Pista;Domingo
+102402;Vitor Oliveira;Pista;Sábado
+102403;Enzo Barbosa;Pista;Sábado
+102404;Natália Vieira;Camarote;Sábado
+102405;Daniela Teixeira;Camarote;Domingo
+102406;Ana Oliveira;Arquibancada;Domingo
+102407;João Freitas;Pista;Sexta
+102408;Felipe Pereira;Pista;Sexta
+102409;Caio Barbosa;Arquibancada;Sábado
+102410;Enzo Moreira;Arquibancada;Sábado
+102411;Felipe Fernandes;Pista;Domingo
+102412;Paula Campos;Arquibancada;Domingo
+102413;Carla Fernandes;Pista;Domingo
+102414;Felipe Nunes;Pista;Sábado
+102415;Olívia Silva;Arquibancada;Domingo
+102416;Samuel Gomes;Pista Premium;Sexta
+102417;Renata Costa;Pista Premium;Domingo
+102418;Leonardo Mendes;Pista;Domingo
+102419;João Martins;Pista Premium;Sexta
+102420;Isabela Mendes;Pista;Sábado
+102421;Tatiana Pereira;Pista;Domingo
+102422;Yasmin Cardoso;Pista;Sábado
+102423;Sofia Melo;Pista;Domingo
+102424;Ulisses Rocha;Pista;Domingo
+102425;Tatiana Souza;Camarote;Sábado
+102426;Fernanda Rocha;Arquibancada;Domingo
+102427;Diego Mendes;Pista;Domingo
+102428;Igor Lima;Arquibancada;Sexta
+102429;João Freitas;Pista;Sábado
+102430;Lucas Dias;Pista;Sábado
+102431;Ana Araújo;Arquibancada;Sábado
+102432;Lucas Gomes;Pista;Sexta
+102433;Caio Silva;Pista;Sábado
+102434;Otávio Santos;Pista;Sábado
+102435;Samuel Souza;Pista;Domingo
+102436;Caio Lopes;Pista;Sexta
+102437;Leonardo Fernandes;Pista Premium;Sexta
+102438;Gustavo Pinto;Pista;Sexta
+102439;Diego Melo;Arquibancada;Sábado
+102440;Felipe Vieira;Arquibancada;Sábado
+102441;Samuel Pinto;Pista;Sexta
+102442;Ana Freitas;Pista;Sexta
+102443;Ulisses Campos;Arquibancada;Sábado
+102444;Carla Campos;Camarote;Domingo
+102445;Paula Lima;Pista Premium;Sexta
+102446;Caio Nascimento;Arquibancada;Sexta
+102447;Olívia Rocha;Pista;Domingo
+102448;Pedro Oliveira;Arquibancada;Sábado
+102449;Gabriela Almeida;Pista;Sexta
+102450;Samuel Rocha;Arquibancada;Domingo
+102451;João Pinto;Pista;Sexta
+102452;Carla Araújo;Arquibancada;Sábado
+102453;Samuel Ribeiro;Arquibancada;Sexta
+102454;Bruno Almeida;Pista;Sexta
+102455;Samuel Mendes;Arquibancada;Sábado
+102456;Mariana Rezende;Pista;Sábado
+102457;Beatriz Nascimento;Pista;Domingo
+102458;Daniela Costa;Pista;Domingo
+102459;Isabela Martins;Arquibancada;Sexta
+102460;Tatiana Freitas;Pista;Sexta
+102461;Caio Ribeiro;Pista Premium;Sexta
+102462;Nicolas Nunes;Pista;Sábado
+102463;Isabela Teixeira;Pista;Sábado
+102464;Nicolas Almeida;Pista;Sexta
+102465;Caio Campos;Arquibancada;Domingo
+102466;Ana Barbosa;Arquibancada;Sexta
+102467;Sofia Melo;Pista;Sábado
+102468;Marcos Mendes;Pista;Domingo
+102469;Daniela Nunes;Arquibancada;Sexta
+102470;Bruno Ribeiro;Pista Premium;Sábado
+102471;Eduarda Ribeiro;Pista;Sexta
+102472;Fernanda Ribeiro;Pista;Sexta
+102473;Sofia Lima;Arquibancada;Sexta
+102474;Paula Moreira;Pista Premium;Domingo
+102475;Gustavo Barbosa;Pista;Domingo
+102476;Gabriela Martins;Pista Premium;Sexta
+102477;Carla Barbosa;Pista Premium;Sexta
+102478;Natália Barbosa;Arquibancada;Domingo
+102479;Nicolas Pinto;Arquibancada;Domingo
+102480;Renata Rezende;Arquibancada;Sexta
+102481;Natália Rezende;Camarote;Sexta
+102482;Beatriz Moreira;Pista;Sexta
+102483;Marcos Souza;Pista;Sábado
+102484;Nicolas Silva;Arquibancada;Domingo
+102485;Igor Dias;Pista Premium;Sábado
+102486;Diego Rocha;Pista Premium;Sábado
+102487;Sofia Santos;Camarote;Sábado
+102488;Rafael Silva;Arquibancada;Sábado
+102489;Olívia Ramos;Pista;Domingo
+102490;Leonardo Cardoso;Arquibancada;Domingo
+102491;Júlia Ribeiro;Pista;Sexta
+102492;Helena Teixeira;Pista;Domingo
+102493;Carla Lopes;Pista;Sexta
+102494;Isabela Rocha;Pista Premium;Sábado
+102495;Ana Teixeira;Arquibancada;Sábado
+102496;Yasmin Moreira;Arquibancada;Domingo
+102497;Marcos Silva;Arquibancada;Domingo
+102498;Fernanda Barbosa;Pista;Sábado
+102499;Carla Ramos;Pista;Sexta
+102500;Renata Nunes;Pista;Sexta
+
+102502;Fernanda Lopes;Pista;Sábado
+102503;Yasmin Moreira;Pista;Domingo
+102504;Tatiana Ramos;Pista Premium;Sábado
+102505;Lucas Silva;Pista;Sexta
+102506;Thiago Oliveira;Pista Premium;Sábado
+102507;Fernanda Souza;Pista;Sábado
+102508;Yasmin Nascimento;Pista;Sábado
+102509;Ana Rezende;Pista Premium;Sexta
+102510;Beatriz Lopes;Pista;Sexta
+102511;Nicolas Araújo;Pista Premium;Domingo
+102512;Daniela Pinto;Arquibancada;Domingo
+102513;Fernanda Gomes;Pista;Sábado
+102514;Diego Barbosa;Arquibancada;Sexta
+102515;Nicolas Araújo;Arquibancada;Sexta
+102516;Diego Pinto;Pista;Sábado
+102517;Natália Fernandes;Pista;Domingo
+102518;Júlia Campos;Arquibancada;Sexta
+102519;João Teixeira;Pista;Domingo
+102520;Nicolas Dias;Pista Premium;Sexta
+102521;Ana Pinto;Arquibancada;Sexta
+102522;Leonardo Pereira;Pista;Domingo
+102523;Natália Oliveira;Pista Premium;Sexta
+102524;Bruno Ramos;Pista;Domingo
+102525;Eduarda Ramos;Pista;Domingo
+102526;Júlia Dias;Pista;Sábado
+102527;Caio Campos;Arquibancada;Sábado
+102528;Beatriz Nascimento;Arquibancada;Sábado
+102529;Beatriz Ramos;Arquibancada;Domingo
+102530;Vitor Araújo;Arquibancada;Domingo
+102531;Diego Lopes;Pista;Sábado
+102532;Mariana Pereira;Arquibancada;Sábado
+102533;João Ramos;Arquibancada;Sábado
+102534;Renata Pinto;Pista;Sábado
+102535;Daniela Pinto;Pista;Domingo
+102536;Igor Mendes;Pista;Sexta
+102537;Larissa Barbosa;Pista;Domingo
+102538;Renata Fernandes;Pista Premium;Domingo
+102539;Pedro Lopes;Pista Premium;Sábado
+102540;Daniela Pereira;Arquibancada;Domingo
+102541;Sofia Gomes;Pista Premium;Domingo
+102542;Sofia Fernandes;Pista;Sexta
+102543;Pedro Nascimento;Pista;Sábado
+102544;Otávio Ramos;Pista;Sexta
+102545;Igor Pinto;Pista Premium;Sexta
+102546;Igor Nunes;Pista;Domingo
+102547;Paula Araújo;Pista Premium;Domingo
+102548;Otávio Pereira;Pista Premium;Sexta
+102549;Valentina Pinto;Pista;Sexta
+102550;Ana Souza;Pista;Sábado
+102551;Bruno Teixeira;Arquibancada;Sábado
+102552;Renata Oliveira;Pista Premium;Domingo
+102553;Rafael Oliveira;Pista;Domingo
+102554;Carla Araújo;Pista;Sábado
+102555;Igor Fernandes;Arquibancada;Domingo
+102556;Enzo Vieira;Pista;Sexta
+102557;Eduarda Freitas;Pista Premium;Sexta
+102558;Gustavo Teixeira;Pista;Domingo
+102559;Larissa Vieira;Pista;Domingo
+102560;Diego Souza;Arquibancada;Sábado
+102561;Otávio Melo;Pista;Domingo
+102562;Daniela Pereira;Pista;Domingo
+102563;Gustavo Lima;Pista Premium;Domingo
+102564;Otávio Campos;Pista;Sábado
+102565;Sofia Cardoso;Arquibancada;Sábado
+102566;Mariana Pinto;Arquibancada;Domingo
+102567;Isabela Nascimento;Pista;Domingo
+102568;Pedro Almeida;Arquibancada;Sexta
+102569;Rafael Martins;Camarote;Sábado
+102570;Diego Dias;Pista;Domingo
+102571;Paula Martins;Arquibancada;Sexta
+102572;Diego Pereira;Arquibancada;Sexta
+102573;Felipe Martins;Arquibancada;Sexta
+102574;Nicolas Fernandes;Pista;Sábado
+102575;Nicolas Moreira;Pista Premium;Sexta
+102576;Daniela Campos;Arquibancada;Sexta
+102577;Bruno Cardoso;Arquibancada;Sábado
+102578;Carla Rocha;Pista;Sábado
+102579;Olívia Martins;Camarote;Sexta
+102580;Olívia Campos;Pista;Sexta
+102581;Rafael Rezende;Camarote;Domingo
+102582;João Cardoso;Arquibancada;Sábado
+102583;Caio Pereira;Pista Premium;Sábado
+102584;Gustavo Souza;Arquibancada;Domingo
+102585;Renata Pereira;Arquibancada;Sexta
+102586;Carla Nunes;Pista;Sexta
+102587;Eduarda Barbosa;Pista Premium;Sábado
+102588;Enzo Ribeiro;Arquibancada;Domingo
+102589;Leonardo Campos;Camarote;Sábado
+102590;Gustavo Rocha;Pista;Sexta
+102591;Daniela Almeida;Camarote;Sexta
+102592;Tatiana Cardoso;Pista;Domingo
+102593;Ana Almeida;Pista;Sexta
+102594;Marcos Fernandes;Arquibancada;Domingo
+102595;Diego Barbosa;Pista;Sábado
+102596;Sofia Souza;Pista;Sexta
+102597;Valentina Santos;Pista;Domingo
+102598;Valentina Ramos;Camarote;Sábado
+102599;Olívia Almeida;Arquibancada;Sábado
+102600;Carla Teixeira;Pista;Domingo
+102601;Paula Barbosa;Pista Premium;Domingo
+102602;Daniela Ribeiro;Arquibancada;Domingo
+102603;Tatiana Silva;Pista;Sábado
+102604;Igor Cardoso;Pista Premium;Sábado
+102605;Lucas Souza;Pista;Sábado
+102606;Daniela Vieira;Arquibancada;Sexta
+102607;Helena Souza;Pista;Sábado
+102608;João Barbosa;Pista Premium;Sábado
+102609;Fernanda Pereira;Arquibancada;Sexta
+102610;Sofia Campos;Arquibancada;Sábado
+102611;Tatiana Melo;Pista;Sexta
+102612;Marcos Almeida;Arquibancada;Domingo
+102613;Bruno Oliveira;Arquibancada;Sexta
+102614;Enzo Rocha;Pista;Sexta
+102615;Bruno Silva;Pista;Domingo
+102616;Gustavo Teixeira;Arquibancada;Sábado
+102617;Tatiana Campos;Pista Premium;Sábado
+102618;Gabriela Lopes;Pista;Sexta
+102619;Isabela Silva;Pista Premium;Sexta
+102620;Renata Ramos;Pista;Sábado
+102621;Larissa Rezende;Pista;Sábado
+102622;Valentina Oliveira;Camarote;Domingo
+102623;Felipe Gomes;Pista;Sexta
+102624;Daniela Freitas;Arquibancada;Domingo
+102625;Tatiana Pereira;Arquibancada;Domingo
+102626;Tatiana Dias;Pista Premium;Sábado
+102627;Henrique Souza;Pista;Domingo
+102628;Júlia Rezende;Arquibancada;Domingo
+102629;Ana Lopes;Pista;Sábado
+102630;Larissa Nascimento;Pista;Sábado
+102631;Felipe Silva;Pista;Sábado
+102632;Carla Dias;Pista;Sábado
+102633;Gustavo Almeida;Pista;Sexta
+102634;Júlia Martins;Arquibancada;Sábado
+102635;Pedro Cardoso;Pista;Sábado
+102636;Ana Pinto;Arquibancada;Sexta
+102637;Bruno Campos;Camarote;Domingo
+102638;Bruno Cardoso;Arquibancada;Domingo
+102639;Marcos Ramos;Pista Premium;Sábado
+102640;Samuel Freitas;Pista Premium;Domingo
+102641;Gustavo Costa;Pista Premium;Domingo
+102642;Enzo Costa;Arquibancada;Sexta
+102643;Gabriela Freitas;Camarote;Sexta
+102644;Otávio Almeida;Pista;Sexta
+102645;Fernanda Araújo;Pista;Sexta
+102646;Beatriz Barbosa;Arquibancada;Sábado
+102647;Isabela Lima;Pista Premium;Sábado
+102648;Ana Vieira;Pista;Sábado
+102649;Carla Ramos;Arquibancada;Sábado
+102650;Samuel Freitas;Pista;Sexta
+102651;Igor Rocha;Arquibancada;Domingo
+102652;Fernanda Cardoso;Arquibancada;Sexta
+102653;Gustavo Souza;Arquibancada;Domingo
+102654;Bruno Fernandes;Pista;Sábado
+102655;Henrique Rezende;Pista;Domingo
+102656;Enzo Pinto;Arquibancada;Sexta
+102657;João Fernandes;Camarote;Domingo
+102658;Larissa Araújo;Arquibancada;Sábado
+102659;Diego Moreira;Arquibancada;Sábado
+102660;Igor Rocha;Pista;Sábado
+102661;Vitor Costa;Pista;Sexta
+102662;Thiago Cardoso;Pista;Domingo
+102663;Marcos Rezende;Arquibancada;Sábado
+102664;Mariana Ribeiro;Pista;Domingo
+102665;Larissa Teixeira;Pista;Domingo
+102666;Rafael Barbosa;Pista Premium;Sábado
+102667;Isabela Mendes;Pista;Domingo
+102668;Leonardo Lopes;Pista;Sexta
+102669;Henrique Ramos;Pista;Domingo
+102670;João Rocha;Camarote;Sexta
+102671;Yasmin Oliveira;Pista Premium;Sábado
+102672;Leonardo Cardoso;Pista;Sábado
+102673;Larissa Souza;Pista Premium;Sexta
+102674;Yasmin Santos;Pista;Sexta
+102675;Pedro Ribeiro;Pista;Sábado
+102676;Leonardo Lima;Pista;Domingo
+102677;Leonardo Pinto;Pista;Sexta
+102678;Enzo Dias;Pista;Domingo
+102679;Felipe Mendes;Arquibancada;Domingo
+102680;Helena Rocha;Pista;Sexta
+102681;Felipe Santos;Pista;Sexta
+102682;Marcos Gomes;Pista;Domingo
+102683;Olívia Lopes;Pista;Sexta
+102684;Thiago Lopes;Pista;Domingo
+102685;Samuel Pinto;Pista Premium;Sexta
+102686;Tatiana Silva;Pista;Sábado
+102687;Otávio Silva;Pista;Domingo
+102688;Yasmin Souza;Pista;Sexta
+102689;Thiago Mendes;Pista;Sábado
+102690;Carla Cardoso;Pista;Sábado
+102691;Sofia Santos;Pista;Sexta
+102692;Beatriz Campos;Pista;Sexta
+102693;Ana Souza;Pista;Sábado
+102694;Marcos Moreira;Pista;Sexta
+102695;Sofia Ribeiro;Camarote;Domingo
+102696;Igor Nunes;Pista;Sexta
+102697;Henrique Nascimento;Camarote;Sábado
+102698;Rafael Gomes;Pista Premium;Sábado
+102699;Natália Gomes;Pista;Sábado
+102700;Renata Moreira;Arquibancada;Sábado
+102701;Leonardo Costa;Arquibancada;Domingo
+102702;Otávio Melo;Pista;Sexta
+102703;Diego Silva;Pista;Domingo
+102704;Paula Pereira;Arquibancada;Sexta
+102705;Renata Melo;Pista;Sexta
+102706;Sofia Rezende;Arquibancada;Sábado
+102707;Ulisses Almeida;Camarote;Sexta
+102708;Ulisses Nascimento;Pista;Sexta
+102709;Daniela Santos;Arquibancada;Domingo
+102710;Ana Mendes;Pista;Domingo
+102711;Vitor Campos;Pista Premium;Domingo
+102712;Ana Rezende;Arquibancada;Sábado
+102713;Henrique Freitas;Pista;Sábado
+102714;Daniela Mendes;Arquibancada;Domingo
+102715;Fernanda Martins;Pista Premium;Sexta
+102716;Diego Moreira;Pista Premium;Domingo
+102717;Otávio Souza;Pista;Sábado
+102718;Tatiana Rezende;Camarote;Sábado
+102719;Igor Pereira;Pista;Sábado
+102720;Beatriz Santos;Pista Premium;Sexta
+102721;Nicolas Barbosa;Pista;Sexta
+102722;Helena Nunes;Arquibancada;Sábado
+102723;Helena Martins;Pista Premium;Domingo
+102724;Bruno Dias;Arquibancada;Sábado
+102725;Enzo Silva;Pista Premium;Sábado
+102726;Carla Campos;Pista Premium;Domingo
+102727;Nicolas Santos;Arquibancada;Domingo
+102728;Thiago Rocha;Pista Premium;Domingo
+102729;Igor Vieira;Pista;Sexta
+102730;Sofia Pinto;Camarote;Sábado
+102731;Sofia Teixeira;Arquibancada;Sábado
+102732;Tatiana Martins;Arquibancada;Sábado
+102733;Yasmin Melo;Arquibancada;Sábado
+102734;Beatriz Pereira;Arquibancada;Domingo
+102735;Diego Nunes;Arquibancada;Domingo
+102736;Tatiana Ramos;Pista;Sábado
+102737;Ulisses Campos;Arquibancada;Domingo
+102738;Gabriela Ramos;Arquibancada;Sábado
+102739;Fernanda Lopes;Pista;Sábado
+102740;Helena Moreira;Pista;Domingo
+102741;Felipe Nunes;Arquibancada;Sábado
+102742;Helena Nascimento;Arquibancada;Sexta
+102743;Leonardo Nunes;Arquibancada;Domingo
+102744;Beatriz Mendes;Arquibancada;Domingo
+102745;Paula Barbosa;Pista;Domingo
+102746;Vitor Souza;Pista;Sexta
+102747;Enzo Fernandes;Pista;Sexta
+102748;Henrique Santos;Pista;Domingo
+102749;Nicolas Pinto;Pista;Sábado
+102750;Leonardo Campos;Pista;Sexta
+102751;Renata Pinto;Camarote;Sexta
+102752;Rafael Barbosa;Arquibancada;Domingo
+102753;Samuel Pinto;Arquibancada;Sábado
+102754;Paula Ramos;Arquibancada;Domingo
+102755;Diego Silva;Pista Premium;Sábado
+102756;Sofia Nascimento;Pista;Sábado
+102757;Otávio Costa;Arquibancada;Sexta
+102758;Leonardo Gomes;Pista;Sexta
+102759;Bruno Rezende;Pista;Sexta
+102760;Daniela Barbosa;Pista Premium;Sexta
+102761;Beatriz Teixeira;Pista;Domingo
+102762;Ulisses Costa;Pista Premium;Sábado
+102763;Vitor Almeida;Pista Premium;Domingo
+102764;Renata Fernandes;Arquibancada;Domingo
+102765;Mariana Rezende;Pista Premium;Sábado
+102766;Gabriela Nunes;Camarote;Domingo
+102767;João Fernandes;Arquibancada;Sexta
+102768;Paula Araújo;Arquibancada;Sexta
+102769;Lucas Rocha;Arquibancada;Sábado
+102770;Henrique Vieira;Arquibancada;Sábado
+102771;Vitor Pereira;Pista;Domingo
+102772;Carla Mendes;Pista Premium;Sábado
+102773;Yasmin Pinto;Pista;Sexta
+102774;Rafael Silva;Camarote;Sábado
+102775;Paula Costa;Pista;Sexta
+102776;Caio Martins;Arquibancada;Domingo
+102777;Samuel Nascimento;Pista;Sexta
+102778;Renata Mendes;Arquibancada;Domingo
+102779;Caio Barbosa;Pista;Sexta
+102780;Felipe Rocha;Pista;Sexta
+102781;Paula Ribeiro;Pista;Sexta
+102782;Olívia Vieira;Pista Premium;Sexta
+102783;Beatriz Pereira;Pista;Sexta
+102784;Ulisses Gomes;Pista;Domingo
+102785;Caio Melo;Camarote;Domingo
+102786;Helena Mendes;Pista;Sexta
+102787;Gabriela Martins;Pista Premium;Domingo
+102788;Carla Mendes;Arquibancada;Sábado
+102789;Natália Pinto;Arquibancada;Sábado
+102790;Caio Vieira;Arquibancada;Domingo
+102791;Tatiana Martins;Arquibancada;Sábado
+102792;Enzo Gomes;Arquibancada;Sábado
+102793;Rafael Nunes;Arquibancada;Sábado
+102794;Tatiana Gomes;Arquibancada;Domingo
+102795;Tatiana Campos;Pista;Domingo
+102796;Otávio Rezende;Arquibancada;Sexta
+102797;Enzo Teixeira;Arquibancada;Sábado
+102798;João Ramos;Camarote;Domingo
+102799;Gustavo Ribeiro;Pista;Sexta
+102800;Igor Melo;Arquibancada;Sábado
+102801;Ana Santos;Arquibancada;Domingo
+102802;Helena Pinto;Camarote;Sexta
+102803;Ulisses Ribeiro;Pista;Sexta
+102804;Thiago Cardoso;Pista;Sexta
+102805;Tatiana Dias;Pista;Sábado
+102806;Leonardo Oliveira;Arquibancada;Sexta
+102807;Paula Costa;Camarote;Domingo
+102808;Leonardo Cardoso;Pista Premium;Sábado
+102809;Isabela Araújo;Arquibancada;Sábado
+102810;Gabriela Silva;Pista;Sábado
+102811;Samuel Campos;Pista;Sábado
+102812;Pedro Nunes;Pista;Sexta
+102813;Júlia Nunes;Pista Premium;Sexta
+102814;Gabriela Pinto;Pista Premium;Sexta
+102815;Eduarda Barbosa;Arquibancada;Sábado
+102816;Olívia Santos;Arquibancada;Sexta
+102817;Daniela Oliveira;Pista Premium;Domingo
+102818;Helena Gomes;Arquibancada;Sábado
+102819;Diego Lima;Pista;Sábado
+102820;Natália Lopes;Pista;Sexta
+102821;Renata Freitas;Pista;Sábado
+102822;Bruno Melo;Arquibancada;Sexta
+102823;Pedro Freitas;Pista;Sábado
+102824;Lucas Ribeiro;Camarote;Sexta
+102825;Carla Dias;Pista;Sexta
+102826;Nicolas Nunes;Pista;Sexta
+102827;Pedro Oliveira;Pista;Sexta
+102828;Felipe Lopes;Pista Premium;Sábado
+102829;Helena Rocha;Camarote;Sábado
+102830;Lucas Martins;Pista;Domingo
+102831;Mariana Rezende;Pista;Sábado
+102832;Ana Araújo;Arquibancada;Domingo
+102833;Nicolas Silva;Camarote;Domingo
+102834;Ana Vieira;Pista;Domingo
+102835;Enzo Ramos;Pista Premium;Sábado
+102836;Valentina Almeida;Pista;Sexta
+102837;Lucas Lima;Arquibancada;Domingo
+102838;Sofia Gomes;Pista Premium;Domingo
+102839;Beatriz Oliveira;Pista;Sábado
+102840;Ulisses Lima;Pista Premium;Domingo
+102841;Natália Campos;Pista;Sábado
+102842;Caio Teixeira;Arquibancada;Sexta
+102843;Renata Rezende;Arquibancada;Sábado
+102844;Pedro Mendes;Pista;Sexta
+102845;Mariana Araújo;Pista Premium;Sábado
+102846;Natália Martins;Pista Premium;Sexta
+102847;Eduarda Lima;Pista;Sábado
+102848;Rafael Almeida;Arquibancada;Sábado
+102849;Henrique Lopes;Pista;Sexta
+102850;Yasmin Costa;Arquibancada;Sábado
+102851;Valentina Dias;Arquibancada;Sexta
+102852;Ulisses Costa;Arquibancada;Sábado
+102853;Ana Martins;Arquibancada;Sábado
+102854;Carla Melo;Pista;Sábado
+102855;Gustavo Melo;Arquibancada;Domingo
+102856;Thiago Gomes;Arquibancada;Domingo
+102857;Vitor Teixeira;Pista;Sexta
+102858;Eduarda Melo;Pista Premium;Domingo
+102859;Valentina Moreira;Pista Premium;Sábado
+102860;Renata Barbosa;Pista;Domingo
+102861;Fernanda Rezende;Pista Premium;Domingo
+102862;Daniela Moreira;Pista;Domingo
+102863;Tatiana Ramos;Arquibancada;Sábado
+102864;Samuel Lima;Pista;Domingo
+102865;Carla Oliveira;Arquibancada;Domingo
+102866;Tatiana Dias;Pista;Domingo
+102867;Júlia Fernandes;Camarote;Sábado
+102868;Caio Martins;Arquibancada;Sábado
+102869;Júlia Costa;Arquibancada;Sexta
+102870;Beatriz Almeida;Pista;Sexta
+102871;João Rezende;Pista;Domingo
+102872;Júlia Santos;Pista Premium;Sábado
+102873;Vitor Lima;Pista;Sexta
+102874;Beatriz Costa;Pista;Sábado
+102875;Olívia Barbosa;Pista;Sexta
+102876;Henrique Lima;Pista Premium;Sexta
+102877;Olívia Rocha;Arquibancada;Sábado
+102878;Igor Lopes;Arquibancada;Sexta
+102879;Fernanda Araújo;Pista;Sexta
+102880;Natália Silva;Arquibancada;Domingo
+102881;Júlia Oliveira;Pista;Domingo
+102882;Thiago Oliveira;Pista Premium;Sexta
+102883;Olívia Silva;Camarote;Sábado
+102884;Carla Moreira;Arquibancada;Domingo
+102885;Ulisses Silva;Pista;Sábado
+102886;Valentina Cardoso;Pista;Sábado
+102887;Henrique Melo;Pista;Sábado
+102888;Carla Gomes;Arquibancada;Sexta
+102889;Eduarda Almeida;Pista Premium;Sábado
+102890;Enzo Vieira;Pista Premium;Sexta
+102891;João Souza;Arquibancada;Sexta
+102892;Valentina Pinto;Pista;Sexta
+102893;Isabela Rocha;Pista Premium;Domingo
+102894;Tatiana Costa;Pista;Domingo
+102895;Renata Lima;Arquibancada;Sábado
+102896;Felipe Pinto;Pista Premium;Sexta
+102897;Larissa Vieira;Pista;Sexta
+102898;Helena Campos;Arquibancada;Sábado
+102899;Bruno Freitas;Pista;Sábado
+102900;Larissa Barbosa;Pista Premium;Domingo
+102901;Larissa Moreira;Arquibancada;Sábado
+102902;Caio Freitas;Camarote;Sexta
+102903;Carla Santos;Arquibancada;Sábado
+102904;Lucas Vieira;Pista Premium;Domingo
+102905;Henrique Lima;Arquibancada;Domingo
+102906;Olívia Freitas;Arquibancada;Sexta
+102907;Valentina Campos;Pista Premium;Sábado
+102908;Natália Mendes;Pista;Sábado
+102909;Beatriz Vieira;Pista;Domingo
+102910;Isabela Teixeira;Pista Premium;Sábado
+102911;Enzo Fernandes;Arquibancada;Sábado
+102912;Samuel Moreira;Pista;Sexta
+102913;Isabela Souza;Arquibancada;Sexta
+102914;Samuel Costa;Pista;Domingo
+102915;Diego Campos;Arquibancada;Domingo
+102916;Ana Campos;Arquibancada;Sábado
+102917;Yasmin Barbosa;Pista;Domingo
+102918;Nicolas Mendes;Arquibancada;Sexta
+102919;Caio Ribeiro;Pista;Sábado
+102920;Eduarda Santos;Pista;Domingo
+102921;Nicolas Teixeira;Pista;Sábado
+102922;Renata Rocha;Pista;Sexta
+102923;Otávio Santos;Pista Premium;Sábado
+102924;Beatriz Lopes;Pista;Sábado
+102925;Natália Pinto;Camarote;Domingo
+102926;Tatiana Santos;Pista;Sexta
+102927;Olívia Melo;Pista Premium;Sexta
+102928;Helena Ramos;Pista;Sábado
+102929;Fernanda Gomes;Pista;Sexta
+102930;Nicolas Souza;Arquibancada;Sábado
+102931;João Mendes;Pista;Domingo
+102932;Otávio Nunes;Pista;Sábado
+102933;Diego Mendes;Arquibancada;Domingo
+102934;Vitor Moreira;Camarote;Domingo
+102935;Gabriela Campos;Pista;Sexta
+102936;Mariana Barbosa;Arquibancada;Domingo
+102937;Fernanda Campos;Pista;Sábado
+102938;Carla Araújo;Pista;Sexta
+102939;Olívia Teixeira;Pista;Sábado
+102940;João Araújo;Pista;Sábado
+102941;Yasmin Souza;Pista;Domingo
+102942;Larissa Teixeira;Pista;Sexta
+102943;Eduarda Moreira;Pista Premium;Sexta
+102944;Júlia Campos;Pista;Sexta
+102945;Daniela Ramos;Pista;Sábado
+102946;Beatriz Fernandes;Camarote;Sábado
+102947;João Ribeiro;Pista;Sexta
+102948;Henrique Almeida;Pista;Sexta
+102949;Thiago Teixeira;Arquibancada;Sexta
+102950;Ulisses Pinto;Arquibancada;Sábado
+102951;Yasmin Silva;Pista;Sábado
+102952;Renata Freitas;Arquibancada;Sábado
+102953;Helena Melo;Pista;Sábado
+102954;Vitor Fernandes;Pista;Sábado
+102955;Renata Ribeiro;Arquibancada;Sexta
+102956;Thiago Teixeira;Pista Premium;Domingo
+102957;Larissa Pereira;Pista;Domingo
+102958;Thiago Vieira;Arquibancada;Domingo
+102959;Tatiana Pereira;Pista;Sábado
+102960;Olívia Vieira;Arquibancada;Sábado
+102961;Henrique Pereira;Pista;Sexta
+102962;Leonardo Fernandes;Arquibancada;Sábado
+102963;Gabriela Freitas;Arquibancada;Sábado
+102964;Diego Lopes;Pista;Sábado
+102965;Otávio Campos;Arquibancada;Sábado
+102966;Daniela Araújo;Pista;Domingo
+102967;Bruno Pereira;Pista Premium;Sexta
+102968;Beatriz Lima;Pista;Domingo
+102969;Júlia Souza;Pista Premium;Sábado
+102970;Gabriela Santos;Arquibancada;Sábado
+102971;Yasmin Dias;Pista Premium;Sábado
+102972;Fernanda Teixeira;Pista Premium;Sábado
+102973;Tatiana Martins;Arquibancada;Sexta
+102974;Ulisses Moreira;Pista;Domingo
+102975;Thiago Vieira;Arquibancada;Sexta
+102976;Bruno Nascimento;Pista;Sábado
+102977;Samuel Vieira;Arquibancada;Sexta
+102978;Rafael Araújo;Pista Premium;Domingo
+102979;Bruno Souza;Pista;Sexta
+102980;Gustavo Fernandes;Pista;Domingo
+102981;Ana Oliveira;Pista;Sexta
+102982;Yasmin Ramos;Arquibancada;Sábado
+102983;Valentina Melo;Camarote;Sexta
+102984;Paula Almeida;Pista;Domingo
+102985;Diego Freitas;Pista;Sexta
+102986;Diego Almeida;Pista;Sábado
+102987;Natália Dias;Arquibancada;Sexta
+102988;Tatiana Gomes;Arquibancada;Domingo
+102989;Sofia Rocha;Pista;Sábado
+102990;Júlia Pinto;Pista;Sexta
+102991;Lucas Lima;Camarote;Domingo
+102992;Sofia Mendes;Arquibancada;Sexta
+102993;Otávio Rezende;Arquibancada;Sexta
+102994;Diego Araújo;Pista Premium;Domingo
+102995;Daniela Fernandes;Pista;Domingo
+102996;Valentina Fernandes;Pista;Sábado
+102997;Rafael Silva;Pista;Domingo
+102998;Fernanda Nascimento;Arquibancada;Sábado
+102999;Daniela Rezende;Arquibancada;Sábado
+103000;Enzo Melo;Pista;Sexta
+103001;Vitor Rocha;Arquibancada;Domingo
+103002;Otávio Araújo;Arquibancada;Sexta
+103003;Rafael Oliveira;Pista;Sábado
+103004;Mariana Campos;Pista;Sábado
+103005;Rafael Vieira;Pista Premium;Sábado
+103006;Marcos Rezende;Pista;Sábado
+103007;Ulisses Santos;Arquibancada;Domingo
+103008;Samuel Teixeira;Pista;Sábado
+103009;Eduarda Lima;Camarote;Domingo
+103010;Natália Teixeira;Pista;Sexta
+103011;Daniela Teixeira;Camarote;Sexta
+103012;João Moreira;Pista;Sábado
+103013;Bruno Martins;Pista;Domingo
+103014;Ulisses Lopes;Pista;Domingo
+103015;Lucas Vieira;Pista;Sábado
+103016;Pedro Barbosa;Pista Premium;Sexta
+103017;Lucas Mendes;Pista;Sexta
+103018;Henrique Pereira;Arquibancada;Sexta
+103019;Vitor Moreira;Pista;Sábado
+103020;Felipe Araújo;Arquibancada;Sábado
+103021;Lucas Nunes;Pista;Sexta
+103022;Yasmin Costa;Pista;Sexta
+103023;Fernanda Pereira;Pista;Domingo
+103024;Mariana Vieira;Pista;Sexta
+103025;Helena Nunes;Pista;Domingo
+103026;Henrique Cardoso;Arquibancada;Sábado
+103027;Vitor Barbosa;Arquibancada;Domingo
+103028;Yasmin Fernandes;Camarote;Sexta
+103029;Bruno Melo;Pista;Sábado
+103030;Felipe Barbosa;Pista;Domingo
+103031;Marcos Costa;Arquibancada;Domingo
+103032;Larissa Moreira;Pista;Sexta
+103033;Valentina Souza;Arquibancada;Sexta
+103034;Beatriz Nunes;Pista;Sábado
+103035;Valentina Almeida;Pista Premium;Domingo
+103036;Enzo Lima;Arquibancada;Sábado
+103037;Nicolas Almeida;Camarote;Sábado
+103038;Diego Souza;Pista;Domingo
+103039;Paula Freitas;Pista;Domingo
+103040;Fernanda Santos;Pista Premium;Sábado
+103041;Daniela Fernandes;Pista;Sexta
+103042;Felipe Teixeira;Pista;Sábado
+103043;Natália Souza;Pista;Sábado
+103044;Vitor Almeida;Pista Premium;Domingo
+103045;Helena Lima;Pista;Sexta
+103046;Valentina Santos;Arquibancada;Sexta
+103047;Vitor Freitas;Arquibancada;Sexta
+103048;Gabriela Souza;Arquibancada;Sexta
+103049;Helena Ribeiro;Pista;Domingo
+103050;Leonardo Costa;Pista;Sábado
+103051;Otávio Freitas;Pista Premium;Domingo
+103052;Isabela Campos;Pista Premium;Domingo
+103053;Isabela Oliveira;Camarote;Sábado
+103054;Gabriela Oliveira;Pista Premium;Sábado
+103055;Enzo Dias;Pista;Domingo
+103056;Vitor Lopes;Pista Premium;Sexta
+103057;Tatiana Oliveira;Arquibancada;Sexta
+103058;Fernanda Martins;Arquibancada;Domingo
+103059;Tatiana Nascimento;Pista;Sexta
+103060;Rafael Rocha;Pista;Sexta
+103061;Gustavo Nascimento;Pista;Sexta
+103062;Carla Campos;Pista;Sábado
+103063;Leonardo Nascimento;Pista;Domingo
+103064;Helena Freitas;Arquibancada;Sexta
+103065;Olívia Oliveira;Camarote;Domingo
+103066;Nicolas Almeida;Arquibancada;Sábado
+103067;Ulisses Almeida;Pista;Sexta
+103068;Renata Costa;Pista;Sábado
+103069;Thiago Almeida;Pista;Domingo
+103070;Vitor Santos;Arquibancada;Sábado
+103071;Yasmin Moreira;Pista;Domingo
+103072;Yasmin Araújo;Camarote;Sábado
+103073;Sofia Martins;Pista;Sexta
+103074;Pedro Melo;Arquibancada;Sábado
+103075;Daniela Gomes;Arquibancada;Domingo
+103076;Gabriela Rocha;Pista;Sexta
+103077;Larissa Lopes;Pista;Sábado
+103078;Bruno Fernandes;Arquibancada;Sábado
+103079;Paula Vieira;Pista Premium;Sexta
+103080;Thiago Pereira;Pista;Sexta
+103081;Mariana Cardoso;Pista;Sábado
+103082;Valentina Souza;Pista;Sexta
+103083;Caio Campos;Pista;Sábado
+103084;Igor Araújo;Arquibancada;Sábado
+103085;Carla Melo;Camarote;Domingo
+103086;Nicolas Pinto;Pista;Sexta
+103087;Renata Mendes;Camarote;Domingo
+103088;Diego Freitas;Pista;Domingo
+103089;Ana Nascimento;Pista;Sábado
+103090;Henrique Fernandes;Arquibancada;Sábado
+103091;Felipe Ramos;Pista;Sexta
+103092;Diego Teixeira;Camarote;Domingo
+103093;Helena Rocha;Pista;Sexta
+103094;Igor Martins;Pista;Sexta
+103095;Ulisses Fernandes;Arquibancada;Sábado
+103096;Nicolas Vieira;Arquibancada;Sábado
+103097;Caio Campos;Arquibancada;Sexta
+103098;Valentina Barbosa;Pista Premium;Sábado
+103099;Olívia Cardoso;Arquibancada;Domingo
+103100;Carla Rocha;Pista Premium;Domingo
+103101;Valentina Melo;Arquibancada;Sábado
+103102;Sofia Melo;Pista;Domingo;VIP
+103103;Yasmin Moreira;Arquibancada;Domingo
+103104;Natália Rezende;Pista Premium;Domingo
+103105;Marcos Araújo;Pista;Domingo
+103106;Diego Vieira;Pista;Sexta
+103107;Isabela Pinto;Camarote;Sexta
+103108;Nicolas Rezende;Pista;Domingo
+103109;Felipe Santos;Pista Premium;Sexta
+103110;Júlia Rezende;Pista Premium;Sexta
+103111;Carla Lopes;Camarote;Domingo
+103112;Pedro Rocha;Arquibancada;Sábado
+103113;Renata Fernandes;Pista;Sábado
+103114;Pedro Mendes;Arquibancada;Sexta
+103115;Thiago Martins;Pista Premium;Sábado
+103116;Vitor Costa;Pista;Sábado
+103117;Caio Costa;Pista Premium;Sexta
+103118;Natália Gomes;Pista;Sexta
+103119;Valentina Gomes;Arquibancada;Domingo
+103120;Tatiana Almeida;Pista Premium;Sábado
+103121;Marcos Rocha;Pista Premium;Sexta
+103122;Júlia Moreira;Pista;Sábado
+103123;Yasmin Rezende;Pista Premium;Sábado
+103124;Nicolas Pinto;Camarote;Sábado
+103125;Otávio Almeida;Pista;Sexta
+103126;Marcos Souza;Pista;Domingo
+103127;Fernanda Araújo;Camarote;Domingo
+103128;Isabela Fernandes;Pista Premium;Sábado
+103129;Renata Barbosa;Pista Premium;Sexta
+103130;Samuel Souza;Pista;Domingo
+103131;Isabela Pinto;Pista;Sábado
+103132;Yasmin Costa;Arquibancada;Domingo
+103133;Rafael Freitas;Pista;Sábado
+103134;Vitor Rezende;Pista Premium;Sábado
+103135;Valentina Fernandes;Pista;Sexta
+103136;Renata Almeida;Pista;Sábado
+103137;Rafael Vieira;Arquibancada;Domingo
+103138;Samuel Gomes;Arquibancada;Sexta
+103139;Isabela Gomes;Pista Premium;Domingo
+103140;Diego Nunes;Pista Premium;Sexta
+103141;Paula Martins;Pista;Domingo
+103142;Pedro Campos;Pista;Sexta
+103143;Tatiana Lima;Pista;Domingo
+103144;Olívia Araújo;Pista;Sexta
+103145;Carla Pinto;Arquibancada;Sexta
+103146;Enzo Barbosa;Pista;Domingo
+103147;Carla Lopes;Pista;Domingo
+103148;Nicolas Melo;Arquibancada;Sábado
+103149;Helena Vieira;Pista;Sexta
+103150;Olívia Rocha;Arquibancada;Sexta
+103151;Renata Vieira;Camarote;Sexta
+103152;Renata Nascimento;Arquibancada;Domingo
+103153;Henrique Souza;Camarote;Sábado
+103154;Igor Teixeira;Pista;Domingo
+103155;Samuel Nunes;Pista Premium;Sexta
+103156;Isabela Fernandes;Pista;Sexta
+103157;Marcos Silva;Pista Premium;Domingo
+103158;Henrique Ribeiro;Pista;Sábado
+103159;Carla Silva;Arquibancada;Sábado
+103160;Bruno Santos;Pista;Sexta
+103161;Natália Nascimento;Pista;Domingo
+103162;Lucas Silva;Camarote;Sexta
+103163;Bruno Pereira;Arquibancada;Sexta
+103164;Ulisses Campos;Pista Premium;Domingo
+103165;Bruno Lopes;Pista;Domingo
+103166;Henrique Melo;Pista;Sábado
+103167;Thiago Vieira;Pista Premium;Sexta
+103168;Henrique Santos;Camarote;Sábado
+103169;Isabela Moreira;Pista;Sábado
+103170;Sofia Martins;Pista;Sábado
+103171;Thiago Moreira;Pista Premium;Sábado
+103172;Leonardo Teixeira;Pista;Domingo
+103173;Isabela Campos;Camarote;Sexta
+103174;Valentina Pinto;Pista;Sábado
+103175;Ulisses Dias;Arquibancada;Sexta
+103176;Valentina Fernandes;Pista;Domingo
+103177;Caio Rocha;Pista;Domingo
+103178;Thiago Ribeiro;Pista;Domingo
+103179;Thiago Moreira;Pista;Sexta
+103180;Lucas Costa;Pista;Domingo
+103181;Nicolas Melo;Pista Premium;Sexta
+103182;Caio Nunes;Arquibancada;Sábado
+103183;Carla Rocha;Arquibancada;Sábado
+103184;Samuel Vieira;Arquibancada;Domingo
+103185;Paula Dias;Camarote;Domingo
+103186;Gustavo Freitas;Arquibancada;Sábado
+103187;Paula Ribeiro;Arquibancada;Sábado
+103188;Daniela Nunes;Camarote;Sexta
+103189;Felipe Gomes;Pista;Sexta
+103190;Isabela Moreira;Pista;Domingo
+103191;Yasmin Lima;Pista;Domingo
+103192;Valentina Barbosa;Camarote;Domingo
+103193;Isabela Freitas;Pista;Sábado
+103194;Carla Martins;Pista;Domingo
+103195;Renata Lima;Pista;Sexta
+103196;Igor Araújo;Arquibancada;Sábado
+103197;Marcos Souza;Pista;Sexta
+103198;Isabela Rezende;Pista;Sexta
+103199;Caio Melo;Arquibancada;Sexta
+103200;Samuel Ramos;Pista Premium;Sexta
+103201;Larissa Pereira;Pista;Sábado
+103202;Thiago Freitas;Pista;Domingo
+103203;Natália Vieira;Pista Premium;Domingo
+103204;Renata Fernandes;Arquibancada;Sábado
+103205;Paula Lopes;Pista;Sexta
+103206;Pedro Ribeiro;Pista;Sexta
+103207;Vitor Campos;Pista Premium;Sexta
+103208;Olívia Teixeira;Pista;Sexta
+103209;Felipe Barbosa;Pista;Sábado
+103210;Isabela Cardoso;Arquibancada;Domingo
+103211;Daniela Oliveira;Pista;Sábado
+103212;João Pinto;Pista;Sábado
+103213;Renata Nascimento;Camarote;Domingo
+103214;Helena Oliveira;Pista;Sexta
+103215;Gustavo Ribeiro;Pista Premium;Domingo
+103216;João Costa;Camarote;Sábado
+103217;Gabriela Lima;Pista Premium;Sexta
+103218;Valentina Mendes;Pista Premium;Sexta
+103219;João Teixeira;Arquibancada;Sexta
+103220;Isabela Cardoso;Camarote;Sexta
+103221;Nicolas Ramos;Arquibancada;Sábado
+103222;Ulisses Lopes;Camarote;Sábado
+103223;Helena Souza;Arquibancada;Sexta
+103224;Gabriela Santos;Pista;Domingo
+103225;Diego Rocha;Arquibancada;Domingo
+103226;Gustavo Rezende;Pista Premium;Domingo
+103227;Nicolas Costa;Pista;Sexta
+103228;Ulisses Souza;Arquibancada;Domingo
+103229;Eduarda Oliveira;Pista Premium;Sábado
+103230;Leonardo Santos;Pista;Sábado
+103231;Leonardo Pereira;Pista Premium;Domingo
+103232;Daniela Freitas;Pista;Sábado
+103233;João Moreira;Arquibancada;Sexta
+103234;Felipe Rocha;Pista;Sábado
+103235;Lucas Gomes;Pista;Domingo
+103236;Diego Rocha;Pista;Sexta
+103237;Bruno Almeida;Pista;Sexta
+103238;Beatriz Gomes;Arquibancada;Sábado
+103239;Isabela Barbosa;Pista;Sábado
+103240;Isabela Ramos;Pista;Sexta
+103241;Lucas Araújo;Pista;Domingo
+103242;Henrique Melo;Pista Premium;Sábado
+103243;Carla Souza;Pista;Domingo
+103244;Diego Teixeira;Pista;Sexta
+103245;Thiago Ramos;Pista;Sexta
+103246;Larissa Melo;Pista;Domingo
+103247;Larissa Martins;Camarote;Sexta
+103248;Diego Silva;Arquibancada;Sexta
+103249;Paula Souza;Camarote;Domingo
+103250;Paula Souza;Pista;Domingo
+103251;Olívia Campos;Pista;Domingo
+103252;Lucas Oliveira;Pista;Domingo
+103253;Ana Santos;Pista;Domingo
+103254;Gabriela Mendes;Pista Premium;Sábado
+103255;Leonardo Freitas;Arquibancada;Domingo
+103256;Samuel Lima;Arquibancada;Sexta
+103257;Mariana Teixeira;Pista Premium;Sábado
+103258;Caio Lopes;Arquibancada;Sexta
+103259;Eduarda Moreira;Arquibancada;Sábado
+103260;Isabela Rocha;Pista Premium;Sábado
+103261;Daniela Mendes;Pista;Sábado
+103262;Paula Ribeiro;Arquibancada;Sexta
+103263;Larissa Mendes;Arquibancada;Sexta
+103264;Caio Campos;Pista;Domingo
+103265;Pedro Barbosa;Arquibancada;Sexta
+103266;Ana Campos;Pista Premium;Domingo
+103267;Valentina Cardoso;Pista;Domingo
+103268;Daniela Pereira;Pista Premium;Sábado
+103269;Felipe Lopes;Pista;Sexta
+103270;Carla Martins;Pista Premium;Sexta
+103271;Lucas Martins;Pista Premium;Domingo
+103272;Gustavo Santos;Pista;Sexta
+103273;Caio Dias;Arquibancada;Sexta
+103274;Larissa Melo;Arquibancada;Sábado
+103275;Enzo Pereira;Arquibancada;Domingo
+103276;Daniela Moreira;Pista;Sexta
+103277;Sofia Costa;Pista;Sábado
+103278;Eduarda Melo;Camarote;Sexta
+103279;Renata Moreira;Pista;Domingo
+103280;Bruno Dias;Arquibancada;Sexta
+103281;Carla Fernandes;Pista;Sexta
+103282;Mariana Costa;Arquibancada;Domingo
+103283;Isabela Ramos;Pista;Sábado
+103284;Ana Santos;Pista;Sábado
+103285;Rafael Pereira;Pista;Domingo
+103286;Sofia Almeida;Arquibancada;Domingo
+103287;Mariana Costa;Pista;Sábado
+103288;Olívia Nunes;Pista;Sexta
+103289;Rafael Nascimento;Arquibancada;Sexta
+103290;Henrique Vieira;Pista;Domingo
+103291;Natália Araújo;Arquibancada;Sábado
+103292;Ulisses Moreira;Pista Premium;Sexta
+103293;Nicolas Rocha;Pista;Sábado
+103294;Bruno Pereira;Pista;Domingo
+103295;Leonardo Rezende;Pista;Domingo
+103296;Yasmin Rezende;Pista;Sábado
+103297;Valentina Mendes;Pista;Sexta
+103298;Nicolas Silva;Pista Premium;Sexta
+103299;Gustavo Pereira;Pista Premium;Sábado
+103300;Júlia Rocha;Pista;Sábado
+103301;Thiago Moreira;Pista;Sexta
+103302;Carla Oliveira;Pista;Sábado
+103303;Yasmin Lima;Pista;Sábado
+103304;Igor Mendes;Arquibancada;Domingo
+103305;Leonardo Martins;Pista;Sexta
+103306;Diego Freitas;Pista Premium;Sábado
+103307;Ana Almeida;Arquibancada;Domingo
+103308;Pedro Araújo;Arquibancada;Domingo
+103309;Isabela Barbosa;Arquibancada;Domingo
+103310;Sofia Campos;Pista;Sexta
+103311;Eduarda Pereira;Pista;Domingo
+103312;Tatiana Mendes;Arquibancada;Domingo
+103313;Mariana Rocha;Arquibancada;Sexta
+103314;Felipe Rocha;Pista;Sexta
+103315;Rafael Silva;Arquibancada;Domingo
+103316;Henrique Fernandes;Pista;Sexta
+103317;Thiago Mendes;Pista;Sexta
+103318;Vitor Fernandes;Pista;Sábado
+103319;Henrique Moreira;Pista;Domingo
+103320;Nicolas Souza;Pista;Sábado
+103321;Samuel Oliveira;Arquibancada;Sexta
+103322;Marcos Mendes;Pista Premium;Domingo
+103323;Ana Martins;Pista;Sábado
+103324;Mariana Campos;Pista;Domingo
+103325;Samuel Costa;Arquibancada;Domingo
+103326;Mariana Moreira;Arquibancada;Sexta
+103327;Enzo Lopes;Arquibancada;Domingo
+103328;Bruno Gomes;Pista;Sábado
+103329;Samuel Gomes;Pista;Sábado
+103330;Samuel Ribeiro;Pista;Domingo
+103331;Júlia Nunes;Camarote;Domingo
+103332;Lucas Moreira;Pista;Sábado
+103333;Rafael Mendes;Pista;Domingo
+103334;Isabela Nunes;Pista Premium;Domingo
+103335;Yasmin Costa;Arquibancada;Domingo
+103336;Tatiana Campos;Camarote;Sábado
+103337;Ulisses Rocha;Arquibancada;Domingo
+103338;Helena Almeida;Pista Premium;Sexta
+103339;Yasmin Pinto;Arquibancada;Sexta
+103340;Eduarda Lima;Pista;Sábado
+103341;Vitor Lopes;Pista;Domingo
+103342;Renata Silva;Arquibancada;Domingo
+103343;Natália Gomes;Camarote;Sexta
+103344;Mariana Lopes;Arquibancada;Domingo
+103345;Olívia Almeida;Arquibancada;Sábado
+103346;Nicolas Freitas;Pista;Sexta
+103347;Fernanda Moreira;Arquibancada;Domingo
+103348;Marcos Araújo;Arquibancada;Sexta
+103349;Tatiana Freitas;Pista;Sábado
+103350;Pedro Moreira;Arquibancada;Sexta
+103351;Lucas Lopes;Pista;Sábado
+103352;Diego Santos;Pista;Domingo
+103353;Eduarda Santos;Pista;Sexta
+103354;Enzo Fernandes;Pista Premium;Sexta
+103355;Isabela Pereira;Arquibancada;Domingo
+103356;Larissa Almeida;Pista;Domingo
+103357;Yasmin Gomes;Pista Premium;Sexta
+103358;Renata Rocha;Pista;Domingo
+103359;Paula Campos;Camarote;Sexta
+103360;Thiago Vieira;Pista;Sexta
+103361;Beatriz Costa;Pista;Domingo
+103362;Ana Santos;Pista;Sábado
+103363;Eduarda Lopes;Pista;Sábado
+103364;Felipe Teixeira;Pista Premium;Sábado
+103365;Tatiana Silva;Pista;Sexta
+103366;Helena Nascimento;Pista;Sábado
+103367;Henrique Silva;Pista;Sábado
+103368;Lucas Cardoso;Arquibancada;Sábado
+103369;Beatriz Nascimento;Pista;Domingo
+103370;Caio Moreira;Pista Premium;Sexta
+103371;Nicolas Lopes;Arquibancada;Domingo
+103372;Mariana Freitas;Pista;Domingo
+103373;Fernanda Melo;Arquibancada;Sexta
+103374;Rafael Dias;Arquibancada;Domingo
+103375;Gustavo Pereira;Camarote;Sábado
+103376;Felipe Pinto;Pista;Domingo
+103377;Marcos Vieira;Arquibancada;Domingo
+103378;Pedro Vieira;Arquibancada;Sábado
+103379;Ulisses Cardoso;Arquibancada;Domingo
+103380;Marcos Martins;Pista;Domingo
+103381;Paula Costa;Camarote;Sábado
+103382;Paula Melo;Pista;Domingo
+103383;Diego Moreira;Pista Premium;Sábado
+103384;Marcos Vieira;Pista;Sábado
+103385;Isabela Pereira;Pista Premium;Domingo
+103386;Paula Rezende;Pista Premium;Sexta
+103387;Fernanda Costa;Pista;Sexta
+103388;Helena Ribeiro;Pista;Sábado
+103389;Tatiana Santos;Pista Premium;Sexta
+103390;Larissa Ribeiro;Pista;Sexta
+103391;Felipe Pinto;Pista;Domingo
+103392;Valentina Martins;Pista;Sábado
+103393;Nicolas Rocha;Pista Premium;Sexta
+103394;Tatiana Lima;Arquibancada;Sexta
+103395;Vitor Ribeiro;Pista;Domingo
+103396;Larissa Araújo;Pista;Domingo
+103397;Marcos Melo;Arquibancada;Sábado
+103398;Ana Melo;Pista;Sábado
+103399;Sofia Vieira;Pista;Sexta
+103400;Mariana Martins;Arquibancada;Sábado
+103401;Vitor Rocha;Pista;Sexta
+103402;Tatiana Moreira;Pista Premium;Domingo
+103403;Felipe Lima;Arquibancada;Sábado
+103404;Beatriz Mendes;Arquibancada;Sábado
+103405;Valentina Almeida;Pista Premium;Domingo
+103406;Natália Nascimento;Pista;Domingo
+103407;Renata Lopes;Pista;Sábado
+103408;Olívia Freitas;Pista Premium;Sábado
+103409;Henrique Rezende;Arquibancada;Sexta
+103410;Henrique Lima;Pista;Sexta
+103411;Bruno Santos;Pista Premium;Domingo
+103412;João Mendes;Pista;Domingo
+103413;João Barbosa;Pista Premium;Sexta
+103414;Fernanda Freitas;Arquibancada;Domingo
+103415;Valentina Souza;Pista;Sábado
+103416;Bruno Gomes;Arquibancada;Sábado
+103417;Leonardo Nascimento;Pista;Sábado
+103418;Fernanda Cardoso;Pista;Sexta
+103419;Eduarda Gomes;Arquibancada;Sexta
+103420;Leonardo Pereira;Arquibancada;Sábado
+103421;João Dias;Pista;Sexta
+103422;Carla Araújo;Arquibancada;Domingo
+103423;Beatriz Pereira;Camarote;Sábado
+103424;Paula Almeida;Pista;Sábado
+103425;Leonardo Rocha;Pista;Sábado
+103426;Yasmin Ribeiro;Arquibancada;Domingo
+103427;Paula Teixeira;Pista Premium;Domingo
+103428;Carla Pinto;Pista;Sexta
+103429;Renata Araújo;Pista;Domingo
+103430;Olívia Lima;Pista Premium;Sábado
+103431;Isabela Pereira;Pista Premium;Sábado
+103432;Daniela Araújo;Pista;Domingo
+103433;Samuel Gomes;Pista Premium;Sexta
+103434;Felipe Vieira;Pista;Sábado
+103435;Marcos Oliveira;Pista;Sexta
+103436;Vitor Mendes;Pista Premium;Sábado
+103437;Leonardo Almeida;Pista Premium;Domingo
+103438;Otávio Gomes;Camarote;Domingo
+103439;Lucas Rezende;Arquibancada;Sexta
+103440;Olívia Mendes;Camarote;Sexta
+103441;Samuel Nascimento;Pista;Domingo
+103442;Ulisses Barbosa;Pista Premium;Domingo
+103443;Vitor Mendes;Arquibancada;Sábado
+103444;Gabriela Teixeira;Pista Premium;Sábado
+103445;Nicolas Pinto;Arquibancada;Sábado
+103446;Júlia Ribeiro;Pista;Sexta
+103447;Júlia Ramos;Arquibancada;Domingo
+103448;Beatriz Silva;Arquibancada;Sábado
+103449;Sofia Teixeira;Pista Premium;Sexta
+103450;Olívia Rezende;Camarote;Domingo
+103451;Otávio Araújo;Pista;Sexta
+103452;Daniela Gomes;Pista Premium;Sexta
+103453;Isabela Rezende;Pista Premium;Domingo
+103454;Otávio Vieira;Arquibancada;Domingo
+103455;Caio Oliveira;Pista;Sexta
+103456;Larissa Barbosa;Pista;Sábado
+103457;Thiago Oliveira;Pista;Sábado
+103458;Caio Moreira;Arquibancada;Sábado
+103459;Igor Pinto;Pista;Domingo
+103460;Yasmin Souza;Arquibancada;Domingo
+103461;Isabela Mendes;Pista Premium;Sábado
+103462;Yasmin Silva;Camarote;Domingo
+103463;Caio Dias;Pista;Sábado
+103464;Enzo Silva;Pista Premium;Domingo
+103465;Renata Moreira;Pista;Sábado
+103466;Ulisses Martins;Pista;Domingo
+103467;Caio Costa;Arquibancada;Sábado
+103468;Otávio Souza;Arquibancada;Sexta
+103469;Igor Almeida;Pista Premium;Sexta
+103470;Eduarda Dias;Pista;Sexta
+103471;Olívia Barbosa;Pista;Sexta
+103472;Helena Nunes;Camarote;Domingo
+103473;Daniela Melo;Pista;Sábado
+103474;Lucas Nunes;Pista;Sexta
+103475;Ana Nunes;Pista Premium;Domingo
+103476;Carla Araújo;Arquibancada;Sábado
+103477;Lucas Almeida;Pista;Domingo
+103478;Larissa Cardoso;Pista;Sexta
+103479;Nicolas Pereira;Camarote;Domingo
+103480;Pedro Ramos;Pista Premium;Sábado
+103481;Valentina Melo;Pista;Sexta
+103482;Otávio Lopes;Pista;Sexta
+103483;Leonardo Cardoso;Pista;Sábado
+103484;Leonardo Santos;Arquibancada;Domingo
+103485;Tatiana Campos;Arquibancada;Sexta
+103486;Igor Almeida;Pista;Domingo
+103487;Valentina Campos;Pista;Sexta
+103488;Caio Almeida;Pista;Domingo
+103489;Pedro Freitas;Pista;Sexta
+103490;Mariana Mendes;Arquibancada;Sábado
+103491;Renata Barbosa;Pista;Domingo
+103492;Gabriela Freitas;Arquibancada;Domingo
+103493;Larissa Freitas;Arquibancada;Sexta
+103494;Daniela Nunes;Pista Premium;Sexta
+103495;Felipe Rocha;Camarote;Domingo
+103496;Larissa Gomes;Arquibancada;Sexta
+103497;Caio Oliveira;Arquibancada;Sábado
+103498;Leonardo Rocha;Pista;Sexta
+103499;Leonardo Santos;Camarote;Sábado
+103500;Gustavo Dias;Pista Premium;Sábado
+103501;Renata Araújo;Pista Premium;Sábado
+103502;Gabriela Barbosa;Arquibancada;Sábado
+103503;Eduarda Melo;Camarote;Domingo
+103504;Bruno Campos;Pista;Domingo
+103505;Yasmin Fernandes;Arquibancada;Sexta
+103506;Rafael Pinto;Arquibancada;Sexta
+103507;Pedro Melo;Pista;Sábado
+103508;Mariana Campos;Arquibancada;Sábado
+103509;Sofia Pereira;Pista;Sexta
+103510;Gabriela Vieira;Pista;Sexta
+103511;Sofia Rezende;Pista;Sexta
+103512;Bruno Vieira;Arquibancada;Domingo
+103513;João Pereira;Pista;Domingo
+103514;Gabriela Ribeiro;Arquibancada;Sexta
+103515;Daniela Souza;Arquibancada;Sexta
+103516;Ana Ramos;Pista;Sexta
+103517;Natália Silva;Arquibancada;Sábado
+103518;Henrique Ramos;Pista Premium;Sexta
+103519;Renata Melo;Pista;Sábado
+103520;Nicolas Nunes;Pista;Domingo
+103521;Samuel Rocha;Pista Premium;Sábado
+103522;Eduarda Rezende;Pista;Domingo
+103523;Daniela Ribeiro;Pista;Sábado
+103524;Henrique Barbosa;Pista;Sexta
+103525;Felipe Nascimento;Arquibancada;Sábado
+103526;Helena Nunes;Camarote;Sábado
+103527;Vitor Dias;Arquibancada;Domingo
+103528;Helena Oliveira;Pista;Sexta
+103529;Marcos Ribeiro;Pista Premium;Domingo
+103530;Júlia Barbosa;Pista;Sábado
+103531;Ulisses Ribeiro;Pista Premium;Domingo
+103532;Gustavo Campos;Pista;Sexta
+103533;Daniela Teixeira;Pista;Sexta
+103534;Leonardo Freitas;Pista;Domingo
+103535;Marcos Rezende;Arquibancada;Sábado
+103536;Samuel Freitas;Pista;Sexta
+103537;Bruno Freitas;Pista Premium;Sexta
+103538;Lucas Almeida;Pista;Domingo
+103539;Mariana Almeida;Arquibancada;Sábado
+103540;João Araújo;Pista;Sexta
+103541;Rafael Souza;Arquibancada;Sábado
+103542;João Costa;Pista;Sexta
+103543;Otávio Ribeiro;Pista;Domingo
+103544;Vitor Moreira;Arquibancada;Sábado
+103545;Gabriela Lopes;Pista;Sexta
+103546;Nicolas Nunes;Camarote;Domingo
+103547;Mariana Ramos;Pista;Sexta
+103548;Renata Lopes;Pista Premium;Sábado
+103549;Larissa Gomes;Pista;Sexta
+103550;Eduarda Gomes;Pista Premium;Domingo
+103551;Valentina Freitas;Pista;Sexta
+103552;Vitor Nascimento;Pista Premium;Sexta
+103553;Enzo Silva;Pista;Sexta
+103554;Daniela Nascimento;Pista Premium;Domingo
+103555;Beatriz Moreira;Pista;Sexta
+103556;Sofia Santos;Pista Premium;Sexta
+103557;Diego Lopes;Pista;Sexta
+103558;Marcos Silva;Pista;Sábado
+103559;Pedro Barbosa;Pista Premium;Domingo
+103560;Paula Nunes;Arquibancada;Sábado
+103561;Paula Vieira;Camarote;Domingo
+103562;Rafael Santos;Pista;Domingo
+103563;Helena Rocha;Pista;Domingo
+103564;Beatriz Santos;Pista;Domingo
+103565;Marcos Pinto;Camarote;Sexta
+103566;Júlia Lima;Pista;Domingo
+103567;Pedro Costa;Arquibancada;Sexta
+103568;Diego Campos;Arquibancada;Sábado
+103569;Fernanda Silva;Pista;Domingo
+103570;Leonardo Pinto;Pista Premium;Sábado
+103571;Marcos Mendes;Arquibancada;Sábado
+103572;Enzo Costa;Pista;Sexta
+103573;Helena Oliveira;Arquibancada;Sexta
+103574;Lucas Ribeiro;Camarote;Domingo
+103575;Bruno Dias;Arquibancada;Sábado
+103576;Sofia Campos;Pista;Sábado
+103577;Fernanda Campos;Arquibancada;Domingo
+103578;Gustavo Pereira;Arquibancada;Sábado
+103579;Helena Melo;Pista;Sábado
+103580;Valentina Ramos;Arquibancada;Sábado
+103581;Fernanda Campos;Arquibancada;Sábado
+103582;Felipe Cardoso;Pista;Sábado
+103583;Helena Souza;Pista;Domingo
+103584;Leonardo Moreira;Pista Premium;Sábado
+103585;Daniela Gomes;Camarote;Sexta
+103586;Ana Silva;Pista;Domingo
+103587;Nicolas Ramos;Camarote;Domingo
+103588;Pedro Dias;Pista;Sábado
+103589;Eduarda Martins;Pista;Sexta
+103590;Igor Silva;Pista Premium;Sexta
+103591;Diego Melo;Pista Premium;Sábado
+103592;Gustavo Lima;Pista;Sábado
+103593;Diego Souza;Arquibancada;Sábado
+103594;Paula Moreira;Pista Premium;Sexta
+103595;Gabriela Fernandes;Pista;Sábado
+103596;Diego Souza;Pista Premium;Sábado
+103597;Gustavo Barbosa;Pista;Domingo
+103598;Helena Campos;Pista;Sexta
+103599;Ulisses Santos;Pista;Sexta
+103600;Gabriela Ribeiro;Pista Premium;Sexta
+103601;Vitor Pereira;Pista Premium;Domingo
+103602;Fernanda Araújo;Pista;Sábado
+103603;Larissa Oliveira;Arquibancada;Sexta
+103604;Rafael Nunes;Pista;Domingo
+103605;Felipe Souza;Arquibancada;Domingo
+103606;Nicolas Lopes;Pista Premium;Sábado
+103607;Larissa Silva;Pista Premium;Sexta
+103608;Valentina Pereira;Pista;Sexta
+103609;Nicolas Mendes;Pista Premium;Domingo
+103610;Ana Barbosa;Camarote;Sexta
+103611;Mariana Souza;Arquibancada;Sexta
+103612;Daniela Mendes;Pista;Sexta
+103613;Igor Fernandes;Pista;Domingo
+103614;Lucas Lima;Arquibancada;Sexta
+103615;Lucas Cardoso;Arquibancada;Sexta
+103616;Carla Gomes;Arquibancada;Sexta
+103617;Yasmin Teixeira;Arquibancada;Sexta
+103618;Paula Oliveira;Pista Premium;Sábado
+103619;Felipe Ramos;Pista Premium;Domingo
+103620;Lucas Araújo;Pista;Domingo
+103621;Helena Dias;Pista Premium;Sexta
+103622;Otávio Martins;Pista;Domingo
+103623;Pedro Araújo;Pista;Sexta
+103624;Natália Pereira;Pista;Sexta
+103625;Enzo Araújo;Arquibancada;Sexta
+103626;Thiago Lima;Arquibancada;Sexta
+103627;Thiago Lima;Pista Premium;Sexta
+103628;Vitor Campos;Camarote;Sexta
+103629;Caio Fernandes;Pista;Sábado
+103630;Caio Costa;Arquibancada;Sábado
+103631;Diego Vieira;Arquibancada;Sábado
+103632;Fernanda Pinto;Pista;Sexta
+103633;Helena Vieira;Pista Premium;Sexta
+103634;Mariana Nunes;Arquibancada;Sexta
+103635;Renata Pereira;Arquibancada;Sexta
+103636;Bruno Lima;Pista;Sexta
+103637;Beatriz Oliveira;Pista Premium;Sábado
+103638;Carla Teixeira;Pista;Sábado
+103639;Lucas Silva;Pista;Sábado
+103640;Henrique Moreira;Arquibancada;Sábado
+103641;Natália Lopes;Pista;Sábado
+103642;Tatiana Melo;Arquibancada;Sábado
+103643;Tatiana Pereira;Pista;Domingo
+103644;Caio Rezende;Arquibancada;Sábado
+103645;Samuel Moreira;Pista;Sexta
+103646;Henrique Campos;Pista;Sábado
+103647;Eduarda Gomes;Pista;Sexta
+103648;Nicolas Campos;Pista;Domingo
+103649;Samuel Gomes;Pista;Sábado
+103650;Ulisses Gomes;Pista Premium;Sexta
+103651;Beatriz Dias;Arquibancada;Domingo
+103652;Ana Moreira;Pista;Sábado
+103653;Larissa Pinto;Pista Premium;Domingo
+103654;Bruno Nascimento;Arquibancada;Domingo
+103655;Paula Campos;Pista;Sexta
+103656;Júlia Santos;Arquibancada;Sexta
+103657;Renata Barbosa;Arquibancada;Sexta
+103658;Paula Ribeiro;Pista Premium;Sexta
+103659;Natália Teixeira;Arquibancada;Sábado
+103660;Nicolas Araújo;Pista;Domingo
+103661;Otávio Pereira;Pista;Sábado
+103662;Eduarda Rocha;Pista;Sábado
+103663;Júlia Nunes;Arquibancada;Domingo
+103664;Mariana Silva;Pista;Sexta
+103665;Eduarda Silva;Pista Premium;Sexta
+103666;Beatriz Costa;Pista;Sábado
+103667;Leonardo Oliveira;Arquibancada;Sábado
+103668;Júlia Vieira;Pista;Domingo
+103669;Felipe Costa;Camarote;Sábado
+103670;Eduarda Ramos;Pista;Sexta
+103671;Enzo Nunes;Pista;Sexta
+103672;Caio Teixeira;Pista;Sábado
+103673;Renata Lopes;Pista Premium;Domingo
+103674;Natália Freitas;Pista;Sexta
+103675;Daniela Teixeira;Arquibancada;Domingo
+103676;Vitor Freitas;Pista;Sexta
+103677;Daniela Dias;Arquibancada;Sexta
+103678;Paula Silva;Pista;Sexta
+103679;Thiago Teixeira;Pista;Sexta
+103680;Isabela Vieira;Arquibancada;Domingo
+103681;Vitor Fernandes;Pista;Domingo
+103682;Nicolas Cardoso;Pista;Sábado
+103683;Mariana Costa;Arquibancada;Sábado
+103684;Isabela Barbosa;Arquibancada;Domingo
+103685;Natália Rocha;Pista;Domingo
+103686;Olívia Dias;Pista;Sexta
+103687;Olívia Almeida;Pista;Domingo
+103688;Gabriela Silva;Pista Premium;Domingo
+103689;Ulisses Melo;Camarote;Sexta
+103690;Ana Almeida;Pista;Sábado
+103691;Ana Martins;Arquibancada;Sábado
+103692;Fernanda Pereira;Pista;Sexta
+103693;Valentina Martins;Pista;Sábado
+103694;Eduarda Teixeira;Pista;Sexta
+103695;Igor Dias;Arquibancada;Domingo
+103696;Beatriz Moreira;Pista;Sexta
+103697;Gabriela Costa;Arquibancada;Sexta
+103698;Renata Fernandes;Pista;Domingo
+103699;Larissa Cardoso;Arquibancada;Sábado
+103700;Igor Nunes;Arquibancada;Sexta
+103701;Eduarda Martins;Pista Premium;Sábado
+103702;Júlia Pereira;Arquibancada;Domingo
+103703;Samuel Fernandes;Camarote;Sexta
+103704;Gustavo Campos;Arquibancada;Sexta
+103705;Mariana Almeida;Pista;Sábado
+103706;Paula Freitas;Pista;Domingo
+103707;Nicolas Cardoso;Pista;Domingo
+103708;Gustavo Nunes;Pista;Sábado
+103709;Natália Teixeira;Pista;Domingo
+103710;Samuel Ribeiro;Pista Premium;Sexta
+103711;Eduarda Fernandes;Arquibancada;Domingo
+103712;Ulisses Rezende;Pista;Sexta
+103713;Caio Lopes;Arquibancada;Sábado
+103714;Lucas Lima;Pista;Sexta
+103715;Beatriz Mendes;Arquibancada;Sexta
+103716;Júlia Rezende;Arquibancada;Sexta
+103717;Vitor Fernandes;Pista Premium;Sábado
+103718;João Santos;Pista;Sexta
+103719;Ana Fernandes;Pista Premium;Sexta
+103720;Natália Silva;Arquibancada;Domingo
+103721;Lucas Oliveira;Arquibancada;Sexta
+103722;Gustavo Dias;Pista Premium;Sexta
+103723;Pedro Souza;Pista;Sexta
+103724;Tatiana Rezende;Pista Premium;Domingo
+103725;Fernanda Silva;Pista;Domingo
+103726;Ulisses Souza;Pista;Sexta
+103727;Sofia Rocha;Pista;Sábado
+103728;Ulisses Lima;Pista Premium;Sábado
+103729;Sofia Gomes;Pista;Domingo
+103730;Yasmin Pinto;Pista;Sexta
+103731;Gustavo Barbosa;Pista Premium;Domingo
+103732;Igor Teixeira;Camarote;Sábado
+103733;Fernanda Campos;Pista;Sexta
+103734;Valentina Oliveira;Pista;Domingo
+103735;Daniela Oliveira;Pista;Sábado
+103736;Igor Ramos;Pista;Sexta
+103737;Pedro Melo;Pista;Sexta
+103738;Olívia Cardoso;Pista Premium;Sábado
+103739;Fernanda Lopes;Pista;Sábado
+103740;Lucas Ribeiro;Pista;Sábado
+103741;Beatriz Cardoso;Pista;Sexta
+103742;Paula Teixeira;Pista;Sábado
+103743;Ulisses Pinto;Pista;Sábado
+103744;Daniela Moreira;Pista Premium;Sexta
+103745;Igor Santos;Camarote;Sábado
+103746;Yasmin Pinto;Pista;Sexta
+103747;Júlia Barbosa;Pista Premium;Domingo
+103748;Rafael Rezende;Arquibancada;Sexta
+103749;Lucas Mendes;Pista;Sexta
+103750;Felipe Souza;Pista;Sexta
+103751;Beatriz Vieira;Arquibancada;Sábado
+103752;Vitor Lopes;Camarote;Sábado
+103753;Carla Vieira;Pista;Sábado
+103754;Ana Costa;Camarote;Sexta
+103755;Rafael Fernandes;Pista;Sexta
+103756;Eduarda Rezende;Arquibancada;Sexta
+103757;Sofia Ribeiro;Pista;Sexta
+103758;Isabela Pereira;Pista Premium;Domingo
+103759;Paula Silva;Pista;Domingo
+103760;Rafael Rocha;Pista;Sexta
+103761;Henrique Rocha;Pista Premium;Sexta
+103762;Thiago Martins;Pista;Sábado
+103763;Tatiana Campos;Pista;Sexta
+103764;Beatriz Almeida;Pista;Sexta
+103765;Beatriz Barbosa;Pista;Sexta
+103766;Bruno Fernandes;Arquibancada;Sábado
+103767;Vitor Pereira;Pista;Sábado
+103768;Daniela Araújo;Pista;Sexta
+103769;Marcos Freitas;Pista;Domingo
+103770;Felipe Ribeiro;Arquibancada;Sexta
+103771;Caio Pinto;Pista Premium;Sábado
+103772;Otávio Nunes;Arquibancada;Sexta
+103773;Samuel Moreira;Pista;Sexta
+103774;Beatriz Pinto;Pista;Sexta
+103775;Leonardo Vieira;Arquibancada;Sexta
+103776;Ana Pereira;Arquibancada;Sexta
+103777;Mariana Costa;Pista Premium;Sexta
+103778;Tatiana Moreira;Arquibancada;Domingo
+103779;Olívia Oliveira;Pista;Sábado
+103780;Sofia Fernandes;Pista Premium;Sábado
+103781;Diego Souza;Pista;Domingo
+103782;João Pereira;Pista;Domingo
+103783;Ulisses Moreira;Pista;Sábado
+103784;Ulisses Santos;Arquibancada;Domingo
+103785;Nicolas Almeida;Arquibancada;Sexta
+103786;Nicolas Martins;Camarote;Sábado
+103787;Paula Rezende;Pista Premium;Domingo
+103788;Sofia Lima;Pista;Domingo
+103789;Vitor Costa;Arquibancada;Sábado
+103790;Otávio Barbosa;Pista;Domingo
+103791;Thiago Rezende;Arquibancada;Sábado
+103792;Renata Souza;Arquibancada;Sábado
+103793;Gabriela Lima;Pista;Sábado
+103794;Gustavo Campos;Pista;Domingo
+103795;Natália Barbosa;Arquibancada;Sexta
+103796;Valentina Mendes;Camarote;Sexta
+103797;Caio Campos;Pista Premium;Sexta
+103798;Paula Mendes;Arquibancada;Domingo
+103799;Yasmin Oliveira;Pista;Domingo
+103800;Isabela Costa;Pista;Sábado
+103801;João Fernandes;Pista;Domingo
+103802;Vitor Moreira;Arquibancada;Sábado
+103803;Felipe Mendes;Pista;Sexta
+103804;Sofia Nascimento;Pista;Sábado
+103805;Beatriz Rocha;Pista;Sexta
+103806;Olívia Vieira;Arquibancada;Sexta
+103807;Leonardo Lopes;Pista;Domingo
+103808;Lucas Vieira;Pista;Domingo
+103809;Sofia Silva;Arquibancada;Domingo
+103810;Felipe Ramos;Pista;Domingo
+103811;Valentina Souza;Pista;Sexta
+103812;Igor Melo;Pista Premium;Sábado
+103813;Otávio Barbosa;Pista;Domingo
+103814;Fernanda Pereira;Pista;Domingo
+103815;Isabela Rocha;Pista Premium;Sábado
+103816;Enzo Silva;Pista Premium;Sexta
+103817;Helena Gomes;Pista Premium;Sábado
+103818;Eduarda Almeida;Pista Premium;Sábado
+103819;Natália Cardoso;Camarote;Sexta
+103820;Leonardo Costa;Pista;Sábado
+103821;João Mendes;Camarote;Sábado
+103822;Beatriz Almeida;Pista;Sábado
+103823;Valentina Barbosa;Pista Premium;Sexta
+103824;Valentina Santos;Arquibancada;Sábado
+103825;Ana Dias;Arquibancada;Sábado
+103826;Helena Ribeiro;Arquibancada;Domingo
+103827;Enzo Fernandes;Pista;Domingo
+103828;Vitor Teixeira;Pista;Domingo
+103829;Sofia Santos;Pista;Sábado
+103830;Leonardo Teixeira;Pista Premium;Domingo
+103831;Isabela Cardoso;Camarote;Sábado
+103832;Igor Freitas;Pista;Sexta
+103833;Bruno Campos;Camarote;Domingo
+103834;Carla Nunes;Arquibancada;Sábado
+103835;Júlia Fernandes;Pista;Sábado
+103836;Thiago Rezende;Pista;Sexta
+103837;Caio Moreira;Pista;Sábado
+103838;Isabela Lopes;Pista;Sexta
+103839;Diego Dias;Arquibancada;Domingo
+103840;João Nunes;Camarote;Sexta
+103841;Paula Cardoso;Pista;Sexta
+103842;Júlia Pinto;Arquibancada;Sexta
+103843;Marcos Nunes;Pista;Domingo
+103844;Marcos Campos;Pista;Domingo
+103845;Gabriela Lima;Pista Premium;Domingo
+103846;Ana Mendes;Pista;Domingo
+103847;Eduarda Moreira;Pista;Sábado
+103848;Leonardo Fernandes;Pista;Domingo
+103849;Caio Lima;Pista;Sexta
+103850;Carla Pinto;Pista;Sábado
+103851;Helena Rezende;Pista;Sexta
+103852;Daniela Pinto;Arquibancada;Domingo
+103853;Paula Mendes;Pista;Domingo
+103854;Eduarda Souza;Pista;Sábado
+103855;Ana Lopes;Camarote;Domingo
+103856;João Melo;Arquibancada;Domingo
+103857;Paula Martins;Arquibancada;Sexta
+103858;Rafael Nunes;Pista;Sábado
+103859;Rafael Mendes;Arquibancada;Sexta
+103860;Igor Nascimento;Arquibancada;Sábado
+103861;Helena Vieira;Camarote;Domingo
+103862;Natália Pereira;Pista;Sexta
+103863;Thiago Nunes;Pista;Sexta
+103864;Ulisses Ribeiro;Pista;Domingo
+103865;Fernanda Moreira;Pista;Sábado
+103866;Valentina Santos;Pista;Sexta
+103867;Igor Silva;Camarote;Domingo
+103868;Daniela Martins;Arquibancada;Sexta
+103869;Henrique Martins;Arquibancada;Domingo
+103870;Eduarda Santos;Pista;Sábado
+103871;Thiago Cardoso;Pista;Sábado
+103872;Isabela Almeida;Pista Premium;Domingo
+103873;Igor Silva;Pista;Domingo
+103874;Vitor Araújo;Pista;Sábado
+103875;Felipe Souza;Arquibancada;Domingo
+103876;Tatiana Campos;Arquibancada;Sábado
+103877;Samuel Rocha;Pista;Domingo
+103878;Gustavo Pinto;Pista;Domingo
+103879;Marcos Cardoso;Pista;Sábado
+103880;Isabela Rocha;Pista;Domingo
+103881;Rafael Ramos;Pista;Domingo
+103882;Pedro Almeida;Pista;Sábado
+103883;Isabela Costa;Pista;Sábado
+103884;Felipe Ramos;Camarote;Domingo
+103885;Fernanda Souza;Arquibancada;Domingo
+103886;Renata Martins;Arquibancada;Sexta
+103887;Ana Ramos;Arquibancada;Domingo
+103888;Caio Rocha;Arquibancada;Sexta
+103889;Sofia Teixeira;Pista Premium;Sexta
+103890;Renata Rezende;Camarote;Sexta
+103891;Mariana Nunes;Pista;Sábado
+103892;Otávio Lima;Pista;Sexta
+103893;Natália Gomes;Pista;Sábado
+103894;Gustavo Moreira;Pista;Domingo
+103895;Caio Campos;Arquibancada;Sexta
+103896;Henrique Martins;Pista;Sábado
+103897;Thiago Barbosa;Pista;Sexta
+103898;Leonardo Almeida;Pista;Sábado
+103899;Ulisses Cardoso;Pista Premium;Domingo
+103900;Tatiana Santos;Camarote;Sexta
+103901;Felipe Souza;Arquibancada;Domingo
+103902;Valentina Pereira;Pista;Domingo
+103903;Paula Barbosa;Pista;Sexta
+103904;Eduarda Almeida;Camarote;Sexta
+103905;Gabriela Rezende;Camarote;Domingo
+103906;Otávio Teixeira;Arquibancada;Sexta
+103907;Igor Almeida;Pista;Sexta
+103908;Tatiana Martins;Arquibancada;Sábado
+103909;Yasmin Cardoso;Camarote;Domingo
+103910;Carla Freitas;Pista;Sábado
+103911;Tatiana Rocha;Arquibancada;Sábado
+103912;Valentina Martins;Pista Premium;Sexta
+103913;Diego Santos;Arquibancada;Sábado
+103914;Carla Nascimento;Pista Premium;Sábado
+103915;Marcos Freitas;Camarote;Domingo
+103916;Enzo Almeida;Pista;Sábado
+103917;Lucas Araújo;Arquibancada;Sábado
+103918;Valentina Fernandes;Pista;Sexta
+103919;Otávio Silva;Pista;Domingo
+103920;Natália Araújo;Arquibancada;Domingo
+103921;Júlia Santos;Arquibancada;Sábado
+103922;Nicolas Pinto;Camarote;Sexta
+103923;Vitor Fernandes;Arquibancada;Domingo
+103924;Vitor Ribeiro;Pista;Sábado
+103925;Helena Freitas;Pista;Sexta
+103926;Leonardo Nascimento;Pista;Sábado
+103927;Vitor Lopes;Arquibancada;Domingo
+103928;Paula Nascimento;Pista Premium;Sábado
+103929;Vitor Campos;Camarote;Domingo
+103930;Nicolas Ramos;Pista;Sexta
+103931;Bruno Nascimento;Pista;Domingo
+103932;Igor Pinto;Pista;Domingo
+103933;Igor Pinto;Pista Premium;Sábado
+103934;Lucas Vieira;Arquibancada;Sexta
+103935;Thiago Ramos;Arquibancada;Sexta
+103936;João Vieira;Pista;Sexta
+103937;Otávio Vieira;Arquibancada;Sexta
+103938;Yasmin Melo;Arquibancada;Sábado
+103939;Beatriz Ramos;Pista;Domingo
+103940;Renata Ribeiro;Camarote;Sexta
+103941;Sofia Fernandes;Pista Premium;Sexta
+103942;Henrique Nascimento;Pista Premium;Sexta
+103943;Ana Teixeira;Pista;Sexta
+103944;Enzo Pereira;Arquibancada;Sábado
+103945;Enzo Costa;Pista;Domingo
+103946;Thiago Lopes;Pista;Sábado
+103947;Samuel Moreira;Arquibancada;Sábado
+103948;Henrique Cardoso;Pista Premium;Domingo
+103949;Enzo Santos;Pista Premium;Sexta
+103950;Caio Lopes;Pista;Sábado
+103951;Paula Cardoso;Arquibancada;Sexta
+103952;Fernanda Fernandes;Arquibancada;Sábado
+103953;Henrique Rocha;Pista;Sábado
+103954;Valentina Almeida;Pista Premium;Sexta
+103955;Natália Pereira;Arquibancada;Sexta
+103956;Otávio Lopes;Camarote;Domingo
+103957;Mariana Gomes;Pista;Sexta
+103958;Helena Ramos;Pista Premium;Sexta
+103959;Isabela Cardoso;Camarote;Domingo
+103960;Fernanda Araújo;Arquibancada;Domingo
+103961;Larissa Souza;Pista;Domingo
+103962;Ulisses Cardoso;Arquibancada;Sexta
+103963;Daniela Nunes;Pista;Sexta
+103964;Rafael Nunes;Arquibancada;Sexta
+103965;Yasmin Dias;Arquibancada;Sexta
+103966;Fernanda Moreira;Arquibancada;Sexta
+103967;Ulisses Teixeira;Arquibancada;Sexta
+103968;Carla Melo;Pista;Sexta
+103969;Samuel Ribeiro;Pista;Domingo
+103970;Beatriz Oliveira;Pista;Sexta
+103971;Beatriz Pereira;Arquibancada;Sexta
+103972;Renata Silva;Pista;Domingo
+103973;Igor Freitas;Pista;Sexta
+103974;Tatiana Rocha;Pista Premium;Sexta
+103975;Samuel Lopes;Pista;Domingo
+103976;Eduarda Vieira;Pista Premium;Sábado
+103977;Tatiana Fernandes;Arquibancada;Sexta
+103978;Valentina Almeida;Camarote;Sexta
+103979;Olívia Moreira;Pista Premium;Sexta
+103980;Marcos Silva;Camarote;Sexta
+103981;Valentina Almeida;Pista;Sábado
+103982;Igor Costa;Pista;Domingo
+103983;Sofia Nunes;Arquibancada;Domingo
+103984;Paula Melo;Arquibancada;Sexta
+103985;Rafael Barbosa;Pista;Sexta
+103986;Gustavo Santos;Arquibancada;Sábado
+103987;Igor Barbosa;Pista;Domingo
+103988;Marcos Nunes;Pista;Sexta
+103989;Ana Almeida;Arquibancada;Sexta
+103990;Yasmin Nascimento;Pista;Sábado
+103991;Samuel Rocha;Pista Premium;Sexta
+103992;Henrique Souza;Arquibancada;Sexta
+103993;Júlia Silva;Pista Premium;Sexta
+103994;Nicolas Ribeiro;Pista Premium;Sábado
+103995;Renata Moreira;Camarote;Sábado
+103996;Enzo Lopes;Pista Premium;Domingo
+103997;Natália Rezende;Pista;Sexta
+103998;Renata Silva;Pista Premium;Domingo
+103999;Valentina Vieira;Pista;Domingo
+104000;Júlia Moreira;Pista Premium;Sexta
+104001;Olívia Santos;Pista;Sexta
+104002;Felipe Moreira;Pista Premium;Sábado
+104003;Rafael Martins;Pista Premium;Sábado
+104004;Lucas Gomes;Pista;Sábado
+104005;Ana Oliveira;Arquibancada;Sexta
+104006;Bruno Moreira;Pista;Sexta
+104007;Natália Moreira;Arquibancada;Domingo
+104008;Valentina Vieira;Pista;Sábado
+104009;Fernanda Cardoso;Pista;Sábado
+104010;Diego Lopes;Camarote;Domingo
+104011;Isabela Pinto;Pista;Sábado
+104012;Larissa Martins;Arquibancada;Domingo
+104013;Daniela Nascimento;Arquibancada;Domingo
+104014;Gabriela Pereira;Pista;Sexta
+104015;Samuel Martins;Pista;Sexta
+104016;Vitor Freitas;Pista Premium;Sábado
+104017;Helena Mendes;Pista Premium;Domingo
+104018;Gustavo Mendes;Pista;Sábado
+104019;Isabela Moreira;Pista Premium;Domingo
+104020;Beatriz Rocha;Pista;Sábado
+100120;Igor Costa;Pista;Sábado
+104022;Vitor Ribeiro;Pista;Sexta
+104023;Henrique Almeida;Pista Premium;Sexta
+104024;Pedro Santos;Pista Premium;Sábado
+104025;Helena Rocha;Arquibancada;Sábado
+104026;Bruno Lopes;Arquibancada;Sábado
+104027;Vitor Souza;Pista Premium;Domingo
+104028;Igor Souza;Pista;Domingo
+104029;Eduarda Mendes;Pista Premium;Sexta
+104030;Daniela Gomes;Arquibancada;Sexta
+104031;Olívia Pinto;Arquibancada;Sexta
+104032;Isabela Cardoso;Arquibancada;Domingo
+104033;Helena Nascimento;Arquibancada;Domingo
+104034;Thiago Lopes;Arquibancada;Sábado
+104035;Gustavo Nunes;Pista;Domingo
+104036;Fernanda Pinto;Pista;Sábado
+104037;Marcos Nunes;Pista;Sexta
+104038;Felipe Lima;Pista Premium;Sexta
+104039;Henrique Teixeira;Pista Premium;Sexta
+104040;Gabriela Nunes;Pista;Sábado
+104041;Isabela Araújo;Pista;Sexta
+104042;Olívia Gomes;Arquibancada;Sexta
+104043;Sofia Mendes;Pista;Domingo
+104044;Igor Teixeira;Pista Premium;Domingo
+104045;Lucas Lima;Arquibancada;Sexta
+104046;Thiago Dias;Pista Premium;Domingo
+104047;Natália Vieira;Arquibancada;Domingo
+104048;Isabela Pereira;Pista;Sábado
+104049;Vitor Costa;Pista;Domingo
+104050;Leonardo Ramos;Pista;Sexta
+104051;Caio Costa;Pista;Domingo
+104052;Carla Barbosa;Arquibancada;Sábado
+104053;Lucas Melo;Pista;Domingo
+104054;Samuel Lima;Arquibancada;Domingo
+104055;Vitor Ribeiro;Arquibancada;Domingo
+104056;Ulisses Santos;Arquibancada;Sábado
+104057;Rafael Teixeira;Pista Premium;Domingo
+104058;Sofia Fernandes;Pista;Sábado
+104059;Bruno Rezende;Arquibancada;Domingo
+104060;Beatriz Oliveira;Pista;Sexta
+104061;Felipe Teixeira;Arquibancada;Sexta
+104062;Diego Rocha;Pista;Domingo
+104063;Marcos Vieira;Pista;Sábado
+104064;Renata Rezende;Arquibancada;Domingo
+104065;Diego Gomes;Pista;Sexta
+104066;Otávio Pinto;Arquibancada;Domingo
+104067;Paula Teixeira;Pista;Sábado
+104068;Lucas Campos;Pista;Domingo
+104069;Lucas Santos;Arquibancada;Sábado
+104070;Nicolas Souza;Arquibancada;Sexta
+104071;Felipe Cardoso;Arquibancada;Domingo
+104072;Henrique Pereira;Camarote;Domingo
+104073;Caio Teixeira;Pista;Sexta
+104074;Henrique Araújo;Pista;Sábado
+104075;Nicolas Barbosa;Arquibancada;Domingo
+104076;Beatriz Vieira;Pista;Domingo
+104077;Henrique Lopes;Pista;Sábado
+104078;Vitor Gomes;Pista;Sábado
+104079;Olívia Martins;Pista;Sábado
+104080;João Lima;Arquibancada;Domingo
+104081;Marcos Nunes;Pista;Sexta
+104082;Beatriz Freitas;Pista Premium;Sábado
+104083;Sofia Oliveira;Camarote;Sábado
+104084;Otávio Freitas;Pista Premium;Domingo
+104085;Tatiana Fernandes;Pista;Sexta
+104086;Paula Silva;Pista;Domingo
+104087;Otávio Campos;Pista Premium;Domingo
+104088;Carla Lima;Arquibancada;Domingo
+104089;Renata Vieira;Pista;Domingo
+104090;Vitor Costa;Arquibancada;Domingo
+104091;Fernanda Moreira;Pista Premium;Sábado
+104092;Yasmin Fernandes;Pista;Sexta
+104093;Renata Gomes;Arquibancada;Sexta
+104094;Gabriela Santos;Pista;Sexta
+104095;Thiago Campos;Camarote;Sexta
+104096;Carla Santos;Pista Premium;Sexta
+104097;Fernanda Ribeiro;Pista;Domingo
+104098;Fernanda Rezende;Pista Premium;Sábado
+104099;Beatriz Silva;Pista Premium;Sexta
+104100;Pedro Almeida;Camarote;Sexta
+104101;Lucas Costa;Pista Premium;Domingo
+104102;Vitor Pereira;Pista;Sexta
+104103;Tatiana Pinto;Arquibancada;Domingo
+104104;João Gomes;Arquibancada;Sábado
+104105;Renata Lopes;Arquibancada;Sábado
+104106;Enzo Lopes;Pista;Sexta
+104107;Valentina Fernandes;Arquibancada;Sexta
+104108;Isabela Freitas;Pista;Domingo
+104109;Eduarda Mendes;Arquibancada;Domingo
+104110;Yasmin Pereira;Camarote;Domingo
+104111;Lucas Ramos;Camarote;Sexta
+104112;Sofia Nascimento;Arquibancada;Sexta
+104113;Eduarda Dias;Pista;Sábado
+104114;Gustavo Fernandes;Pista Premium;Domingo
+104115;Henrique Pinto;Pista Premium;Sexta
+104116;Caio Nunes;Pista;Domingo
+104117;Nicolas Lima;Arquibancada;Sexta
+104118;Tatiana Mendes;Arquibancada;Domingo
+104119;Marcos Fernandes;Camarote;Sexta
+104120;Carla Pinto;Pista;Sábado
+104121;Henrique Campos;Pista;Domingo
+104122;Júlia Mendes;Pista;Sábado
+104123;Gustavo Martins;Pista;Sexta
+104124;Fernanda Costa;Pista;Sexta
+104125;Natália Rezende;Arquibancada;Domingo
+104126;Beatriz Melo;Arquibancada;Sábado
+104127;Henrique Rezende;Pista Premium;Domingo
+104128;Marcos Dias;Pista;Sábado
+104129;Enzo Pereira;Pista Premium;Sexta
+104130;Fernanda Nunes;Camarote;Sábado
+104131;Júlia Silva;Pista;Sexta
+104132;Thiago Silva;Pista Premium;Sexta
+104133;Gustavo Barbosa;Pista;Sexta
+104134;Ulisses Ribeiro;Pista;Sábado
+104135;Lucas Rezende;Pista Premium;Domingo
+104136;Samuel Rezende;Arquibancada;Sexta
+104137;Valentina Nascimento;Arquibancada;Sexta
+104138;Lucas Souza;Arquibancada;Sexta
+104139;Carla Santos;Pista;Sexta
+104140;Vitor Ramos;Pista;Sábado
+104141;Vitor Pereira;Pista;Domingo
+104142;Felipe Teixeira;Pista;Domingo
+104143;Daniela Moreira;Pista;Sábado
+104144;Paula Silva;Pista;Sexta
+104145;Paula Lopes;Pista;Domingo
+104146;Vitor Cardoso;Pista;Domingo
+104147;Mariana Freitas;Pista Premium;Sábado
+104148;Bruno Vieira;Pista;Sábado
+104149;Bruno Oliveira;Arquibancada;Sexta
+104150;Carla Cardoso;Arquibancada;Domingo
+104151;Caio Nunes;Camarote;Domingo
+104152;Valentina Melo;Pista Premium;Sexta
+104153;Carla Nascimento;Camarote;Sexta
+104154;Ulisses Melo;Pista Premium;Sábado
+104155;Gabriela Teixeira;Pista;Domingo
+104156;Vitor Souza;Pista;Sexta
+104157;Enzo Souza;Pista;Sábado
+104158;Olívia Nascimento;Pista;Sábado
+104159;Gabriela Souza;Pista;Sexta
+104160;Beatriz Ribeiro;Pista;Sexta
+104161;Yasmin Melo;Arquibancada;Sábado
+104162;Marcos Rezende;Pista;Sexta
+104163;Bruno Pereira;Pista;Sábado
+104164;Renata Oliveira;Arquibancada;Domingo
+104165;Eduarda Campos;Pista Premium;Sábado
+104166;Gabriela Rocha;Camarote;Sábado
+104167;Bruno Costa;Arquibancada;Domingo
+104168;Olívia Ramos;Pista Premium;Sexta
+104169;Nicolas Costa;Pista Premium;Domingo
+104170;Mariana Oliveira;Pista;Domingo
+104171;Carla Mendes;Pista;Sexta
+104172;Olívia Pereira;Pista;Domingo
+104173;Natália Araújo;Pista Premium;Sexta
+104174;Enzo Gomes;Arquibancada;Sexta
+104175;Paula Melo;Pista;Sábado
+104176;Fernanda Dias;Arquibancada;Sexta
+104177;Mariana Costa;Pista Premium;Sábado
+104178;Marcos Cardoso;Pista;Sábado
+104179;Renata Silva;Pista;Sexta
+104180;Valentina Ribeiro;Pista Premium;Sábado
+104181;Sofia Silva;Pista;Sábado
+104182;Olívia Rezende;Camarote;Sexta
+104183;João Silva;Arquibancada;Domingo
+104184;Natália Melo;Pista;Sexta
+104185;Enzo Oliveira;Pista;Sábado
+104186;Ulisses Costa;Pista Premium;Sexta
+104187;Ana Fernandes;Pista;Domingo
+104188;Igor Santos;Pista Premium;Sábado
+104189;Rafael Araújo;Pista Premium;Sábado
+104190;Ana Silva;Arquibancada;Domingo
+104191;Enzo Silva;Pista;Sexta
+104192;Larissa Ramos;Pista;Sábado
+104193;Marcos Ramos;Camarote;Sábado
+104194;Ulisses Nunes;Arquibancada;Domingo
+104195;Vitor Vieira;Camarote;Sábado
+104196;Leonardo Rocha;Pista;Sábado
+104197;Eduarda Teixeira;Pista;Sábado
+104198;Yasmin Nunes;Camarote;Sexta
+104199;Ana Costa;Pista;Sexta
+104200;Gustavo Pereira;Pista;Sexta
+104201;Otávio Martins;Pista Premium;Sábado
+104202;Eduarda Silva;Camarote;Sexta
+104203;Rafael Lima;Arquibancada;Sexta
+104204;Larissa Fernandes;Pista;Sábado
+104205;Nicolas Campos;Camarote;Sexta
+104206;Enzo Rezende;Camarote;Sexta
+104207;Enzo Silva;Pista;Sexta
+104208;Bruno Silva;Arquibancada;Sábado
+104209;Marcos Ribeiro;Pista;Sábado
+104210;Natália Teixeira;Pista;Sexta
+104211;Paula Nunes;Arquibancada;Sexta
+104212;Isabela Santos;Pista Premium;Sábado
+104213;Valentina Gomes;Pista;Sexta
+104214;Thiago Costa;Pista;Sábado
+104215;Igor Santos;Pista;Domingo
+104216;Renata Lima;Pista Premium;Domingo
+104217;Vitor Oliveira;Arquibancada;Sexta
+104218;Samuel Almeida;Pista;Domingo
+104219;Júlia Moreira;Pista Premium;Sábado
+104220;Sofia Barbosa;Camarote;Sábado
+104221;Pedro Dias;Arquibancada;Sexta
+104222;Tatiana Melo;Pista;Domingo
+104223;Thiago Mendes;Arquibancada;Sábado
+104224;Caio Freitas;Pista;Sexta
+104225;Diego Fernandes;Arquibancada;Sexta
+104226;Olívia Ribeiro;Arquibancada;Sábado
+104227;Bruno Lima;Arquibancada;Sábado
+104228;Tatiana Costa;Pista;Domingo
+104229;Yasmin Souza;Arquibancada;Sábado
+104230;Natália Almeida;Arquibancada;Sexta
+104231;Larissa Ribeiro;Pista Premium;Sábado
+104232;Fernanda Gomes;Arquibancada;Domingo
+104233;Igor Lima;Pista;Sexta
+104234;Enzo Rezende;Pista;Domingo
+104235;Mariana Rocha;Pista;Domingo
+104236;Beatriz Gomes;Arquibancada;Sábado
+104237;Helena Almeida;Pista;Domingo
+104238;Valentina Gomes;Pista;Domingo
+104239;Bruno Ramos;Pista;Sexta
+104240;Enzo Nascimento;Pista;Domingo
+104241;Pedro Teixeira;Camarote;Sexta
+104242;Tatiana Vieira;Pista;Domingo
+104243;Vitor Nascimento;Pista;Sábado
+104244;Lucas Vieira;Pista;Sexta
+104245;Henrique Barbosa;Arquibancada;Sábado
+104246;Tatiana Nascimento;Arquibancada;Sexta
+104247;Paula Melo;Pista;Domingo
+104248;Isabela Rezende;Pista;Domingo
+104249;Thiago Martins;Pista Premium;Sábado
+104250;Helena Mendes;Pista;Sábado
+104251;Júlia Fernandes;Pista;Sexta
+104252;Tatiana Souza;Pista;Sexta
+104253;Felipe Gomes;Arquibancada;Sexta
+104254;Fernanda Santos;Pista Premium;Sexta
+104255;Marcos Araújo;Pista Premium;Domingo
+104256;Henrique Rezende;Pista;Sexta
+104257;Rafael Oliveira;Pista Premium;Sábado
+104258;Felipe Nunes;Pista;Sábado
+104259;Larissa Melo;Arquibancada;Sábado
+104260;Enzo Rezende;Pista;Domingo
+104261;Júlia Lima;Arquibancada;Domingo
+104262;Renata Araújo;Pista;Sábado
+104263;Felipe Dias;Pista;Domingo
+104264;Gustavo Moreira;Pista;Sexta
+104265;Rafael Santos;Pista;Sexta
+104266;Natália Rezende;Pista;Sábado
+104267;Caio Pereira;Pista;Sexta
+104268;Larissa Vieira;Pista;Sábado
+104269;Otávio Nunes;Pista;Sábado
+104270;Natália Mendes;Pista Premium;Domingo
+104271;Tatiana Freitas;Pista Premium;Domingo
+104272;Beatriz Lima;Pista;Sábado
+104273;Diego Gomes;Pista;Domingo
+104274;Vitor Ribeiro;Pista Premium;Sábado
+104275;Bruno Campos;Pista;Domingo
+104276;Eduarda Pereira;Pista;Sexta
+104277;Marcos Moreira;Pista;Sexta
+104278;Ulisses Lopes;Arquibancada;Domingo
+104279;Carla Ribeiro;Pista;Sábado
+104280;Valentina Barbosa;Arquibancada;Sexta
+104281;Júlia Vieira;Arquibancada;Sexta
+104282;Samuel Almeida;Pista;Sábado
+104283;Paula Nunes;Camarote;Sábado
+104284;João Fernandes;Camarote;Sábado
+104285;Igor Oliveira;Pista Premium;Sexta
+104286;Otávio Cardoso;Arquibancada;Sexta
+104287;Júlia Campos;Pista;Sábado
+104288;Daniela Vieira;Arquibancada;Domingo
+104289;Gabriela Rezende;Pista Premium;Sexta
+104290;Renata Melo;Pista;Sexta
+104291;Bruno Barbosa;Arquibancada;Sábado
+104292;Júlia Nunes;Arquibancada;Sexta
+104293;Sofia Nunes;Pista;Domingo
+104294;Olívia Pinto;Arquibancada;Sexta
+104295;Thiago Ribeiro;Pista;Sábado
+104296;Júlia Araújo;Pista Premium;Domingo
+104297;Tatiana Lima;Pista;Domingo
+104298;Ulisses Pinto;Pista;Sexta
+104299;Ulisses Melo;Pista;Domingo
+104300;Olívia Lopes;Pista;Sexta
+104301;Pedro Fernandes;Pista Premium;Sexta
+104302;Ulisses Campos;Arquibancada;Domingo
+104303;Paula Cardoso;Pista;Sábado
+104304;Renata Moreira;Pista Premium;Sexta
+104305;Helena Teixeira;Pista Premium;Sexta
+104306;Felipe Mendes;Pista Premium;Sábado
+104307;Pedro Almeida;Pista Premium;Domingo
+104308;Lucas Teixeira;Arquibancada;Sexta
+104309;Vitor Rocha;Pista;Domingo
+104310;Pedro Oliveira;Camarote;Sábado
+104311;Valentina Santos;Camarote;Domingo
+104312;Daniela Araújo;Pista;Sexta
+104313;Bruno Gomes;Pista;Sexta
+104314;Helena Dias;Arquibancada;Sábado
+104315;Isabela Campos;Arquibancada;Sexta
+104316;Sofia Martins;Camarote;Sexta
+104317;Valentina Pinto;Pista;Domingo
+104318;Caio Araújo;Camarote;Domingo
+104319;Valentina Costa;Arquibancada;Sexta
+104320;Fernanda Pereira;Arquibancada;Sexta
+104321;Natália Santos;Arquibancada;Sábado
+104322;Paula Rocha;Pista Premium;Domingo
+104323;Samuel Moreira;Pista Premium;Sábado
+104324;Yasmin Campos;Pista;Sábado
+104325;Marcos Ramos;Pista;Sábado
+104326;Daniela Ribeiro;Pista;Sábado
+104327;Diego Nunes;Pista;Sexta
+104328;Gabriela Souza;Pista Premium;Domingo
+104329;Daniela Vieira;Arquibancada;Domingo
+104330;Samuel Pereira;Pista;Sexta
+104331;Olívia Santos;Camarote;Domingo
+104332;Carla Fernandes;Arquibancada;Domingo
+104333;Valentina Dias;Arquibancada;Domingo
+104334;Yasmin Fernandes;Arquibancada;Sexta
+104335;Valentina Souza;Arquibancada;Sábado
+104336;Ulisses Ramos;Pista;Sexta
+104337;Natália Martins;Pista Premium;Sábado
+104338;Marcos Lima;Pista;Sexta
+104339;Yasmin Araújo;Pista Premium;Domingo
+104340;Rafael Dias;Arquibancada;Sexta
+104341;Igor Costa;Arquibancada;Sexta
+104342;Thiago Pereira;Pista;Sexta
+104343;Renata Lopes;Arquibancada;Sexta
+104344;Vitor Cardoso;Arquibancada;Sábado
+104345;Helena Cardoso;Pista;Sexta
+104346;Vitor Souza;Arquibancada;Sexta
+104347;Valentina Freitas;Pista;Domingo
+104348;Lucas Campos;Arquibancada;Sábado
+104349;Thiago Moreira;Pista;Domingo
+104350;Diego Cardoso;Pista Premium;Sábado
+104351;Nicolas Fernandes;Camarote;Domingo
+104352;Fernanda Lopes;Pista;Domingo
+104353;Natália Dias;Arquibancada;Sábado
+104354;Tatiana Oliveira;Pista;Sexta
+104355;Ulisses Silva;Pista Premium;Domingo
+104356;Júlia Oliveira;Arquibancada;Domingo
+104357;Caio Teixeira;Pista;Sábado
+104358;Gustavo Pereira;Pista;Sexta
+104359;Rafael Almeida;Pista;Domingo
+104360;Daniela Ribeiro;Camarote;Sexta
+104361;Rafael Cardoso;Pista;Domingo
+104362;Nicolas Barbosa;Pista;Domingo
+104363;Larissa Oliveira;Pista;Sábado
+104364;Felipe Oliveira;Pista;Sábado
+104365;Otávio Silva;Camarote;Domingo
+104366;Caio Araújo;Arquibancada;Sexta
+104367;Igor Melo;Arquibancada;Sábado
+104368;Renata Pereira;Arquibancada;Domingo
+104369;Sofia Oliveira;Pista Premium;Sexta
+104370;Gabriela Mendes;Pista Premium;Sexta
+104371;Olívia Gomes;Pista;Sábado
+104372;Henrique Gomes;Arquibancada;Sexta
+104373;Felipe Oliveira;Pista Premium;Domingo
+104374;Gustavo Teixeira;Arquibancada;Domingo
+104375;Tatiana Moreira;Pista;Sábado
+104376;Bruno Freitas;Arquibancada;Domingo
+104377;Lucas Ribeiro;Arquibancada;Domingo
+104378;Mariana Rezende;Arquibancada;Sábado
+104379;Thiago Barbosa;Pista;Domingo
+104380;Daniela Araújo;Arquibancada;Domingo
+104381;Helena Vieira;Arquibancada;Sexta
+104382;Henrique Almeida;Arquibancada;Sábado
+104383;Diego Silva;Arquibancada;Domingo
+104384;Leonardo Almeida;Camarote;Sábado
+104385;Ana Souza;Arquibancada;Sábado
+104386;Vitor Mendes;Pista Premium;Sábado
+104387;Ana Vieira;Pista;Sexta
+104388;Leonardo Costa;Pista;Sábado
+104389;Leonardo Fernandes;Pista Premium;Domingo
+104390;Thiago Nascimento;Arquibancada;Sexta
+104391;Bruno Gomes;Pista Premium;Sexta
+104392;Felipe Dias;Pista;Sábado
+104393;Enzo Santos;Pista Premium;Domingo
+104394;Diego Teixeira;Camarote;Sexta
+104395;Enzo Teixeira;Pista;Sábado
+104396;Daniela Pinto;Pista;Sexta
+104397;Vitor Oliveira;Pista;Sábado
+104398;Bruno Ramos;Pista;Sábado
+104399;Felipe Barbosa;Arquibancada;Sexta
+104400;Ulisses Teixeira;Camarote;Sexta
+104401;Carla Souza;Pista Premium;Sexta
+104402;Henrique Ribeiro;Arquibancada;Domingo
+104403;Eduarda Teixeira;Pista Premium;Domingo
+104404;Vitor Campos;Arquibancada;Sexta
+104405;Eduarda Rezende;Pista Premium;Sábado
+104406;Samuel Freitas;Pista;Sexta
+104407;Valentina Cardoso;Pista;Sábado
+104408;Gustavo Souza;Pista;Sábado
+104409;Ulisses Pinto;Pista;Sábado
+104410;Yasmin Moreira;Pista;Sábado
+104411;Olívia Santos;Arquibancada;Sábado
+104412;Isabela Lopes;Pista Premium;Domingo
+104413;Rafael Fernandes;Arquibancada;Sábado
+104414;João Vieira;Pista Premium;Sexta
+104415;Diego Lopes;Pista Premium;Sábado
+104416;Daniela Silva;Pista Premium;Domingo
+104417;Beatriz Oliveira;Pista;Sexta
+104418;Marcos Freitas;Camarote;Sexta
+104419;Isabela Mendes;Arquibancada;Sábado
+104420;Júlia Barbosa;Pista;Sábado
+104421;Diego Silva;Pista;Domingo
+104422;Tatiana Santos;Arquibancada;Sábado
+104423;Júlia Melo;Pista Premium;Sábado
+104424;Igor Lima;Pista;Sábado
+104425;Helena Rocha;Pista Premium;Sexta
+104426;Valentina Martins;Pista;Sábado
+104427;Otávio Pinto;Pista;Sábado
+104428;Diego Mendes;Arquibancada;Domingo
+104429;Beatriz Rezende;Pista;Sábado
+104430;Rafael Silva;Arquibancada;Domingo
+104431;Valentina Lima;Pista Premium;Sábado
+104432;Felipe Ribeiro;Arquibancada;Domingo
+104433;Felipe Mendes;Pista Premium;Sexta
+104434;Tatiana Costa;Pista Premium;Sexta
+104435;Otávio Vieira;Arquibancada;Sexta
+104436;Leonardo Cardoso;Arquibancada;Sexta
+104437;Ana Moreira;Arquibancada;Domingo
+104438;Diego Souza;Camarote;Domingo
+104439;Eduarda Cardoso;Arquibancada;Domingo
+104440;Henrique Pinto;Pista Premium;Sábado
+104441;Thiago Gomes;Pista Premium;Sexta
+104442;Vitor Ribeiro;Pista Premium;Sábado
+104443;Sofia Almeida;Pista Premium;Domingo
+104444;Felipe Oliveira;Arquibancada;Sexta
+104445;Tatiana Santos;Pista;Sábado
+104446;João Martins;Pista;Sábado
+104447;João Lopes;Arquibancada;Sexta
+104448;Valentina Teixeira;Pista;Sexta
+104449;Igor Almeida;Pista Premium;Sexta
+104450;Helena Nascimento;Pista;Domingo
+104451;Otávio Pereira;Pista Premium;Sábado
+104452;Rafael Dias;Pista;Domingo
+104453;Paula Dias;Camarote;Domingo
+104454;Henrique Dias;Camarote;Sábado
+104455;Nicolas Cardoso;Pista;Sábado
+104456;Diego Moreira;Pista Premium;Sexta
+104457;Natália Fernandes;Pista;Sexta
+104458;Nicolas Vieira;Pista;Sábado
+104459;Diego Pereira;Pista;Domingo
+104460;Natália Dias;Arquibancada;Sexta
+104461;Caio Souza;Arquibancada;Sexta
+104462;Bruno Campos;Pista;Sexta
+104463;Isabela Souza;Arquibancada;Domingo
+104464;Vitor Santos;Pista;Domingo
+104465;Olívia Martins;Pista Premium;Sábado
+104466;Henrique Melo;Pista;Sábado
+104467;Ana Ramos;Pista;Domingo
+104468;Rafael Nascimento;Pista Premium;Sábado
+104469;Renata Silva;Arquibancada;Sábado
+104470;Isabela Lima;Pista;Sexta
+104471;Marcos Mendes;Pista;Sábado
+104472;Vitor Costa;Pista;Sábado
+104473;Carla Mendes;Pista Premium;Domingo
+104474;Enzo Silva;Pista Premium;Domingo
+104475;Renata Nunes;Pista;Sexta
+104476;Eduarda Freitas;Pista;Sábado
+104477;Bruno Costa;Pista;Domingo
+104478;Tatiana Barbosa;Camarote;Sábado
+104479;Bruno Fernandes;Pista Premium;Domingo
+104480;Marcos Silva;Pista;Sábado
+104481;Carla Moreira;Pista;Domingo
+104482;Renata Vieira;Pista Premium;Sábado
+104483;Carla Gomes;Pista Premium;Domingo
+104484;Otávio Fernandes;Arquibancada;Sábado
+104485;Eduarda Araújo;Pista;Domingo
+104486;Nicolas Pinto;Arquibancada;Domingo
+104487;Thiago Nunes;Pista;Sábado
+104488;Sofia Costa;Pista;Sexta
+104489;Pedro Mendes;Pista Premium;Sábado
+104490;Eduarda Nunes;Pista Premium;Sábado
+104491;Lucas Costa;Pista Premium;Domingo
+104492;Fernanda Ramos;Pista;Domingo
+104493;Marcos Gomes;Arquibancada;Domingo
+104494;Leonardo Santos;Pista;Sábado
+104495;Felipe Gomes;Camarote;Sábado
+104496;Diego Gomes;Pista;Domingo
+104497;Carla Barbosa;Arquibancada;Sexta
+104498;Vitor Barbosa;Arquibancada;Sábado
+104499;Thiago Nascimento;Pista Premium;Domingo
+104500;Helena Gomes;Pista;Domingo
+104501;Caio Nascimento;Pista;Sábado
+104502;João Moreira;Pista Premium;Sexta
+104503;Larissa Melo;Arquibancada;Sábado
+104504;Caio Silva;Pista Premium;Sábado
+104505;Marcos Araújo;Arquibancada;Sexta
+104506;Beatriz Teixeira;Pista;Sexta
+104507;Thiago Martins;Pista;Sábado
+104508;Larissa Fernandes;Camarote;Sábado
+104509;Thiago Cardoso;Pista;Domingo
+104510;Ana Rezende;Arquibancada;Sábado
+104511;Vitor Ramos;Arquibancada;Sábado
+104512;Júlia Costa;Pista;Sexta
+104513;Felipe Dias;Pista;Sábado
+104514;Felipe Vieira;Pista;Sábado
+104515;Larissa Campos;Camarote;Domingo
+104516;Gustavo Almeida;Pista;Sexta
+104517;Ana Pinto;Arquibancada;Domingo
+104518;Lucas Lima;Pista;Sexta
+104519;Leonardo Gomes;Pista;Sábado
+104520;Henrique Vieira;Pista;Sexta
+104521;Ana Nunes;Pista Premium;Sexta
+104522;Beatriz Rocha;Camarote;Sexta
+104523;Marcos Mendes;Pista Premium;Domingo
+104524;Otávio Souza;Arquibancada;Sábado
+104525;Caio Mendes;Pista Premium;Domingo
+104526;Sofia Araújo;Camarote;Sábado
+104527;Olívia Rezende;Pista Premium;Domingo
+104528;Yasmin Melo;Arquibancada;Sábado
+104529;Olívia Nunes;Pista Premium;Sexta
+104530;Vitor Araújo;Pista;Sexta
+104531;Tatiana Lima;Arquibancada;Sábado
+104532;Vitor Melo;Pista;Sexta
+104533;Samuel Pinto;Arquibancada;Sábado
+104534;Ulisses Ramos;Arquibancada;Domingo
+104535;Marcos Almeida;Arquibancada;Sábado
+104536;Enzo Costa;Arquibancada;Sábado
+104537;Sofia Cardoso;Pista;Domingo
+104538;Enzo Santos;Pista;Domingo
+104539;Pedro Nascimento;Camarote;Sábado
+104540;Júlia Mendes;Pista;Sábado
+104541;Bruno Freitas;Pista Premium;Sexta
+104542;Samuel Silva;Arquibancada;Domingo
+104543;Ulisses Pereira;Pista;Sábado
+104544;Carla Ribeiro;Arquibancada;Sexta
+104545;Eduarda Pereira;Pista;Domingo
+104546;Mariana Oliveira;Pista;Sábado
+104547;Rafael Martins;Arquibancada;Domingo
+104548;Rafael Gomes;Camarote;Sábado
+104549;Isabela Lopes;Pista;Sexta
+104550;Henrique Freitas;Pista;Sexta
+104551;Felipe Almeida;Arquibancada;Sexta
+104552;Bruno Vieira;Pista;Sábado
+104553;Júlia Nascimento;Pista;Sábado
+104554;Nicolas Fernandes;Camarote;Sexta
+104555;Igor Dias;Arquibancada;Sexta
+104556;Olívia Dias;Camarote;Sexta
+104557;Rafael Moreira;Arquibancada;Domingo
+104558;Sofia Campos;Pista Premium;Domingo
+104559;Igor Mendes;Arquibancada;Sexta
+104560;Valentina Oliveira;Pista;Sábado
+104561;Tatiana Teixeira;Pista;Domingo
+104562;João Ribeiro;Pista;Sexta
+104563;Bruno Santos;Pista;Sábado
+104564;Diego Pereira;Arquibancada;Sábado
+104565;Gabriela Ramos;Pista;Domingo
+104566;Vitor Lima;Pista Premium;Domingo
+104567;Rafael Pereira;Pista;Domingo
+104568;Rafael Martins;Camarote;Sábado
+104569;Larissa Lima;Camarote;Sábado
+104570;Thiago Rocha;Arquibancada;Sábado
+104571;João Lima;Pista;Domingo
+104572;Tatiana Melo;Pista Premium;Domingo
+104573;Samuel Oliveira;Pista;Domingo
+104574;Tatiana Gomes;Pista Premium;Domingo
+104575;Gustavo Freitas;Camarote;Sexta
+104576;Tatiana Mendes;Pista Premium;Sábado
+104577;Júlia Teixeira;Pista Premium;Sábado
+104578;Otávio Ribeiro;Pista Premium;Sexta
+104579;Marcos Nunes;Arquibancada;Sexta
+104580;Samuel Rocha;Pista;Domingo
+104581;Beatriz Silva;Arquibancada;Sexta
+104582;Nicolas Araújo;Pista;Domingo
+104583;Valentina Fernandes;Arquibancada;Domingo
+104584;Isabela Rocha;Arquibancada;Sábado
+104585;Leonardo Ramos;Arquibancada;Sábado
+104586;Yasmin Barbosa;Pista;Domingo
+104587;Sofia Gomes;Pista;Sábado
+104588;João Nascimento;Pista;Sexta
+104589;Beatriz Rezende;Camarote;Domingo
+104590;Samuel Fernandes;Pista;Sexta
+104591;Fernanda Souza;Arquibancada;Domingo
+104592;Sofia Dias;Camarote;Domingo
+104593;Eduarda Vieira;Pista;Sábado
+104594;Ana Araújo;Pista;Domingo
+104595;Larissa Teixeira;Pista;Sábado
+104596;Renata Nunes;Arquibancada;Sábado
+104597;Renata Lopes;Arquibancada;Sexta
+104598;Yasmin Ribeiro;Pista;Sexta
+104599;Rafael Silva;Arquibancada;Domingo
+104600;Isabela Ribeiro;Pista Premium;Sábado
+104601;Natália Fernandes;Pista Premium;Domingo
+104602;Renata Cardoso;Pista;Sábado
+104603;Thiago Vieira;Pista;Sábado
+104604;Gustavo Lopes;Pista Premium;Sexta
+104605;Marcos Fernandes;Pista;Domingo
+104606;Vitor Almeida;Pista Premium;Sábado
+104607;Natália Nunes;Pista;Sexta
+104608;Natália Nunes;Pista;Sábado
+104609;Larissa Araújo;Pista;Domingo
+104610;Bruno Melo;Pista;Sábado
+104611;Enzo Fernandes;Camarote;Sexta
+104612;Nicolas Fernandes;Arquibancada;Sábado
+104613;Nicolas Pereira;Pista;Domingo
+104614;Eduarda Rocha;Pista;Domingo
+104615;Leonardo Ribeiro;Pista;Sábado
+104616;Larissa Araújo;Camarote;Sexta
+104617;Bruno Araújo;Arquibancada;Domingo
+104618;Caio Campos;Pista Premium;Sábado
+104619;Gabriela Nunes;Pista;Sexta
+104620;Gustavo Nunes;Pista;Sábado
+104621;Gabriela Nascimento;Arquibancada;Domingo
+104622;Gabriela Almeida;Camarote;Domingo
+104623;Henrique Costa;Pista;Sábado
+104624;Pedro Araújo;Pista Premium;Sexta
+104625;Leonardo Barbosa;Pista;Sexta
+104626;Felipe Nunes;Pista;Sábado
+104627;Júlia Teixeira;Pista Premium;Sábado
+104628;Enzo Moreira;Arquibancada;Domingo
+104629;Fernanda Vieira;Pista;Sexta
+104630;Samuel Santos;Pista;Sábado
+104631;Rafael Pereira;Pista;Domingo
+104632;Valentina Melo;Arquibancada;Domingo
+104633;Mariana Teixeira;Camarote;Sexta
+104634;Daniela Rocha;Pista Premium;Sexta
+104635;Caio Melo;Pista;Domingo
+104636;Vitor Santos;Arquibancada;Sábado
+104637;Gustavo Santos;Pista;Domingo
+104638;Caio Araújo;Arquibancada;Domingo
+104639;Pedro Vieira;Camarote;Sábado
+104640;Enzo Rocha;Pista Premium;Domingo
+104641;Leonardo Melo;Pista;Sexta
+104642;Diego Silva;Pista;Sábado
+104643;Rafael Silva;Camarote;Sábado
+104644;Beatriz Lima;Camarote;Sábado
+104645;Gabriela Moreira;Arquibancada;Sexta
+104646;Carla Nunes;Arquibancada;Sexta
+104647;Paula Pereira;Pista;Domingo
+104648;Fernanda Pinto;Pista;Domingo
+104649;Ana Santos;Pista;Sábado
+104650;Fernanda Souza;Pista;Domingo
+104651;Bruno Mendes;Pista;Domingo
+104652;Ana Almeida;Arquibancada;Domingo
+104653;Sofia Freitas;Camarote;Sábado
+104654;Natália Dias;Arquibancada;Sexta
+104655;Ulisses Nunes;Pista;Sexta
+104656;Gustavo Souza;Pista;Domingo
+104657;Pedro Melo;Pista;Sábado
+104658;Ulisses Silva;Pista Premium;Sábado
+104659;João Souza;Pista Premium;Sexta
+104660;Carla Mendes;Pista;Domingo
+104661;Helena Barbosa;Arquibancada;Sábado
+104662;Samuel Nascimento;Arquibancada;Domingo
+104663;Yasmin Ramos;Arquibancada;Domingo
+104664;Lucas Araújo;Pista;Domingo
+104665;João Pinto;Arquibancada;Sexta
+104666;Bruno Silva;Pista;Sábado
+104667;Tatiana Souza;Arquibancada;Sábado
+104668;Samuel Lima;Pista;Sábado
+104669;Otávio Oliveira;Pista;Sábado
+104670;Otávio Nascimento;Arquibancada;Domingo
+104671;Eduarda Silva;Camarote;Sábado
+104672;Beatriz Barbosa;Pista Premium;Domingo
+104673;Beatriz Gomes;Pista;Sexta
+104674;Daniela Martins;Pista;Domingo
+104675;Samuel Cardoso;Arquibancada;Domingo
+104676;João Melo;Pista Premium;Domingo
+104677;Nicolas Vieira;Camarote;Sábado
+104678;Renata Ribeiro;Pista;Sexta
+104679;Samuel Rezende;Pista Premium;Domingo
+104680;Beatriz Araújo;Pista Premium;Sábado
+104681;Caio Fernandes;Arquibancada;Sexta
+104682;Daniela Ribeiro;Pista Premium;Domingo
+104683;Nicolas Rocha;Pista;Domingo
+104684;Otávio Souza;Pista Premium;Sábado
+104685;Daniela Rocha;Pista;Sábado
+104686;Mariana Nunes;Pista;Sábado
+104687;Isabela Pereira;Pista;Sexta
+104688;Carla Lima;Pista;Sábado
+104689;Henrique Dias;Pista;Domingo
+104690;Gabriela Lopes;Pista;Sábado
+104691;Enzo Moreira;Pista;Domingo
+104692;Mariana Teixeira;Camarote;Sexta
+104693;Yasmin Freitas;Arquibancada;Sexta
+104694;Isabela Vieira;Pista;Sábado
+104695;Carla Lima;Pista;Sábado
+104696;Larissa Ribeiro;Camarote;Sábado
+104697;Natália Cardoso;Arquibancada;Sexta
+104698;Fernanda Freitas;Camarote;Sábado
+104699;Diego Mendes;Pista Premium;Sábado
+104700;Eduarda Cardoso;Pista;Domingo
+104701;Gabriela Pinto;Pista;Sexta
+104702;Isabela Rocha;Arquibancada;Sábado
+104703;João Moreira;Pista;Sábado
+104704;Rafael Teixeira;Arquibancada;Sexta
+104705;Samuel Gomes;Arquibancada;Domingo
+104706;Isabela Pereira;Pista;Sábado
+104707;Sofia Lima;Arquibancada;Domingo
+104708;Helena Araújo;Pista;Sexta
+104709;Paula Oliveira;Pista;Sábado
+104710;Tatiana Ramos;Pista Premium;Sábado
+104711;João Fernandes;Pista;Sábado
+104712;Ulisses Martins;Arquibancada;Domingo
+104713;Enzo Moreira;Pista;Sábado
+104714;Lucas Almeida;Arquibancada;Domingo
+104715;Natália Moreira;Pista;Sexta
+104716;Nicolas Cardoso;Pista Premium;Sábado
+104717;Valentina Gomes;Pista Premium;Domingo
+104718;Ulisses Pereira;Pista;Domingo
+104719;Nicolas Lopes;Arquibancada;Domingo
+104720;Caio Pereira;Camarote;Sexta
+104721;Enzo Rezende;Camarote;Sábado
+104722;Sofia Pereira;Pista;Domingo
+104723;Bruno Rezende;Pista;Domingo
+104724;Pedro Melo;Pista;Domingo
+104725;Otávio Ramos;Pista;Domingo
+104726;Isabela Nunes;Pista;Sexta
+104727;Igor Nascimento;Pista Premium;Sexta
+104728;Eduarda Almeida;Pista;Sexta
+104729;João Moreira;Pista;Domingo
+104730;Igor Souza;Pista;Domingo
+104731;Ana Vieira;Pista;Sexta
+104732;Nicolas Lopes;Pista;Sexta
+104733;Otávio Rocha;Pista Premium;Sábado
+104734;Helena Souza;Pista;Sexta
+104735;Sofia Araújo;Arquibancada;Sexta
+104736;Mariana Nascimento;Pista Premium;Sexta
+104737;Rafael Vieira;Pista;Sábado
+104738;Beatriz Silva;Pista;Sexta
+104739;Júlia Melo;Pista;Sexta
+104740;Henrique Oliveira;Pista;Domingo
+104741;Rafael Lima;Pista;Domingo
+104742;Rafael Martins;Pista;Sábado
+104743;Leonardo Dias;Pista Premium;Sábado
+104744;Paula Ribeiro;Pista Premium;Domingo
+104745;Eduarda Cardoso;Pista;Sábado
+104746;João Pereira;Pista;Domingo
+104747;Samuel Pinto;Pista;Sexta
+104748;Olívia Araújo;Pista;Sexta
+104749;Isabela Cardoso;Arquibancada;Domingo
+104750;Bruno Mendes;Pista Premium;Domingo
+104751;Helena Rezende;Camarote;Domingo
+104752;Renata Pereira;Pista;Sexta
+104753;Caio Freitas;Pista;Sexta
+104754;Otávio Martins;Arquibancada;Sexta
+104755;Gabriela Nascimento;Arquibancada;Sábado
+104756;Tatiana Campos;Arquibancada;Sábado
+104757;Samuel Dias;Pista;Sexta
+104758;Otávio Souza;Pista Premium;Sábado
+104759;Pedro Campos;Arquibancada;Domingo
+104760;Daniela Rezende;Pista;Sábado
+104761;Otávio Moreira;Pista Premium;Sexta
+104762;Marcos Souza;Pista;Sexta
+104763;Samuel Melo;Pista;Domingo
+104764;Sofia Nunes;Pista;Sexta
+104765;Enzo Nunes;Pista;Sábado
+104766;Felipe Almeida;Pista;Sábado
+104767;Henrique Dias;Pista;Domingo
+104768;Valentina Nascimento;Arquibancada;Sábado
+104769;Vitor Fernandes;Pista Premium;Domingo
+104770;João Souza;Pista Premium;Sábado
+104771;Diego Lima;Pista;Domingo
+104772;Gustavo Melo;Arquibancada;Sexta
+104773;Ana Oliveira;Pista Premium;Sábado
+104774;Bruno Gomes;Pista;Domingo
+104775;João Teixeira;Arquibancada;Sexta
+104776;Leonardo Martins;Arquibancada;Domingo
+104777;Ana Souza;Pista;Sábado
+104778;Júlia Vieira;Pista;Domingo
+104779;Helena Campos;Pista Premium;Domingo
+104780;Nicolas Rocha;Arquibancada;Sexta
+104781;Paula Ribeiro;Pista;Sábado
+104782;Rafael Nunes;Pista;Domingo
+104783;Rafael Teixeira;Pista;Domingo
+104784;Isabela Silva;Pista Premium;Sábado
+104785;Helena Oliveira;Camarote;Sábado
+104786;Isabela Campos;Camarote;Sexta
+104787;João Pereira;Pista;Sábado
+104788;Natália Fernandes;Camarote;Sexta
+104789;Gabriela Freitas;Pista;Sexta
+104790;Samuel Lopes;Pista;Sábado
+104791;Igor Oliveira;Pista Premium;Domingo
+104792;Fernanda Almeida;Arquibancada;Sábado
+104793;Ana Rocha;Pista;Sexta
+104794;Gustavo Teixeira;Pista;Sexta
+104795;Natália Santos;Pista;Domingo
+104796;Larissa Gomes;Pista;Sexta
+104797;Helena Mendes;Camarote;Sexta
+104798;Marcos Melo;Pista;Sábado
+104799;Bruno Fernandes;Pista;Domingo
+104800;Fernanda Teixeira;Pista;Sexta
+104801;Bruno Lopes;Arquibancada;Sábado
+104802;Enzo Teixeira;Camarote;Sábado
+104803;Otávio Rocha;Pista;Domingo
+104804;Henrique Rocha;Pista;Sábado
+104805;Larissa Ribeiro;Arquibancada;Sexta
+104806;Ulisses Almeida;Arquibancada;Sexta
+104807;Tatiana Nascimento;Arquibancada;Sexta
+104808;Bruno Pereira;Pista Premium;Domingo
+104809;Diego Rocha;Pista;Sexta
+104810;Diego Dias;Arquibancada;Sexta
+104811;Natália Pereira;Arquibancada;Sexta
+104812;Leonardo Rocha;Pista Premium;Sexta
+104813;Valentina Nunes;Arquibancada;Domingo
+104814;Ulisses Cardoso;Pista Premium;Sábado
+104815;Eduarda Souza;Arquibancada;Sexta
+104816;Tatiana Rezende;Pista Premium;Sexta
+104817;Felipe Pereira;Arquibancada;Domingo
+104818;Renata Lima;Pista;Domingo
+104819;Isabela Gomes;Arquibancada;Sábado
+104820;Otávio Martins;Camarote;Domingo
+104821;Yasmin Souza;Pista;Sexta
+104822;Isabela Martins;Pista Premium;Sexta
+104823;Carla Oliveira;Pista;Domingo
+104824;Caio Nunes;Arquibancada;Sábado
+104825;Nicolas Vieira;Arquibancada;Sexta
+104826;Valentina Gomes;Camarote;Sábado
+104827;Tatiana Barbosa;Arquibancada;Sábado
+104828;Henrique Vieira;Pista;Domingo
+104829;Isabela Barbosa;Pista;Sábado
+104830;Paula Nascimento;Pista;Sexta
+104831;Fernanda Silva;Pista;Domingo
+104832;Felipe Barbosa;Pista;Domingo
+104833;Júlia Araújo;Pista;Sexta
+104834;Daniela Vieira;Pista;Sexta
+104835;Renata Pereira;Pista;Sexta
+104836;Mariana Teixeira;Arquibancada;Sábado
+104837;Valentina Gomes;Camarote;Domingo
+104838;Diego Rezende;Arquibancada;Sexta
+104839;Otávio Santos;Pista Premium;Sexta
+104840;Gabriela Silva;Arquibancada;Domingo
+104841;Helena Lopes;Pista;Sexta
+104842;Henrique Ribeiro;Pista;Sexta
+104843;Igor Lima;Arquibancada;Domingo
+104844;Júlia Pereira;Pista Premium;Domingo
+104845;Gabriela Pinto;Pista;Sexta
+104846;Mariana Vieira;Arquibancada;Sábado
+104847;Yasmin Teixeira;Arquibancada;Sábado
+104848;Helena Nunes;Pista;Sexta
+104849;Pedro Pereira;Pista;Domingo
+104850;Isabela Dias;Arquibancada;Sexta
+104851;Isabela Dias;Pista;Sexta
+104852;Leonardo Araújo;Pista;Sexta
+104853;Natália Vieira;Arquibancada;Sexta
+104854;Sofia Cardoso;Pista Premium;Sexta
+104855;Thiago Campos;Pista;Sexta
+104856;Larissa Mendes;Pista;Domingo
+104857;Carla Rocha;Pista;Domingo
+104858;Bruno Campos;Pista;Sábado
+104859;Gabriela Lima;Pista;Sábado
+104860;Lucas Teixeira;Pista;Sábado
+104861;Bruno Oliveira;Arquibancada;Sexta
+104862;Mariana Ramos;Pista;Sexta
+104863;Gustavo Fernandes;Pista;Sexta
+104864;Ulisses Rezende;Arquibancada;Domingo
+104865;Bruno Pinto;Camarote;Sábado
+104866;Valentina Cardoso;Arquibancada;Domingo
+104867;Beatriz Costa;Arquibancada;Sexta
+104868;Otávio Lopes;Pista Premium;Sábado
+104869;Beatriz Dias;Pista;Domingo
+104870;Gabriela Souza;Pista;Domingo
+104871;Helena Araújo;Arquibancada;Sábado
+104872;Diego Pinto;Pista;Sexta
+104873;Natália Ribeiro;Arquibancada;Domingo
+104874;Larissa Souza;Camarote;Domingo
+104875;Paula Fernandes;Arquibancada;Sexta
+104876;Igor Vieira;Pista Premium;Sábado
+104877;Daniela Barbosa;Pista Premium;Sábado
+104878;Sofia Pinto;Pista Premium;Domingo
+104879;Pedro Nascimento;Arquibancada;Sexta
+104880;Eduarda Ramos;Pista;Domingo
+104881;Carla Almeida;Pista Premium;Domingo
+104882;Bruno Souza;Arquibancada;Domingo
+104883;Marcos Pinto;Pista Premium;Sábado
+104884;Olívia Rezende;Pista;Sábado
+104885;Rafael Moreira;Pista;Domingo
+104886;Felipe Silva;Pista;Sábado
+104887;Igor Souza;Pista Premium;Domingo
+104888;Helena Campos;Camarote;Domingo
+104889;Thiago Nunes;Arquibancada;Sábado
+104890;Vitor Rocha;Pista;Sábado
+104891;Leonardo Costa;Pista Premium;Domingo
+104892;Natália Costa;Pista;Domingo
+104893;Valentina Gomes;Pista;Sexta
+104894;Gustavo Oliveira;Arquibancada;Sábado
+104895;Enzo Nascimento;Arquibancada;Sexta
+104896;Olívia Teixeira;Pista Premium;Sábado
+104897;Vitor Oliveira;Pista Premium;Sexta
+104898;Gabriela Lima;Pista Premium;Sexta
+104899;Mariana Melo;Arquibancada;Sábado
+104900;Gustavo Costa;Pista;Sexta
+104901;Felipe Santos;Pista;Sexta
+104902;Marcos Barbosa;Pista Premium;Domingo
+104903;Isabela Gomes;Pista Premium;Sexta
+104904;Lucas Vieira;Pista;Sexta
+104905;Pedro Moreira;Pista;Domingo
+104906;Mariana Martins;Camarote;Sexta
+104907;Larissa Almeida;Pista;Domingo
+104908;Júlia Silva;Arquibancada;Sexta
+104909;Isabela Souza;Pista Premium;Sábado
+104910;João Martins;Pista;Sábado
+104911;João Martins;Arquibancada;Domingo
+104912;Helena Souza;Pista Premium;Domingo
+104913;Enzo Martins;Arquibancada;Sexta
+104914;Igor Silva;Camarote;Sábado
+104915;Paula Ribeiro;Pista;Domingo
+104916;Vitor Rocha;Pista Premium;Sexta
+104917;Gabriela Melo;Pista;Domingo
+104918;João Araújo;Pista;Sábado
+104919;Igor Souza;Pista;Sexta
+104920;Enzo Dias;Pista;Domingo
+104921;Caio Ribeiro;Camarote;Sexta
+104922;Bruno Nascimento;Pista;Sábado
+104923;Thiago Freitas;Pista;Sábado
+104924;Marcos Cardoso;Camarote;Domingo
+104925;Caio Ribeiro;Arquibancada;Sexta
+104926;Mariana Rocha;Arquibancada;Sábado
+104927;Júlia Cardoso;Pista;Domingo
+104928;Diego Lopes;Pista;Sábado
+104929;Henrique Pereira;Camarote;Sábado
+104930;Isabela Vieira;Pista;Sexta
+104931;Samuel Pereira;Pista Premium;Sábado
+104932;Lucas Rocha;Pista Premium;Sábado
+104933;Isabela Campos;Pista;Sábado
+104934;Larissa Pinto;Pista;Sábado
+104935;Sofia Souza;Pista;Sexta
+104936;Igor Souza;Pista;Domingo
+104937;Lucas Fernandes;Camarote;Domingo
+104938;Carla Lopes;Pista Premium;Sexta
+104939;Felipe Araújo;Pista;Sábado
+104940;Olívia Rocha;Pista Premium;Sexta
+104941;Olívia Melo;Camarote;Sábado
+104942;Júlia Pereira;Pista Premium;Sexta
+104943;Helena Fernandes;Camarote;Sexta
+104944;Natália Pereira;Pista Premium;Sexta
+104945;Valentina Freitas;Arquibancada;Domingo
+104946;Beatriz Freitas;Pista Premium;Domingo
+104947;Henrique Oliveira;Camarote;Sexta
+104948;Eduarda Dias;Pista;Domingo
+104949;Eduarda Nascimento;Arquibancada;Domingo
+104950;Pedro Gomes;Camarote;Sexta
+104951;Felipe Melo;Arquibancada;Sábado
+104952;Larissa Moreira;Arquibancada;Domingo
+104953;Gabriela Ramos;Arquibancada;Domingo
+104954;Henrique Ramos;Pista;Domingo
+104955;Beatriz Ramos;Pista;Sexta
+104956;Vitor Dias;Pista Premium;Domingo
+104957;Marcos Lima;Arquibancada;Sexta
+104958;Yasmin Pinto;Pista;Domingo
+104959;Larissa Moreira;Pista;Domingo
+104960;Eduarda Gomes;Pista Premium;Domingo
+104961;Rafael Lima;Arquibancada;Sábado
+104962;Yasmin Ribeiro;Pista Premium;Domingo
+104963;Gabriela Oliveira;Arquibancada;Sexta
+104964;Valentina Vieira;Camarote;Domingo
+104965;Olívia Melo;Camarote;Sexta
+104966;Daniela Souza;Pista Premium;Sexta
+104967;Larissa Nunes;Pista;Domingo
+104968;Natália Pinto;Pista;Domingo
+104969;Fernanda Melo;Pista;Sábado
+104970;Eduarda Martins;Arquibancada;Sábado
+104971;Carla Silva;Pista;Domingo
+104972;Renata Vieira;Arquibancada;Sábado
+104973;Felipe Mendes;Pista;Sábado
+104974;Mariana Ribeiro;Pista Premium;Sábado
+104975;Bruno Moreira;Pista;Sexta
+104976;Daniela Silva;Pista;Sexta
+104977;Pedro Barbosa;Pista;Sábado
+104978;Paula Dias;Arquibancada;Sexta
+104979;Nicolas Rocha;Pista;Sábado
+104980;Olívia Teixeira;Arquibancada;Sábado
+104981;Ana Melo;Pista Premium;Sexta
+104982;Tatiana Dias;Camarote;Sexta
+104983;Júlia Barbosa;Pista;Sexta
+104984;Enzo Souza;Pista;Sexta
+104985;Diego Ramos;Arquibancada;Domingo
+104986;Isabela Ribeiro;Arquibancada;Domingo
+104987;Olívia Cardoso;Pista;Sexta
+104988;Igor Campos;Pista Premium;Sexta
+104989;Renata Dias;Pista Premium;Sexta
+104990;Pedro Souza;Pista;Sábado
+104991;Helena Mendes;Camarote;Sábado
+104992;Júlia Martins;Pista;Sábado
+104993;Helena Santos;Pista;Sábado
+104994;Marcos Lopes;Pista;Domingo
+104995;Pedro Freitas;Pista;Sexta
+104996;Pedro Araújo;Pista Premium;Sexta
+104997;Otávio Oliveira;Arquibancada;Sexta
+104998;Sofia Oliveira;Pista;Sexta
+104999;Paula Lima;Pista Premium;Domingo
+105000;Beatriz Souza;Pista;Domingo

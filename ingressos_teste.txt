@@ -1,0 +1,12 @@
+1080;Renata Fernandes;Arquibancada;Sexta
+1020;Ana Oliveira;Arquibancada;Sábado
+1120;Olívia Rezende;Pista;Domingo
+1010;Ana Rocha;Pista Premium;Domingo
+1100;Caio Campos;Pista;Domingo
+1090;Bruno Fernandes;Arquibancada;Sexta
+1030;Fernanda Freitas;Pista;Sexta
+1050;Diego Fernandes;Pista;Domingo
+1070;João Lima;Pista;Sábado
+1040;Igor Campos;Pista Premium;Sábado
+1060;Leonardo Vieira;Pista;Domingo
+1110;Fernanda Fernandes;Pista Premium;Domingo

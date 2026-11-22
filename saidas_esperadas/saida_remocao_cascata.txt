@@ -1,0 +1,30 @@
+========== FESTIVAL RAÍZES · CHECK-IN ==========
+1) Carregar arquivo      2) Check-in
+3) Venda na portaria     4) Cancelamento
+5) Consulta por faixa    6) Painel
+7) Sair
+Opção: 1
+Arquivo: remocao_cascata.txt
+  Carga concluída: 12 ingressos carregados, 0 linhas ignoradas.
+
+Opção: 6
+  Ingressos cadastrados: 12
+  Altura ABB: 5 | Altura AVL: 5
+  Raiz da AVL: 1800 (fb = 1)
+  Rotações: RSE = 0 | RSD = 0 | RDE = 0 | RDD = 0
+  Check-ins: 0 realizados | 12 restantes
+
+Opção: 4
+Código: 600
+  Ingresso 600 (Bruno Esteves) cancelado.
+  Rotações na AVL: RSE no 900, RSE no 1800
+
+Opção: 6
+  Ingressos cadastrados: 11
+  Altura ABB: 5 | Altura AVL: 4
+  Raiz da AVL: 2300 (fb = 0)
+  Rotações: RSE = 2 | RSD = 0 | RDE = 0 | RDD = 0
+  Check-ins: 0 realizados | 11 restantes
+
+Opção: 7
+  Até o próximo festival!

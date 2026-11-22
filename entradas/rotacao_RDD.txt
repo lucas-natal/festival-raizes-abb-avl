@@ -1,0 +1,3 @@
+5030;Elisa Queiroz;Pista;Sexta
+5010;Beatriz Pacheco;Camarote;Sábado
+5020;Lívia Santana;Pista;Domingo

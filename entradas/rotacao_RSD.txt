@@ -1,0 +1,3 @@
+5030;Diego Oliveira;Arquibancada;Domingo
+5020;Rafael Nogueira;Arquibancada;Sábado
+5010;Otávio Teixeira;Arquibancada;Domingo

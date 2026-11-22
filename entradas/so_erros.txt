@@ -1,0 +1,4 @@
+codigo;nome;setor;dia_extra;x
+abc;Teste;Pista;Sexta
+
+9001;Sem Dia;Pista

@@ -1,0 +1,11 @@
+# Compilados
+*.class
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Relatório
+*.pdf

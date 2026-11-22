@@ -1,0 +1,21 @@
+========== FESTIVAL RAÍZES · CHECK-IN ==========
+1) Carregar arquivo      2) Check-in
+3) Venda na portaria     4) Cancelamento
+5) Consulta por faixa    6) Painel
+7) Sair
+Opção: 2
+  Nenhum ingresso cadastrado. Carregue um arquivo primeiro (opção 1).
+
+Opção: 1
+Arquivo: so_erros.txt
+  Aviso: linha 1 ignorada (5 campos; esperado 4)
+  Aviso: linha 2 ignorada (código não numérico: "abc")
+  Aviso: linha 3 ignorada (linha vazia)
+  Aviso: linha 4 ignorada (3 campos; esperado 4)
+  Carga concluída: 0 ingressos carregados, 4 linhas ignoradas.
+
+Opção: 6
+  Nenhum ingresso cadastrado. Carregue um arquivo primeiro (opção 1).
+
+Opção: 7
+  Até o próximo festival!

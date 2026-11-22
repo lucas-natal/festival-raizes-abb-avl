@@ -1,0 +1,1000 @@
+200640;Tiago Moraes;Pista;Domingo
+200535;Natália Pacheco;Pista;Sexta
+200455;Bruno Almeida;Pista Premium;Sábado
+200628;Tiago Cardoso;Arquibancada;Domingo
+200219;Yuri Farias;Pista;Sexta
+200699;Felipe Santana;Pista;Domingo
+200619;Larissa Nogueira;Pista;Domingo
+200358;Beatriz Farias;Arquibancada;Sexta
+200198;Ana Moraes;Pista;Domingo
+200682;Sofia Haddad;Arquibancada;Domingo
+200580;Elisa Lacerda;Pista;Sábado
+200761;Tiago Duarte;Pista;Sexta
+200231;Natália Cardoso;Arquibancada;Domingo
+200563;Larissa Ribeiro;Pista Premium;Sexta
+200858;Murilo Teixeira;Pista;Domingo
+200473;Isabela Haddad;Pista;Sábado
+200100;Henrique Jardim;Arquibancada;Domingo
+200009;Vitória Teixeira;Pista;Sábado
+200329;Murilo Santana;Pista;Sexta
+200115;Larissa Farias;Arquibancada;Domingo
+200705;Diego Haddad;Camarote;Sábado
+200602;Felipe Vasconcelos;Arquibancada;Domingo
+200002;Rafael Duarte;Pista;Sexta
+200988;Ana Vasconcelos;Arquibancada;Sábado
+200855;Elisa Oliveira;Pista;Sexta
+200746;Paula Vasconcelos;Pista;Sexta
+200374;Natália Almeida;Arquibancada;Domingo
+200719;Diego Duarte;Pista;Sábado
+200208;Paula Cardoso;Pista Premium;Sábado
+200033;Paula Pacheco;Pista;Sábado
+200395;Otávio Queiroz;Pista;Sábado
+200073;Felipe Duarte;Arquibancada;Domingo
+200868;Ana Gomes;Pista;Domingo
+200376;João Nogueira;Pista;Domingo
+200343;Caio Lacerda;Pista;Sexta
+200029;Henrique Nogueira;Pista;Domingo
+200490;Larissa Santana;Pista Premium;Sexta
+200098;João Santana;Arquibancada;Sábado
+200014;Lívia Ibrahim;Pista Premium;Sábado
+200245;Henrique Farias;Arquibancada;Sábado
+200449;Bruno Vasconcelos;Pista;Sábado
+200655;Felipe Oliveira;Camarote;Domingo
+200574;Elisa Pacheco;Pista Premium;Domingo
+200375;Rafael Barbosa;Arquibancada;Sábado
+200544;Murilo Barbosa;Arquibancada;Domingo
+200512;João Oliveira;Pista;Domingo
+200978;Beatriz Santana;Arquibancada;Sábado
+200747;Caio Vasconcelos;Arquibancada;Sábado
+200660;Ana Oliveira;Arquibancada;Sábado
+200818;Natália Vasconcelos;Pista Premium;Sexta
+200844;Tiago Teixeira;Pista Premium;Sábado
+200997;Murilo Almeida;Pista;Sexta
+200572;Gabriela Farias;Arquibancada;Domingo
+200410;Natália Queiroz;Pista;Sábado
+200537;Sofia Gomes;Pista Premium;Sexta
+200873;Diego Pacheco;Arquibancada;Sábado
+200763;Beatriz Ribeiro;Camarote;Sexta
+200453;Otávio Haddad;Pista Premium;Sábado
+200611;Ana Duarte;Pista;Sábado
+200150;Caio Esteves;Arquibancada;Domingo
+200953;Otávio Duarte;Camarote;Sexta
+200145;Gabriela Santana;Arquibancada;Sábado
+200171;Diego Cardoso;Pista Premium;Sexta
+200557;Paula Duarte;Arquibancada;Sábado
+200083;Elisa Cardoso;Pista;Domingo
+200266;Paula Oliveira;Pista;Sábado
+200199;Paula Queiroz;Pista Premium;Domingo
+200022;Diego Barbosa;Pista Premium;Sexta
+200259;Isabela Santana;Arquibancada;Sexta
+200604;Marcos Farias;Pista;Sexta
+200256;Yuri Vasconcelos;Pista;Sábado
+200380;Lívia Haddad;Pista Premium;Sexta
+200633;Vitória Vasconcelos;Pista;Sábado
+200784;Otávio Vasconcelos;Arquibancada;Sábado
+200644;Henrique Vasconcelos;Arquibancada;Sexta
+200103;Sofia Oliveira;Pista;Sexta
+200308;Tiago Vasconcelos;Pista;Domingo
+200526;Paula Jardim;Pista Premium;Domingo
+200107;Isabela Gomes;Arquibancada;Sábado
+200991;Felipe Moraes;Arquibancada;Sábado
+200005;Isabela Jardim;Pista;Domingo
+200967;Gabriela Vasconcelos;Arquibancada;Sábado
+200186;Lívia Lacerda;Camarote;Sexta
+200845;Natália Oliveira;Arquibancada;Sábado
+200515;Yuri Nogueira;Camarote;Sexta
+200542;Marcos Oliveira;Camarote;Sábado
+200960;Vitória Lacerda;Arquibancada;Sábado
+200460;Marcos Almeida;Pista Premium;Sábado
+200465;Murilo Moraes;Pista;Sábado
+200462;Otávio Pacheco;Pista;Domingo
+200148;Ana Jardim;Arquibancada;Domingo
+200554;Bruno Duarte;Pista Premium;Sábado
+200914;Isabela Nogueira;Pista;Domingo
+200260;Isabela Almeida;Pista;Sexta
+200713;Bruno Cardoso;Pista;Sexta
+200077;Bruno Moraes;Arquibancada;Domingo
+200105;Tiago Ribeiro;Camarote;Domingo
+200063;Bruno Jardim;Pista;Sexta
+200706;Vitória Nogueira;Pista;Sexta
+200501;Paula Santana;Pista;Sábado
+200588;Otávio Moraes;Arquibancada;Domingo
+200128;Paula Gomes;Pista;Sábado
+200383;João Esteves;Pista;Domingo
+200233;Tiago Farias;Arquibancada;Sábado
+200876;Lívia Barbosa;Pista;Sábado
+200733;Vitória Oliveira;Arquibancada;Sábado
+200647;Beatriz Esteves;Pista;Sábado
+200317;Diego Esteves;Pista Premium;Sexta
+200257;Sofia Vasconcelos;Pista;Sexta
+200791;Lívia Jardim;Pista;Sexta
+200495;Gabriela Pacheco;Pista Premium;Sexta
+200143;Carla Almeida;Pista Premium;Domingo
+200765;Caio Cardoso;Pista;Domingo
+200796;Henrique Gomes;Pista Premium;Sábado
+200970;Carla Jardim;Arquibancada;Domingo
+200430;Diego Santana;Pista;Domingo
+200638;Henrique Pacheco;Arquibancada;Sábado
+200180;Elisa Farias;Pista;Sexta
+200764;Tiago Ibrahim;Camarote;Sexta
+200438;Natália Ibrahim;Arquibancada;Domingo
+200292;Rafael Moraes;Pista;Sexta
+200841;Rafael Cardoso;Camarote;Domingo
+200147;Elisa Vasconcelos;Pista;Domingo
+200870;Bruno Santana;Pista Premium;Sexta
+200834;Murilo Ibrahim;Arquibancada;Domingo
+200964;Elisa Ibrahim;Arquibancada;Sábado
+200804;Lívia Duarte;Pista;Sábado
+200801;Diego Ibrahim;Camarote;Sábado
+200230;Carla Queiroz;Pista Premium;Sábado
+200207;Gabriela Gomes;Arquibancada;Sexta
+200101;Ana Lacerda;Pista;Sexta
+200920;Beatriz Lacerda;Pista;Sábado
+200541;Rafael Ribeiro;Pista Premium;Domingo
+200890;Murilo Vasconcelos;Pista;Sexta
+200082;Marcos Teixeira;Arquibancada;Domingo
+200524;Rafael Oliveira;Pista;Domingo
+200401;Marcos Gomes;Arquibancada;Sábado
+200508;Beatriz Almeida;Pista Premium;Sábado
+200864;Caio Barbosa;Camarote;Domingo
+200762;Bruno Queiroz;Pista;Domingo
+200505;Diego Moraes;Pista;Sábado
+200709;Beatriz Gomes;Pista;Sexta
+200252;Paula Almeida;Pista;Sexta
+200286;Murilo Ribeiro;Arquibancada;Sábado
+200011;Felipe Nogueira;Camarote;Sexta
+200157;João Farias;Pista;Sábado
+200417;Otávio Gomes;Pista;Sábado
+200928;Natália Moraes;Pista;Domingo
+200654;Vitória Queiroz;Pista;Sábado
+200026;Murilo Lacerda;Arquibancada;Sexta
+200795;Felipe Cardoso;Arquibancada;Sexta
+200489;Henrique Haddad;Pista;Domingo
+200140;Paula Barbosa;Pista;Domingo
+200669;João Cardoso;Camarote;Sexta
+200484;Larissa Cardoso;Pista Premium;Domingo
+200372;Sofia Esteves;Pista;Sábado
+200296;Henrique Ibrahim;Arquibancada;Domingo
+200750;Caio Jardim;Pista;Domingo
+200084;Sofia Cardoso;Arquibancada;Sexta
+200440;Isabela Ibrahim;Pista Premium;Sexta
+200013;Carla Vasconcelos;Pista Premium;Sábado
+200675;Tiago Almeida;Arquibancada;Sexta
+200843;Carla Barbosa;Pista;Domingo
+200583;Bruno Lacerda;Camarote;Sexta
+200117;Ana Almeida;Arquibancada;Sexta
+200424;Ana Teixeira;Pista;Sábado
+200057;Bruno Gomes;Arquibancada;Sexta
+200364;Rafael Gomes;Pista;Sexta
+200037;Marcos Pacheco;Pista;Sexta
+200274;Sofia Ribeiro;Arquibancada;Sábado
+200036;Lívia Ribeiro;Pista;Sábado
+200912;Lívia Nogueira;Pista;Sexta
+200200;Henrique Moraes;Pista;Sexta
+200909;Ana Farias;Pista;Sexta
+200451;Bruno Barbosa;Pista;Sexta
+200134;Natália Gomes;Arquibancada;Sexta
+200736;Vitória Haddad;Pista;Sexta
+200632;Rafael Vasconcelos;Pista;Domingo
+200592;Lívia Vasconcelos;Pista;Sexta
+200094;Yuri Ribeiro;Pista;Domingo
+200724;Caio Duarte;Arquibancada;Sábado
+200744;Rafael Almeida;Camarote;Sábado
+200767;Rafael Lacerda;Pista Premium;Sábado
+200772;Tiago Lacerda;Pista;Sábado
+200038;Natália Haddad;Pista Premium;Sexta
+200347;Otávio Ribeiro;Pista;Sábado
+200243;Vitória Pacheco;Pista;Sábado
+200856;Caio Farias;Pista Premium;Sábado
+200240;Henrique Oliveira;Pista Premium;Sexta
+200674;Sofia Farias;Arquibancada;Sexta
+200866;Felipe Almeida;Arquibancada;Domingo
+200927;Lívia Esteves;Pista;Sexta
+200045;Elisa Nogueira;Pista;Domingo
+200723;Lívia Almeida;Camarote;Domingo
+200621;Beatriz Moraes;Pista;Sábado
+200618;Vitória Santana;Arquibancada;Sexta
+200160;João Duarte;Pista Premium;Sexta
+200458;Murilo Esteves;Pista Premium;Sexta
+200279;Natália Teixeira;Pista Premium;Domingo
+200836;Beatriz Queiroz;Arquibancada;Sexta
+200731;Paula Nogueira;Pista;Domingo
+200429;Diego Teixeira;Pista Premium;Domingo
+200565;Diego Farias;Pista;Sexta
+200051;Sofia Moraes;Pista Premium;Sexta
+200590;Elisa Gomes;Arquibancada;Sábado
+200968;Lívia Teixeira;Pista Premium;Domingo
+200831;Larissa Gomes;Pista;Sexta
+200884;Larissa Lacerda;Pista;Sexta
+200344;Gabriela Moraes;Pista;Sexta
+200406;Carla Duarte;Pista;Sábado
+200397;Carla Oliveira;Pista Premium;Domingo
+200408;Marcos Barbosa;Arquibancada;Domingo
+200599;Beatriz Oliveira;Arquibancada;Sexta
+200616;Diego Nogueira;Pista;Sexta
+200054;Gabriela Almeida;Pista;Sexta
+200250;Carla Ibrahim;Arquibancada;Sexta
+200650;Yuri Ibrahim;Pista;Domingo
+200118;Ana Ribeiro;Pista;Sexta
+200499;Sofia Nogueira;Camarote;Sexta
+200743;Elisa Duarte;Pista;Sexta
+200236;Felipe Gomes;Arquibancada;Domingo
+200620;Gabriela Queiroz;Arquibancada;Sábado
+200677;Marcos Jardim;Pista;Sábado
+200851;Natália Ribeiro;Pista Premium;Sábado
+200904;Isabela Esteves;Arquibancada;Sábado
+200127;Isabela Cardoso;Camarote;Domingo
+200454;João Ibrahim;Camarote;Sábado
+200652;Natália Nogueira;Pista;Sábado
+200626;Murilo Pacheco;Pista;Sexta
+200389;Yuri Haddad;Pista Premium;Domingo
+200216;Larissa Almeida;Pista;Domingo
+200689;Otávio Ibrahim;Pista;Sexta
+200052;Gabriela Ribeiro;Arquibancada;Domingo
+200111;Natália Santana;Arquibancada;Sábado
+200726;Diego Almeida;Arquibancada;Domingo
+200509;João Barbosa;Pista;Sábado
+200673;Larissa Oliveira;Arquibancada;Sexta
+200926;Marcos Cardoso;Pista Premium;Domingo
+200888;Felipe Barbosa;Camarote;Sexta
+200416;Felipe Farias;Pista;Domingo
+200513;Caio Almeida;Pista;Sexta
+200042;Yuri Esteves;Arquibancada;Domingo
+200008;Felipe Queiroz;Arquibancada;Sexta
+200579;Bruno Nogueira;Pista;Sábado
+200534;Carla Pacheco;Arquibancada;Sábado
+200278;Otávio Nogueira;Pista;Sexta
+200938;Lívia Queiroz;Arquibancada;Sábado
+200676;Carla Moraes;Pista;Sábado
+200853;João Pacheco;Camarote;Domingo
+200450;Caio Nogueira;Arquibancada;Sexta
+200217;Vitória Barbosa;Pista;Sexta
+200477;Vitória Farias;Pista;Sábado
+200091;Carla Haddad;Arquibancada;Sexta
+200725;Vitória Ibrahim;Arquibancada;Sexta
+200883;Beatriz Vasconcelos;Pista Premium;Sexta
+200004;Larissa Queiroz;Arquibancada;Domingo
+200901;Diego Queiroz;Pista Premium;Sexta
+200715;Bruno Oliveira;Pista;Sábado
+200918;Ana Cardoso;Pista;Sábado
+200840;Marcos Vasconcelos;Pista;Sábado
+200457;Bruno Teixeira;Pista Premium;Sábado
+200209;Ana Pacheco;Camarote;Sábado
+200350;Larissa Duarte;Pista;Domingo
+200048;Diego Gomes;Pista;Sexta
+200861;Bruno Ibrahim;Camarote;Sexta
+200304;Tiago Gomes;Arquibancada;Domingo
+200114;Murilo Cardoso;Arquibancada;Sábado
+200748;Marcos Duarte;Pista Premium;Sábado
+200459;Marcos Haddad;Arquibancada;Domingo
+200301;Yuri Barbosa;Pista;Domingo
+200902;Yuri Lacerda;Pista;Sexta
+200290;Henrique Queiroz;Camarote;Sexta
+200798;Beatriz Teixeira;Arquibancada;Domingo
+200341;Larissa Jardim;Pista;Sábado
+200829;Isabela Ribeiro;Pista;Sábado
+200617;Marcos Moraes;Arquibancada;Sábado
+200941;Otávio Esteves;Pista Premium;Sexta
+200500;Carla Ribeiro;Pista Premium;Domingo
+200183;Vitória Jardim;Pista;Sábado
+200294;Beatriz Nogueira;Camarote;Domingo
+200442;Beatriz Jardim;Camarote;Sexta
+200893;Henrique Cardoso;Arquibancada;Domingo
+200782;Rafael Ibrahim;Arquibancada;Sábado
+200154;Carla Santana;Pista;Sábado
+200144;Gabriela Teixeira;Camarote;Sábado
+200018;Diego Ribeiro;Pista;Domingo
+200032;Paula Moraes;Pista Premium;Sábado
+200068;Rafael Esteves;Pista;Domingo
+200648;Felipe Esteves;Pista;Sexta
+200079;Sofia Ibrahim;Arquibancada;Sábado
+200900;Yuri Pacheco;Arquibancada;Sexta
+200078;Isabela Teixeira;Arquibancada;Domingo
+200404;Natália Duarte;Arquibancada;Domingo
+200277;Otávio Almeida;Pista Premium;Sábado
+200917;João Ribeiro;Pista;Domingo
+200889;Caio Oliveira;Arquibancada;Sexta
+200821;Tiago Santana;Arquibancada;Domingo
+200328;Carla Nogueira;Pista;Sábado
+200615;Rafael Pacheco;Pista;Domingo
+200070;Beatriz Ibrahim;Pista;Sexta
+200717;Elisa Almeida;Pista;Domingo
+200378;Gabriela Lacerda;Arquibancada;Sábado
+200531;Sofia Barbosa;Arquibancada;Sábado
+200850;Marcos Queiroz;Arquibancada;Sexta
+200769;Yuri Gomes;Arquibancada;Sexta
+200852;Isabela Lacerda;Pista;Domingo
+200338;Vitória Gomes;Arquibancada;Domingo
+200945;Sofia Pacheco;Pista;Sábado
+200415;Gabriela Esteves;Pista;Sexta
+200838;Felipe Ibrahim;Pista Premium;Sexta
+200480;Henrique Barbosa;Arquibancada;Sábado
+200379;Isabela Farias;Arquibancada;Sexta
+200549;João Gomes;Pista;Sábado
+200312;Larissa Teixeira;Pista;Domingo
+200055;João Jardim;Pista;Sábado
+200197;Tiago Nogueira;Pista Premium;Sexta
+200267;Carla Esteves;Pista Premium;Domingo
+200667;Murilo Jardim;Camarote;Sexta
+200132;Carla Cardoso;Camarote;Domingo
+200539;Tiago Haddad;Pista Premium;Domingo
+200481;Elisa Santana;Pista Premium;Sábado
+200040;Ana Barbosa;Arquibancada;Sexta
+200093;Larissa Moraes;Pista Premium;Sábado
+200185;Sofia Santana;Arquibancada;Sexta
+200797;Bruno Farias;Pista;Sábado
+200933;Isabela Vasconcelos;Pista;Domingo
+200925;Vitória Ribeiro;Pista;Sexta
+200605;Henrique Ribeiro;Pista;Sexta
+200306;Vitória Almeida;Pista Premium;Sexta
+200385;Marcos Lacerda;Pista;Sábado
+200370;João Queiroz;Pista;Sábado
+200886;Caio Moraes;Pista;Domingo
+200316;Murilo Gomes;Pista Premium;Sexta
+200877;Ana Haddad;Arquibancada;Sábado
+200944;Murilo Duarte;Camarote;Domingo
+200273;Henrique Teixeira;Arquibancada;Domingo
+200261;Felipe Lacerda;Arquibancada;Sábado
+200522;Felipe Pacheco;Arquibancada;Sexta
+200034;Rafael Jardim;Pista;Sábado
+200211;Ana Ibrahim;Pista;Sexta
+200820;Rafael Farias;Pista Premium;Sexta
+200952;Natália Lacerda;Arquibancada;Sábado
+200112;Marcos Santana;Camarote;Domingo
+200156;Ana Nogueira;Pista;Sexta
+200446;Sofia Teixeira;Camarote;Sexta
+200373;Lívia Oliveira;Pista;Sexta
+200141;Larissa Ibrahim;Arquibancada;Sábado
+200189;Caio Haddad;Pista Premium;Domingo
+200102;Gabriela Duarte;Arquibancada;Domingo
+200823;Vitória Duarte;Pista Premium;Sexta
+200439;Beatriz Cardoso;Arquibancada;Sexta
+200683;Murilo Oliveira;Pista Premium;Sexta
+200247;Yuri Queiroz;Pista;Sábado
+200965;Gabriela Cardoso;Pista Premium;Sábado
+200966;João Vasconcelos;Pista Premium;Sexta
+200817;Elisa Jardim;Pista Premium;Domingo
+200875;João Almeida;Pista;Sábado
+200610;Tiago Oliveira;Pista Premium;Sexta
+200684;Murilo Haddad;Arquibancada;Sábado
+200907;Yuri Teixeira;Arquibancada;Domingo
+200251;Natália Farias;Camarote;Sexta
+200131;João Teixeira;Pista;Sexta
+200688;Caio Pacheco;Camarote;Sexta
+200402;Vitória Esteves;Arquibancada;Domingo
+200627;Elisa Esteves;Pista;Domingo
+200887;Henrique Lacerda;Pista;Domingo
+200790;Sofia Duarte;Pista;Sexta
+200573;Marcos Ibrahim;Arquibancada;Sábado
+200919;Otávio Farias;Arquibancada;Domingo
+200502;Beatriz Haddad;Pista;Domingo
+200242;Carla Gomes;Camarote;Domingo
+200119;Felipe Teixeira;Pista;Domingo
+200869;Ana Santana;Pista;Domingo
+200993;Larissa Pacheco;Arquibancada;Domingo
+200998;Gabriela Barbosa;Arquibancada;Sábado
+200023;Marcos Esteves;Pista;Domingo
+200215;Isabela Barbosa;Pista;Domingo
+200947;Paula Farias;Pista;Sábado
+200768;João Haddad;Camarote;Domingo
+200056;Rafael Santana;Pista;Domingo
+200069;Larissa Barbosa;Pista;Domingo
+200441;Bruno Haddad;Camarote;Sábado
+200800;Natália Esteves;Camarote;Domingo
+200656;Paula Lacerda;Pista;Sexta
+200754;Natália Barbosa;Pista Premium;Sábado
+200711;Caio Queiroz;Arquibancada;Domingo
+200214;Paula Teixeira;Pista;Sábado
+200503;Larissa Esteves;Arquibancada;Sábado
+200044;Lívia Cardoso;Pista;Sexta
+200975;Sofia Lacerda;Pista Premium;Domingo
+200923;João Moraes;Pista;Sábado
+200596;Otávio Lacerda;Pista;Domingo
+200899;Otávio Barbosa;Pista;Sexta
+200915;Henrique Duarte;Arquibancada;Domingo
+200106;Ana Esteves;Arquibancada;Sábado
+200238;Isabela Oliveira;Pista;Sexta
+200423;Elisa Haddad;Camarote;Domingo
+200468;Murilo Nogueira;Pista;Domingo
+200971;Otávio Jardim;Pista;Sábado
+200464;Felipe Jardim;Pista;Sexta
+200525;Carla Farias;Pista;Sexta
+200690;Yuri Almeida;Pista;Domingo
+200276;Caio Ibrahim;Arquibancada;Sábado
+200757;Yuri Oliveira;Arquibancada;Domingo
+200355;Paula Ibrahim;Arquibancada;Domingo
+200285;Yuri Cardoso;Arquibancada;Sábado
+200041;Larissa Vasconcelos;Arquibancada;Sábado
+200783;Carla Teixeira;Pista Premium;Sábado
+200680;Murilo Farias;Arquibancada;Sexta
+200319;Otávio Oliveira;Arquibancada;Sexta
+200916;Paula Haddad;Pista Premium;Domingo
+200766;Rafael Queiroz;Camarote;Sábado
+200516;Isabela Duarte;Pista Premium;Sábado
+200405;Larissa Haddad;Pista;Sexta
+200452;Felipe Ribeiro;Pista;Sexta
+200863;Tiago Barbosa;Arquibancada;Domingo
+200578;Felipe Haddad;Arquibancada;Sexta
+200566;Lívia Gomes;Pista;Sexta
+200929;Isabela Moraes;Pista;Domingo
+200722;Gabriela Haddad;Pista;Domingo
+200787;Elisa Moraes;Pista;Sexta
+200653;Tiago Pacheco;Camarote;Sábado
+200810;Caio Teixeira;Pista;Sexta
+200388;Rafael Haddad;Pista Premium;Sábado
+200020;Yuri Jardim;Pista;Sábado
+200007;Bruno Ribeiro;Arquibancada;Sábado
+200174;Tiago Esteves;Arquibancada;Sexta
+200248;Caio Santana;Arquibancada;Sexta
+200244;Paula Esteves;Arquibancada;Domingo
+200411;Murilo Pacheco;Pista;Sexta
+200594;Henrique Esteves;Arquibancada;Domingo
+200718;Bruno Pacheco;Arquibancada;Sexta
+200213;Vitória Moraes;Arquibancada;Sábado
+200942;Yuri Moraes;Pista;Domingo
+200330;Lívia Farias;Pista;Domingo
+200721;Lívia Pacheco;Pista;Sexta
+200172;Vitória Cardoso;Camarote;Sexta
+200067;Marcos Pacheco;Pista Premium;Domingo
+200568;Caio Barbosa;Pista;Sexta
+200360;Henrique Santana;Camarote;Sábado
+200287;Otávio Almeida;Pista;Sábado
+200493;Natália Duarte;Pista;Domingo
+200742;Caio Ribeiro;Arquibancada;Domingo
+200089;Rafael Duarte;Arquibancada;Sexta
+200371;Sofia Jardim;Pista;Domingo
+200472;Beatriz Barbosa;Pista;Sábado
+200571;Marcos Moraes;Arquibancada;Domingo
+200483;Caio Gomes;Arquibancada;Sexta
+200332;João Moraes;Arquibancada;Sábado
+200518;Otávio Vasconcelos;Pista Premium;Domingo
+200218;Yuri Duarte;Pista;Domingo
+200607;Felipe Almeida;Pista;Domingo
+200265;Sofia Lacerda;Pista;Sexta
+200487;Yuri Haddad;Pista;Sábado
+200392;Larissa Pacheco;Pista Premium;Sábado
+200694;Rafael Teixeira;Arquibancada;Sábado
+200849;Marcos Ribeiro;Arquibancada;Sexta
+200739;Ana Jardim;Pista;Sexta
+200434;Elisa Ibrahim;Pista;Domingo
+200881;Elisa Teixeira;Arquibancada;Sexta
+200987;Paula Esteves;Pista;Sábado
+200992;Vitória Moraes;Pista Premium;Domingo
+200348;Caio Cardoso;Camarote;Domingo
+200049;Lívia Cardoso;Pista;Domingo
+200658;Tiago Farias;Pista Premium;Sábado
+200210;Otávio Santana;Pista;Sábado
+200346;Bruno Haddad;Pista;Domingo
+200550;Felipe Cardoso;Pista Premium;Domingo
+200367;João Oliveira;Arquibancada;Sábado
+200282;Rafael Farias;Pista;Sexta
+200977;Vitória Ribeiro;Arquibancada;Sexta
+200205;Yuri Pacheco;Arquibancada;Domingo
+200637;Yuri Jardim;Pista;Sábado
+200325;Elisa Teixeira;Pista Premium;Sexta
+200235;Ana Esteves;Pista;Sexta
+200846;Bruno Teixeira;Arquibancada;Domingo
+200151;Gabriela Pacheco;Pista Premium;Sexta
+200959;Yuri Gomes;Pista;Domingo
+200064;Carla Lacerda;Camarote;Sábado
+200396;Murilo Jardim;Pista Premium;Sexta
+200807;Felipe Almeida;Pista;Sexta
+200074;Caio Pacheco;Camarote;Domingo
+200170;Isabela Lacerda;Pista;Domingo
+200564;Felipe Cardoso;Pista;Sábado
+200498;Bruno Duarte;Pista Premium;Domingo
+200973;Beatriz Santana;Camarote;Sexta
+200862;João Lacerda;Pista;Sábado
+200548;Elisa Ribeiro;Arquibancada;Sexta
+200957;Felipe Queiroz;Pista;Sexta
+200781;João Pacheco;Pista;Sexta
+200444;Henrique Cardoso;Pista;Sexta
+200431;Yuri Almeida;Arquibancada;Sexta
+200137;Yuri Barbosa;Pista;Sexta
+200948;Isabela Haddad;Arquibancada;Sábado
+200061;Felipe Teixeira;Arquibancada;Sábado
+200668;Tiago Haddad;Pista;Sábado
+200169;Vitória Lacerda;Pista Premium;Sexta
+200581;Vitória Pacheco;Pista;Sábado
+200741;Paula Duarte;Pista Premium;Sexta
+200614;Beatriz Oliveira;Pista;Sexta
+200824;Tiago Cardoso;Camarote;Sábado
+200337;João Ribeiro;Pista;Sábado
+200291;Gabriela Barbosa;Camarote;Domingo
+200381;Marcos Pacheco;Arquibancada;Sexta
+200227;Yuri Santana;Arquibancada;Sexta
+200080;Vitória Santana;Pista Premium;Sábado
+200943;Ana Duarte;Pista Premium;Sexta
+200196;Larissa Barbosa;Pista;Sexta
+200585;Larissa Jardim;Arquibancada;Domingo
+200412;Beatriz Esteves;Pista Premium;Domingo
+200691;Natália Cardoso;Pista;Sexta
+200420;Lívia Queiroz;Pista;Sexta
+200753;Otávio Esteves;Pista Premium;Domingo
+200871;Otávio Santana;Pista Premium;Sábado
+200226;João Santana;Arquibancada;Sexta
+200475;Isabela Lacerda;Pista;Sábado
+200934;Otávio Santana;Arquibancada;Domingo
+200181;Yuri Santana;Arquibancada;Domingo
+200786;Beatriz Lacerda;Pista Premium;Sábado
+200413;João Barbosa;Arquibancada;Sábado
+200506;Gabriela Haddad;Camarote;Sábado
+200331;Henrique Santana;Pista;Sábado
+200340;Isabela Cardoso;Pista;Domingo
+200779;Beatriz Moraes;Pista;Sábado
+200443;Gabriela Teixeira;Pista;Sábado
+200333;Elisa Cardoso;Pista Premium;Sábado
+200173;Isabela Haddad;Arquibancada;Sábado
+200232;Larissa Moraes;Pista;Domingo
+200897;Vitória Duarte;Pista Premium;Sábado
+200629;Larissa Ribeiro;Pista;Sábado
+200507;Carla Duarte;Pista;Sábado
+200090;Caio Gomes;Pista Premium;Domingo
+200071;Carla Gomes;Pista;Sábado
+200085;Henrique Cardoso;Arquibancada;Sexta
+200354;Henrique Nogueira;Pista;Domingo
+200751;Natália Ribeiro;Arquibancada;Sábado
+200635;Lívia Vasconcelos;Pista Premium;Domingo
+200253;Ana Gomes;Arquibancada;Domingo
+200842;Isabela Haddad;Pista;Sexta
+200986;João Almeida;Camarote;Sexta
+200511;Diego Farias;Pista Premium;Sexta
+200631;Henrique Santana;Pista;Domingo
+200357;Ana Farias;Arquibancada;Sexta
+200121;Sofia Teixeira;Pista Premium;Sexta
+200309;Sofia Barbosa;Arquibancada;Sexta
+200269;Otávio Duarte;Arquibancada;Sexta
+200391;Ana Gomes;Pista;Sábado
+200075;Rafael Moraes;Pista;Sexta
+200110;Vitória Gomes;Pista Premium;Sexta
+200624;Lívia Gomes;Pista;Domingo
+200335;Diego Haddad;Arquibancada;Sexta
+200780;Murilo Almeida;Arquibancada;Domingo
+200737;Otávio Jardim;Pista;Sexta
+200255;Bruno Vasconcelos;Pista;Domingo
+200990;Murilo Ribeiro;Pista Premium;Sábado
+200545;Diego Duarte;Pista;Domingo
+200989;Felipe Teixeira;Arquibancada;Domingo
+200697;Natália Ribeiro;Pista;Sexta
+200377;Beatriz Nogueira;Pista;Domingo
+200775;Murilo Barbosa;Pista;Sexta
+200809;Larissa Moraes;Pista Premium;Sábado
+200003;João Gomes;Pista;Sexta
+200528;Bruno Pacheco;Camarote;Sexta
+200120;Vitória Teixeira;Pista;Sábado
+200972;Isabela Queiroz;Pista Premium;Sexta
+200168;Larissa Oliveira;Pista;Domingo
+200149;Diego Farias;Camarote;Sábado
+200553;Felipe Gomes;Arquibancada;Domingo
+200666;Larissa Vasconcelos;Pista Premium;Sábado
+200661;Henrique Cardoso;Pista Premium;Sexta
+200031;Isabela Farias;Pista;Sexta
+200716;Carla Almeida;Camarote;Domingo
+200906;João Farias;Pista;Domingo
+200551;Ana Gomes;Pista;Sábado
+200692;Otávio Nogueira;Pista;Sábado
+200433;Elisa Ibrahim;Camarote;Sexta
+200492;Sofia Cardoso;Pista;Domingo
+200010;Rafael Esteves;Pista;Domingo
+200878;Gabriela Moraes;Pista Premium;Sábado
+200398;Carla Jardim;Pista;Sexta
+200138;Lívia Almeida;Pista;Sábado
+200976;Lívia Nogueira;Arquibancada;Sexta
+200293;Bruno Vasconcelos;Pista;Domingo
+200670;Larissa Nogueira;Pista;Domingo
+200303;Murilo Almeida;Pista;Domingo
+200300;Beatriz Pacheco;Pista;Domingo
+200708;Rafael Almeida;Pista;Sábado
+200195;Murilo Farias;Arquibancada;Domingo
+200043;Larissa Oliveira;Pista;Sábado
+200759;Marcos Teixeira;Pista Premium;Sábado
+200771;Tiago Farias;Pista;Sexta
+200892;Carla Nogueira;Camarote;Sábado
+200342;Rafael Jardim;Pista Premium;Domingo
+200730;Rafael Farias;Arquibancada;Domingo
+200146;Beatriz Duarte;Pista Premium;Domingo
+200088;Henrique Haddad;Arquibancada;Sábado
+200108;Caio Oliveira;Arquibancada;Sábado
+200645;João Cardoso;Pista;Sexta
+200162;Felipe Santana;Arquibancada;Sexta
+200529;João Esteves;Camarote;Sexta
+200812;Ana Duarte;Pista;Sexta
+200390;Felipe Barbosa;Pista;Sexta
+200403;Rafael Cardoso;Pista Premium;Domingo
+200984;Gabriela Oliveira;Arquibancada;Sexta
+200814;Carla Ibrahim;Pista;Domingo
+200315;Sofia Santana;Pista;Sexta
+200597;Murilo Lacerda;Pista;Domingo
+200223;Elisa Gomes;Pista Premium;Sábado
+200547;Henrique Ibrahim;Pista;Sábado
+200019;Murilo Teixeira;Pista;Sexta
+200794;Henrique Pacheco;Pista;Domingo
+200665;João Duarte;Pista Premium;Sexta
+200879;Paula Queiroz;Arquibancada;Domingo
+200982;Paula Cardoso;Pista;Sexta
+200382;Bruno Ribeiro;Arquibancada;Sábado
+200307;Natália Queiroz;Pista Premium;Sexta
+200951;Lívia Santana;Pista;Sexta
+200177;Sofia Farias;Pista;Sábado
+200659;Paula Ibrahim;Pista;Sexta
+200419;Yuri Nogueira;Arquibancada;Sexta
+200702;Caio Moraes;Pista Premium;Sexta
+200969;Bruno Pacheco;Pista;Domingo
+200830;Murilo Haddad;Arquibancada;Sexta
+200497;Ana Gomes;Pista;Domingo
+200905;Paula Nogueira;Pista;Sexta
+200421;Henrique Queiroz;Arquibancada;Domingo
+200163;Ana Cardoso;Pista;Sexta
+200193;Sofia Nogueira;Pista;Sexta
+200320;Yuri Lacerda;Pista Premium;Domingo
+200995;Carla Barbosa;Pista;Sábado
+200486;Felipe Lacerda;Camarote;Sábado
+200562;Bruno Ibrahim;Arquibancada;Sexta
+200469;Rafael Nogueira;Camarote;Domingo
+200471;Lívia Lacerda;Camarote;Sábado
+200368;Vitória Duarte;Pista Premium;Sexta
+200808;Larissa Santana;Arquibancada;Sábado
+200206;Otávio Esteves;Camarote;Sábado
+200352;Natália Vasconcelos;Arquibancada;Domingo
+200283;Natália Farias;Pista;Sexta
+200848;Larissa Gomes;Pista Premium;Sábado
+200896;Bruno Vasconcelos;Pista;Domingo
+200369;Felipe Ribeiro;Arquibancada;Sábado
+200891;Felipe Teixeira;Pista;Sábado
+200155;Otávio Lacerda;Pista;Sábado
+200521;Isabela Pacheco;Arquibancada;Sexta
+200228;Gabriela Cardoso;Arquibancada;Domingo
+200727;Diego Ibrahim;Pista;Sexta
+200482;Yuri Queiroz;Pista Premium;Domingo
+200249;Natália Moraes;Pista Premium;Domingo
+200643;Larissa Esteves;Pista;Sexta
+200012;Murilo Queiroz;Pista;Sábado
+200954;Tiago Oliveira;Pista;Domingo
+200326;Rafael Oliveira;Pista;Sexta
+200903;Elisa Ibrahim;Pista;Sexta
+200649;João Ribeiro;Pista Premium;Domingo
+200349;Felipe Lacerda;Arquibancada;Sexta
+200272;Tiago Lacerda;Pista;Sexta
+200527;Lívia Jardim;Pista Premium;Domingo
+200815;Marcos Farias;Pista;Sexta
+200567;Larissa Pacheco;Arquibancada;Domingo
+200184;Beatriz Haddad;Pista Premium;Sexta
+200092;Larissa Nogueira;Arquibancada;Sábado
+200608;Natália Gomes;Arquibancada;Domingo
+200642;Vitória Barbosa;Pista;Sexta
+200867;Felipe Gomes;Pista Premium;Domingo
+200752;Yuri Oliveira;Arquibancada;Sábado
+200793;Bruno Moraes;Arquibancada;Sexta
+200950;Gabriela Vasconcelos;Arquibancada;Domingo
+200491;Carla Teixeira;Camarote;Domingo
+200686;Otávio Duarte;Pista Premium;Domingo
+200777;Henrique Vasconcelos;Camarote;Sexta
+200017;Otávio Oliveira;Camarote;Sábado
+200760;Carla Esteves;Camarote;Sábado
+200234;Marcos Queiroz;Pista Premium;Sexta
+200152;Vitória Duarte;Pista Premium;Domingo
+200262;Larissa Ibrahim;Pista;Sábado
+200407;Vitória Nogueira;Pista;Sábado
+200569;Elisa Jardim;Camarote;Sábado
+200555;Tiago Barbosa;Arquibancada;Sábado
+200865;Natália Duarte;Pista;Sábado
+200696;Sofia Barbosa;Pista;Sábado
+200714;Tiago Gomes;Pista;Sexta
+200188;Vitória Pacheco;Arquibancada;Sábado
+200735;Carla Almeida;Arquibancada;Domingo
+200225;Gabriela Esteves;Pista;Sexta
+200679;Elisa Oliveira;Arquibancada;Domingo
+200432;Ana Vasconcelos;Pista;Sexta
+200246;Diego Nogueira;Camarote;Domingo
+200387;Lívia Jardim;Pista;Sexta
+200394;Elisa Queiroz;Pista;Sábado
+200847;Henrique Nogueira;Arquibancada;Domingo
+200894;Felipe Haddad;Pista;Domingo
+200130;Felipe Ibrahim;Pista;Sábado
+200593;Felipe Vasconcelos;Camarote;Sábado
+200435;Felipe Jardim;Camarote;Sábado
+200030;Tiago Duarte;Pista;Sexta
+200310;Diego Pacheco;Arquibancada;Sexta
+200672;Paula Esteves;Pista Premium;Domingo
+200885;Rafael Farias;Arquibancada;Sexta
+200612;Lívia Barbosa;Pista;Domingo
+200363;Henrique Pacheco;Arquibancada;Sexta
+200536;Lívia Ibrahim;Pista;Domingo
+200129;Murilo Pacheco;Pista;Sábado
+200745;Gabriela Oliveira;Camarote;Sábado
+200122;Vitória Almeida;Camarote;Sábado
+200720;Caio Esteves;Pista;Domingo
+200908;Beatriz Moraes;Pista Premium;Domingo
+200167;Yuri Barbosa;Camarote;Domingo
+200116;Carla Oliveira;Pista;Sábado
+200058;Beatriz Almeida;Arquibancada;Sábado
+200755;Gabriela Pacheco;Pista Premium;Sábado
+200203;Henrique Vasconcelos;Camarote;Domingo
+200351;Marcos Teixeira;Pista Premium;Domingo
+200556;Natália Moraes;Pista Premium;Sábado
+200874;Natália Ibrahim;Pista Premium;Sábado
+200600;Sofia Santana;Pista Premium;Sábado
+200327;Rafael Pacheco;Arquibancada;Sábado
+200427;Lívia Duarte;Pista;Sexta
+200305;Tiago Esteves;Pista;Sábado
+200758;Tiago Lacerda;Pista;Sexta
+200297;Marcos Barbosa;Arquibancada;Sexta
+200826;Marcos Haddad;Arquibancada;Sábado
+200712;Rafael Vasconcelos;Pista Premium;Sábado
+200289;Vitória Duarte;Pista;Sexta
+200025;Yuri Pacheco;Pista;Sexta
+200448;Murilo Queiroz;Pista;Domingo
+200060;Gabriela Nogueira;Pista Premium;Sábado
+200785;Beatriz Duarte;Pista;Sexta
+200774;Lívia Ribeiro;Arquibancada;Sábado
+200930;Larissa Gomes;Arquibancada;Sábado
+200258;Vitória Teixeira;Arquibancada;Domingo
+200698;Sofia Almeida;Pista;Domingo
+200514;Yuri Esteves;Pista;Domingo
+200384;Sofia Haddad;Pista;Sábado
+200756;Natália Gomes;Pista Premium;Sábado
+200839;Otávio Vasconcelos;Pista Premium;Domingo
+200693;Henrique Duarte;Arquibancada;Sábado
+200437;Caio Esteves;Pista;Sábado
+200474;Yuri Nogueira;Pista Premium;Sexta
+200609;Natália Teixeira;Arquibancada;Sexta
+200221;Gabriela Farias;Pista;Domingo
+200623;Murilo Nogueira;Pista Premium;Sábado
+200324;Yuri Oliveira;Pista Premium;Domingo
+200414;Bruno Lacerda;Pista;Domingo
+200039;Caio Almeida;Arquibancada;Sexta
+200630;Rafael Gomes;Pista Premium;Sexta
+200732;Bruno Santana;Pista Premium;Sábado
+200671;Sofia Pacheco;Arquibancada;Sexta
+200641;Beatriz Ibrahim;Arquibancada;Sexta
+200622;Rafael Barbosa;Pista;Sexta
+200467;Lívia Ribeiro;Pista;Sábado
+200880;Isabela Haddad;Pista;Sábado
+200359;Natália Lacerda;Pista;Sábado
+200591;Tiago Moraes;Pista;Sexta
+200575;Larissa Teixeira;Pista;Domingo
+200703;Felipe Jardim;Arquibancada;Sábado
+200833;Caio Santana;Arquibancada;Sexta
+200126;Carla Farias;Arquibancada;Sexta
+200318;Vitória Moraes;Arquibancada;Domingo
+200024;Beatriz Cardoso;Pista;Domingo
+200241;Marcos Santana;Arquibancada;Sexta
+200792;Isabela Santana;Pista;Domingo
+200059;Tiago Cardoso;Arquibancada;Sexta
+200016;Yuri Queiroz;Pista;Sexta
+200859;Vitória Ibrahim;Pista;Sexta
+200264;Felipe Vasconcelos;Camarote;Domingo
+200940;Diego Nogueira;Pista;Sábado
+200932;Yuri Esteves;Pista;Domingo
+200065;Marcos Moraes;Arquibancada;Domingo
+200263;Felipe Gomes;Pista Premium;Sábado
+200268;Ana Santana;Pista;Sexta
+200166;Otávio Esteves;Pista Premium;Sábado
+200323;João Pacheco;Pista Premium;Sexta
+200299;Murilo Vasconcelos;Pista;Sábado
+200066;Vitória Esteves;Pista;Sábado
+200958;Henrique Moraes;Pista;Sexta
+200284;Paula Barbosa;Pista Premium;Domingo
+200322;Tiago Ibrahim;Arquibancada;Sexta
+200519;Lívia Barbosa;Pista;Sábado
+200922;Henrique Nogueira;Arquibancada;Sábado
+200646;Henrique Lacerda;Pista;Sábado
+200935;João Duarte;Pista;Sábado
+200190;Murilo Ribeiro;Pista;Sábado
+200740;Ana Teixeira;Pista;Sexta
+200365;Isabela Haddad;Pista;Domingo
+200778;Tiago Lacerda;Pista;Sexta
+200062;Gabriela Ibrahim;Pista;Sexta
+200701;Ana Vasconcelos;Pista Premium;Sexta
+200931;Isabela Santana;Pista Premium;Domingo
+200176;Carla Haddad;Arquibancada;Domingo
+200447;Isabela Ribeiro;Arquibancada;Sexta
+200099;Tiago Pacheco;Arquibancada;Domingo
+200271;Tiago Santana;Arquibancada;Domingo
+200104;Rafael Duarte;Arquibancada;Domingo
+200136;Beatriz Moraes;Arquibancada;Sexta
+200806;Natália Oliveira;Arquibancada;Sexta
+200822;Ana Oliveira;Arquibancada;Sábado
+200981;Gabriela Lacerda;Pista;Sexta
+200577;Diego Oliveira;Pista;Sábado
+200302;Larissa Ibrahim;Pista;Sábado
+200584;Vitória Esteves;Arquibancada;Domingo
+200832;Otávio Lacerda;Arquibancada;Sexta
+200749;Diego Vasconcelos;Arquibancada;Sexta
+200582;Beatriz Oliveira;Arquibancada;Sábado
+200983;Marcos Gomes;Pista;Sexta
+200570;Tiago Duarte;Arquibancada;Sexta
+200288;Yuri Cardoso;Pista;Sexta
+200734;Beatriz Nogueira;Pista;Sexta
+200985;Isabela Haddad;Arquibancada;Sexta
+200113;Marcos Barbosa;Pista Premium;Sexta
+200222;Paula Santana;Arquibancada;Domingo
+200552;Henrique Vasconcelos;Pista;Sábado
+200811;Elisa Barbosa;Pista;Domingo
+200587;Murilo Teixeira;Pista;Sexta
+200704;Carla Esteves;Pista;Sábado
+200576;Diego Barbosa;Pista;Sexta
+200819;Tiago Barbosa;Arquibancada;Domingo
+200161;João Jardim;Pista;Sábado
+200361;Vitória Teixeira;Arquibancada;Domingo
+200028;João Lacerda;Pista;Sexta
+200187;Lívia Vasconcelos;Pista;Sábado
+200687;Murilo Barbosa;Pista;Sexta
+200946;Beatriz Gomes;Pista;Domingo
+200963;Natália Gomes;Arquibancada;Domingo
+200418;Rafael Santana;Pista Premium;Domingo
+200339;Bruno Farias;Pista;Sábado
+200872;Gabriela Barbosa;Pista;Sábado
+200466;Natália Queiroz;Arquibancada;Sábado
+200096;Ana Santana;Pista;Sábado
+200974;Rafael Nogueira;Pista;Domingo
+200237;Gabriela Vasconcelos;Pista;Sexta
+200220;Elisa Lacerda;Pista;Sexta
+200097;Carla Vasconcelos;Pista;Domingo
+200281;Larissa Haddad;Pista Premium;Domingo
+200837;Murilo Santana;Arquibancada;Sexta
+200538;Beatriz Santana;Pista;Sexta
+200816;Ana Lacerda;Arquibancada;Sexta
+200540;Diego Ibrahim;Arquibancada;Sexta
+200123;Carla Nogueira;Arquibancada;Sábado
+200456;Caio Barbosa;Pista;Sábado
+200494;Carla Gomes;Arquibancada;Domingo
+200532;Tiago Duarte;Pista;Sexta
+200913;Caio Jardim;Pista;Domingo
+200182;Ana Haddad;Arquibancada;Sábado
+200479;Vitória Vasconcelos;Arquibancada;Sábado
+200295;Gabriela Cardoso;Pista;Sexta
+200426;Elisa Haddad;Pista Premium;Sábado
+200835;Gabriela Gomes;Pista;Sexta
+200799;Felipe Teixeira;Pista;Domingo
+200911;Sofia Almeida;Pista;Domingo
+200476;Sofia Barbosa;Arquibancada;Domingo
+200270;Murilo Santana;Pista;Sábado
+200179;Beatriz Cardoso;Pista Premium;Sábado
+200353;Yuri Lacerda;Pista;Sábado
+200192;Vitória Duarte;Pista;Domingo
+200313;Isabela Queiroz;Pista;Sexta
+200393;Henrique Almeida;Pista;Sábado
+200081;Bruno Almeida;Pista;Sábado
+200425;Diego Oliveira;Arquibancada;Domingo
+200546;Murilo Nogueira;Pista;Sexta
+200436;Larissa Almeida;Pista;Sexta
+200280;Larissa Ibrahim;Pista Premium;Sexta
+201000;Natália Barbosa;Camarote;Domingo
+200191;Natália Nogueira;Pista;Sábado
+200678;Murilo Duarte;Pista;Domingo
+200165;Sofia Barbosa;Pista Premium;Sábado
+200142;Natália Haddad;Camarote;Sexta
+200530;João Nogueira;Arquibancada;Sábado
+200805;Gabriela Santana;Pista;Domingo
+200224;João Lacerda;Arquibancada;Domingo
+200543;Carla Barbosa;Arquibancada;Sábado
+200924;Larissa Almeida;Camarote;Domingo
+200133;João Moraes;Pista Premium;Domingo
+200021;Murilo Ribeiro;Pista;Domingo
+200895;Carla Barbosa;Arquibancada;Domingo
+200729;Gabriela Haddad;Pista Premium;Sábado
+200496;Vitória Cardoso;Camarote;Sábado
+200194;Paula Gomes;Pista Premium;Domingo
+200657;Lívia Cardoso;Camarote;Sexta
+200773;Isabela Pacheco;Camarote;Sábado
+200996;Bruno Cardoso;Pista;Domingo
+200050;Carla Farias;Arquibancada;Domingo
+200860;Tiago Teixeira;Pista;Sexta
+200558;Diego Esteves;Pista;Sexta
+200664;Larissa Haddad;Pista;Sexta
+200047;João Vasconcelos;Pista;Domingo
+200178;Carla Cardoso;Arquibancada;Sábado
+200663;Tiago Santana;Arquibancada;Domingo
+200201;João Santana;Arquibancada;Sábado
+200035;Paula Moraes;Arquibancada;Sábado
+200409;Ana Barbosa;Pista;Sábado
+200561;Natália Vasconcelos;Pista Premium;Sábado
+200072;Murilo Nogueira;Pista;Domingo
+200728;Sofia Santana;Pista;Sábado
+200695;Murilo Moraes;Pista;Sexta
+200239;Henrique Gomes;Arquibancada;Sábado
+200956;Natália Ribeiro;Arquibancada;Sábado
+200470;Tiago Pacheco;Pista;Sábado
+200345;Murilo Santana;Arquibancada;Sexta
+200639;Diego Cardoso;Pista Premium;Domingo
+200445;Paula Duarte;Pista;Sexta
+200212;Yuri Haddad;Pista Premium;Domingo
+200936;Rafael Queiroz;Pista Premium;Sexta
+200606;Otávio Jardim;Pista Premium;Sexta
+200158;João Duarte;Arquibancada;Domingo
+200175;Rafael Duarte;Pista;Sábado
+200825;Vitória Teixeira;Pista Premium;Sábado
+200634;Natália Esteves;Arquibancada;Sábado
+200586;Larissa Vasconcelos;Arquibancada;Sábado
+200478;Marcos Haddad;Pista;Sábado
+200510;Gabriela Duarte;Arquibancada;Sexta
+200125;João Jardim;Pista;Domingo
+200334;Lívia Barbosa;Camarote;Sexta
+200461;Sofia Ribeiro;Pista Premium;Sexta
+200311;Lívia Almeida;Pista;Sábado
+200700;Murilo Teixeira;Pista;Domingo
+200336;Lívia Vasconcelos;Pista;Domingo
+200488;Sofia Almeida;Pista;Domingo
+200523;Larissa Ibrahim;Arquibancada;Domingo
+200921;Otávio Santana;Pista;Sexta
+200027;Murilo Teixeira;Pista;Sexta
+200789;Carla Moraes;Pista;Sexta
+200362;Otávio Oliveira;Arquibancada;Sábado
+200662;Marcos Teixeira;Arquibancada;Sexta
+200356;Paula Pacheco;Pista Premium;Sexta
+200854;Larissa Pacheco;Pista;Sexta
+200053;Otávio Oliveira;Pista;Sábado
+200076;João Duarte;Pista;Sábado
+200910;Paula Lacerda;Pista Premium;Domingo
+200399;Lívia Haddad;Pista Premium;Sexta
+200109;Rafael Cardoso;Pista;Sábado
+200999;Lívia Ibrahim;Pista Premium;Sábado
+200386;Yuri Haddad;Pista Premium;Sábado
+200202;Bruno Queiroz;Pista;Domingo
+200827;Marcos Gomes;Arquibancada;Domingo
+200533;Diego Teixeira;Pista Premium;Domingo
+200153;Tiago Vasconcelos;Pista Premium;Sexta
+200828;Felipe Vasconcelos;Camarote;Sexta
+200400;Sofia Jardim;Pista Premium;Domingo
+200422;Felipe Cardoso;Pista;Sexta
+200520;Tiago Pacheco;Pista;Sábado
+200314;Carla Esteves;Pista;Sexta
+200601;João Vasconcelos;Pista;Sexta
+200937;Diego Duarte;Pista;Domingo
+200802;Sofia Santana;Camarote;Sábado
+200803;Otávio Vasconcelos;Pista;Sexta
+200962;Bruno Ibrahim;Arquibancada;Domingo
+200164;Tiago Farias;Pista Premium;Sábado
+200979;Larissa Pacheco;Arquibancada;Sábado
+200428;Lívia Jardim;Pista Premium;Sábado
+200087;Lívia Oliveira;Camarote;Domingo
+200298;Caio Nogueira;Camarote;Domingo
+200517;Yuri Pacheco;Pista;Sexta
+200710;Tiago Esteves;Pista;Sexta
+200898;Otávio Nogueira;Camarote;Domingo
+200613;Caio Queiroz;Camarote;Sexta
+200135;Otávio Vasconcelos;Pista;Sábado
+200603;Henrique Teixeira;Pista;Sexta
+200485;Ana Cardoso;Arquibancada;Sexta
+200229;Henrique Almeida;Arquibancada;Domingo
+200559;Yuri Oliveira;Pista Premium;Sexta
+200139;João Cardoso;Arquibancada;Sábado
+200961;Paula Gomes;Pista Premium;Sexta
+200738;Diego Vasconcelos;Arquibancada;Sexta
+200707;Henrique Santana;Pista;Domingo
+200504;Larissa Almeida;Camarote;Sábado
+200882;João Esteves;Pista;Sexta
+200949;Murilo Ribeiro;Pista Premium;Domingo
+200788;Elisa Gomes;Pista;Sábado
+200589;Bruno Haddad;Pista;Sábado
+200598;Marcos Esteves;Pista;Sábado
+200681;Larissa Esteves;Camarote;Domingo
+200321;Ana Queiroz;Pista;Sexta
+200006;Henrique Ribeiro;Camarote;Sexta
+200159;Paula Vasconcelos;Pista Premium;Domingo
+200366;Henrique Ribeiro;Pista;Sábado
+200651;Yuri Jardim;Pista;Sábado
+200776;Tiago Nogueira;Pista;Sexta
+200685;Marcos Nogueira;Pista Premium;Domingo
+200275;Rafael Moraes;Pista;Sexta
+200980;Natália Pacheco;Pista Premium;Domingo
+200994;Felipe Nogueira;Pista;Sábado
+200770;Diego Teixeira;Pista Premium;Sexta
+200046;Rafael Ibrahim;Pista Premium;Sexta
+200636;Henrique Lacerda;Pista;Sábado
+200124;Henrique Esteves;Pista;Sexta
+200254;Diego Almeida;Pista;Sábado
+200204;Larissa Nogueira;Arquibancada;Sexta
+200813;Beatriz Ibrahim;Arquibancada;Domingo
+200625;Henrique Farias;Pista;Sábado
+200086;Diego Gomes;Pista;Sexta
+200857;Carla Lacerda;Arquibancada;Sábado
+200955;Otávio Nogueira;Pista;Sábado
+200560;João Jardim;Pista;Sexta
+200595;Ana Moraes;Arquibancada;Sábado
+200463;Otávio Esteves;Pista;Sexta
+200001;Caio Pacheco;Arquibancada;Sexta
+200095;Larissa Vasconcelos;Camarote;Sábado
+200015;Yuri Cardoso;Camarote;Sábado
+200939;Felipe Esteves;Pista;Domingo

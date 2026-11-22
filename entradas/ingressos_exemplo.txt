@@ -1,0 +1,16 @@
+3080;Diego Lacerda;Arquibancada;Domingo
+3090;Beatriz Duarte;Pista;Domingo
+3030;Yuri Santana;Pista Premium;Domingo
+3095;Rita Monteiro;Pista
+3110;Tiago Queiroz;Arquibancada;Sábado
+3050;Henrique Almeida;Arquibancada;Sexta
+3O45;Leandro Pires;Pista;Sexta
+3070;Diego Jardim;Pista;Sábado
+
+3060;Ana Queiroz;Camarote;Sábado
+3040;Gabriela Nogueira;Pista;Sábado
+3050;Fábio Prado;Camarote;Sábado
+3020;Marcos Nogueira;Arquibancada;Domingo
+3075;Gil Rocha;Pista;Domingo;Cortesia
+3100;Carla Lacerda;Pista;Domingo
+3010;Tiago Jardim;Pista;Sábado

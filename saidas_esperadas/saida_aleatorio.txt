@@ -1,0 +1,49 @@
+========== FESTIVAL RAÍZES · CHECK-IN ==========
+1) Carregar arquivo      2) Check-in
+3) Venda na portaria     4) Cancelamento
+5) Consulta por faixa    6) Painel
+7) Sair
+Opção: 1
+Arquivo: ingressos_aleatorio.txt
+  Carga concluída: 1000 ingressos carregados, 0 linhas ignoradas.
+
+Opção: 6
+  Ingressos cadastrados: 1000
+  Altura ABB: 23 | Altura AVL: 12
+  Raiz da AVL: 200535 (fb = 0)
+  Rotações: RSE = 106 | RSD = 127 | RDE = 117 | RDD = 114
+  Check-ins: 0 realizados | 1000 restantes
+
+Opção: 2
+Código: 200640
+  VÁLIDO: Tiago Moraes | Pista | Domingo
+  Comparações: AVL = 6 | ABB = 1
+
+Opção: 2
+Código: 200500
+  VÁLIDO: Carla Ribeiro | Pista Premium | Domingo
+  Comparações: AVL = 9 | ABB = 10
+
+Opção: 2
+Código: 201000
+  VÁLIDO: Natália Barbosa | Camarote | Domingo
+  Comparações: AVL = 10 | ABB = 8
+
+Opção: 2
+Código: 201001
+  INVÁLIDO: código 201001 inexistente
+  Comparações: AVL = 10 | ABB = 8
+
+Opção: 5
+Início da faixa: 200498
+Fim da faixa: 200503
+  200498 | Bruno Duarte | Pista Premium | Domingo
+  200499 | Sofia Nogueira | Camarote | Sexta
+  200500 | Carla Ribeiro | Pista Premium | Domingo | já entrou
+  200501 | Paula Santana | Pista | Sábado
+  200502 | Beatriz Haddad | Pista | Domingo
+  200503 | Larissa Esteves | Arquibancada | Sábado
+  6 ingresso(s) entre 200498 e 200503.
+
+Opção: 7
+  Até o próximo festival!

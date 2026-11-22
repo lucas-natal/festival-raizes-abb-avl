@@ -1,0 +1,12 @@
+1800;Natália Jardim;Arquibancada;Domingo
+900;Sofia Queiroz;Pista Premium;Sábado
+2300;Gabriela Jardim;Pista;Sexta
+600;Bruno Esteves;Camarote;Domingo
+1200;Paula Ribeiro;Arquibancada;Sábado
+2200;Gabriela Ibrahim;Arquibancada;Sábado
+2700;Otávio Santana;Camarote;Sexta
+1700;João Lacerda;Arquibancada;Sexta
+1900;Isabela Pacheco;Pista;Sábado
+2600;Murilo Queiroz;Pista;Domingo
+2800;Isabela Queiroz;Pista Premium;Sexta
+3400;Gabriela Oliveira;Pista;Sábado

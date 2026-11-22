@@ -1,0 +1,71 @@
+========== FESTIVAL RAÍZES · CHECK-IN ==========
+1) Carregar arquivo      2) Check-in
+3) Venda na portaria     4) Cancelamento
+5) Consulta por faixa    6) Painel
+7) Sair
+Opção: 1
+Arquivo: ingressos_exemplo.txt
+  Aviso: linha 4 ignorada (3 campos; esperado 4)
+  Aviso: linha 7 ignorada (código não numérico: "3O45")
+  Aviso: linha 9 ignorada (linha vazia)
+  Aviso: linha 12 ignorada (código 3050 repetido)
+  Aviso: linha 14 ignorada (5 campos; esperado 4)
+  Carga concluída: 11 ingressos carregados, 5 linhas ignoradas.
+
+Opção: 6
+  Ingressos cadastrados: 11
+  Altura ABB: 5 | Altura AVL: 4
+  Raiz da AVL: 3050 (fb = 0)
+  Rotações: RSE = 1 | RSD = 1 | RDE = 1 | RDD = 0
+  Check-ins: 0 realizados | 11 restantes
+
+Opção: 2
+Código: 3060
+  VÁLIDO: Ana Queiroz | Camarote | Sábado
+  Comparações: AVL = 4 | ABB = 5
+
+Opção: 2
+Código: 3060
+  ALERTA: ingresso 3060 JÁ UTILIZADO (Ana Queiroz)
+  Comparações: AVL = 4 | ABB = 5
+
+Opção: 2
+Código: 3065
+  INVÁLIDO: código 3065 inexistente
+  Comparações: AVL = 4 | ABB = 5
+
+Opção: 3
+Nome: Marina Alves
+Setor: Pista
+Dia: Sábado
+  Ingresso 3111 emitido para Marina Alves | Pista | Sábado
+  Rotações na AVL: nenhuma
+
+Opção: 4
+Código: 3060
+  Ingresso 3060 já foi usado na entrada; não pode ser cancelado.
+
+Opção: 4
+Código: 3030
+  Ingresso 3030 (Yuri Santana) cancelado.
+  Rotações na AVL: RSD no 3040, RSE no 3050
+
+Opção: 5
+Início da faixa: 3035
+Fim da faixa: 3085
+  3040 | Gabriela Nogueira | Pista | Sábado
+  3050 | Henrique Almeida | Arquibancada | Sexta
+  3060 | Ana Queiroz | Camarote | Sábado | já entrou
+  3070 | Diego Jardim | Pista | Sábado
+  3080 | Diego Lacerda | Arquibancada | Domingo
+  5 ingresso(s) entre 3035 e 3085.
+
+Opção: 6
+  Ingressos cadastrados: 11
+  Altura ABB: 5 | Altura AVL: 4
+  Raiz da AVL: 3080 (fb = 0)
+  Rotações: RSE = 2 | RSD = 2 | RDE = 1 | RDD = 0
+  Check-ins: 1 realizados | 10 restantes
+
+Opção: 7
+  Até o próximo festival!

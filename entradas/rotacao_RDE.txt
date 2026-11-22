@@ -1,0 +1,3 @@
+5010;Sofia Almeida;Arquibancada;Sexta
+5030;Elisa Barbosa;Arquibancada;Domingo
+5020;Diego Vasconcelos;Pista Premium;Sábado
